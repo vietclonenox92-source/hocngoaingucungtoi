@@ -202,10 +202,13 @@
             currentFileName = selectEl.value;
             const storageKey = `web_quiz_${currentLang}_${currentFileName}`;
             
-            // Nếu máy chưa có dữ liệu bài này, tải từ Server về
-            if (!localStorage.getItem(storageKey)) {
-                document.getElementById("question").innerText = "Đang tải dữ liệu từ Server...";
-                const textData = await loadDataFromServer(currentLang, currentFileName);
+            document.getElementById("question").innerText = "Đang tải dữ liệu...";
+            hideChoices(); 
+            
+            // ÉP BUỘC luôn tải mới từ GitHub Server để cập nhật code lọc số
+            const textData = await loadDataFromServer(currentLang, currentFileName);
+            
+            if (textData && !textData.startsWith("LỖI")) {
                 localStorage.setItem(storageKey, textData);
             }
 
