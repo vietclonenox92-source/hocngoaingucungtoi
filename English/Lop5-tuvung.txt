@@ -1,0 +1,300 @@
+﻿1. Nationality | Ngôn ngữ | Địa điểm | Tên tuổi | Quốc tịch
+2. Hometown | Đất nước | Thành phố | Ngôi làng | Quê hương
+3. Address | Tên | Tuổi | Nghề nghiệp | Địa chỉ
+4. Festival | Môn học | Hoạt động | Đồ ăn | Lễ hội
+5. Celebrate | Tổ chức | Tham gia | Chuẩn bị | Ăn mừng
+6. Decoration | Quà tặng | Trang phục | Món ăn | Sự trang trí
+7. Parade | Bữa tiệc | Trò chơi | Âm nhạc | Cuộc diễu hành
+8. Firework | Tiếng hát | Điệu múa | Trò chơi | Pháo hoa
+9. Experience | Kiến thức | Kỹ năng | Cảm xúc | Kinh nghiệm
+10. Vacation | Bài tập | Hoạt động | Môn học | Kỳ nghỉ
+11. Destination | Điểm xuất phát | Phương tiện | Thời gian | Điểm đến
+12. Souvenir | Quần áo | Đồ ăn | Trò chơi | Quà lưu niệm
+13. Heritage | Di sản | Lễ hội | Kiến trúc | Di sản (văn hóa/lịch sử)
+14. Monument | Bảo tàng | Công viên | Nhà hát | Đài tưởng niệm
+15. Scenery | Thời tiết | Môi trường | Con người | Phong cảnh
+16. Biology | Vật lý | Toán | Ngữ văn | Sinh học
+17. Chemistry | Địa lý | Tin học | Lịch sử | Hóa học
+18. Physics | Âm nhạc | Mỹ thuật | Thể dục | Vật lý
+19. Geography | Toán | Văn | Sinh học | Địa lý
+20. Information | Kiến thức | Dữ liệu | Câu hỏi | Thông tin
+21. Technology | Môn học | Máy móc | Thiết bị | Công nghệ
+22. Experiment | Bài tập | Dự án | Lý thuyết | Thí nghiệm
+23. Discovery | Phát minh | Nghiên cứu | Sáng tạo | Khám phá
+24. Invention | Khám phá | Nghiên cứu | Thí nghiệm | Phát minh
+25. Research | Bài tập | Dự án | Thí nghiệm | Nghiên cứu
+26. Environment | Thời tiết | Địa lý | Sinh vật | Môi trường
+27. Pollution | Thời tiết | Khí hậu | Thiên nhiên | Sự ô nhiễm
+28. Recycle | Vứt bỏ | Sử dụng | Mua sắm | Tái chế
+29. Energy | Năng lượng | Không gian | Thời gian | Năng lượng
+30. Climate | Thời tiết | Môi trường | Địa lý | Khí hậu
+31. Species | Môi trường | Con người | Đồ vật | Loài
+32. Evolution | Khám phá | Nghiên cứu | Phát triển | Sự tiến hóa
+33. Organism | Tế bào | Thực vật | Động vật | Sinh vật
+34. Habitat | Khí hậu | Môi trường | Địa điểm | Môi trường sống
+35. Conservation | Môi trường | Khí hậu | Nghiên cứu | Sự bảo tồn
+36. Vocabulary | Ngữ pháp | Bài tập | Câu văn | Từ vựng
+37. Grammar | Từ vựng | Bài tập | Câu văn | Ngữ pháp
+38. Communication | Giao tiếp | Hoạt động | Môn học | Sự giao tiếp
+39. Presentation | Thảo luận | Bài tập | Kiểm tra | Bài thuyết trình
+40. Discussion | Thuyết trình | Kiểm tra | Bài tập | Sự thảo luận
+41. Assignment | Bài kiểm tra | Bài thi | Câu hỏi | Bài tập được giao
+42. Achievement | Thất bại | Nỗ lực | Ý định | Thành tựu
+43. Challenge | Thành công | Ý định | Thất bại | Thử thách
+44. Opportunity | Thử thách | Ý định | Thành tựu | Cơ hội
+45. Motivation | Thử thách | Cơ hội | Ý tưởng | Động lực
+46. Personality | Cảm xúc | Ngoại hình | Sở thích | Tính cách
+47. Confident | Nhút nhát | Lười biếng | Chăm chỉ | Tự tin
+48. Diligent | Lười biếng | Sáng tạo | Dũng cảm | Chăm chỉ
+49. Creative | Lười biếng | Nhút nhát | Cũ kỹ | Sáng tạo
+50. Generous | Keo kiệt | Lười biếng | Nhút nhát | Hào phóng
+51. Honest | Dối trá | Lười biếng | Nhút nhát | Trung thực
+52. Responsibility | Quyền lợi | Nghĩa vụ | Sở thích | Trách nhiệm
+53. Cooperation | Sự cạnh tranh | Sự tranh cãi | Sự đối lập | Sự hợp tác
+54. Independence | Phụ thuộc | Nhút nhát | Lười biếng | Sự độc lập
+55. Potential | Thành tựu | Thử thách | Cơ hội | Tiềm năng
+56. Economy | Tiền tệ | Thị trường | Thương mại | Kinh tế
+57. Industry | Công nghệ | Dịch vụ | Sản xuất | Công nghiệp
+58. Production | Công nghiệp | Dịch vụ | Công nghệ | Sự sản xuất
+59. Government | Chính trị | Công nghệ | Công nghiệp | Chính phủ
+60. Justice | Pháp luật | Chính phủ | Công nghiệp | Công lý
+61. Individual | Gia đình | Cộng đồng | Xã hội | Cá nhân
+62. Community | Gia đình | Cá nhân | Xã hội | Cộng đồng
+63. Society | Gia đình | Cá nhân | Cộng đồng | Xã hội
+64. Tradition | Văn hóa | Lịch sử | Địa lý | Truyền thống
+65. Culture | Lịch sử | Địa lý | Văn hóa | Văn hóa
+66. Astronomy | Sinh học | Vật lý | Hóa học | Thiên văn học
+67. Galaxy | Vũ trụ | Hành tinh | Ngôi sao | Thiên hà
+68. Planet | Thiên hà | Vũ trụ | Ngôi sao | Hành tinh
+69. Gravity | Vận tốc | Khoảng cách | Thời gian | Trọng lực
+70. Distance | Trọng lực | Vận tốc | Thời gian | Khoảng cách
+71. Velocity | Trọng lực | Khoảng cách | Thời gian | Vận tốc
+72. Architecture | Xây dựng | Thiết kế | Mỹ thuật | Kiến trúc
+73. Structure | Thiết kế | Xây dựng | Mỹ thuật | Cấu trúc
+74. Decoration | Mỹ thuật | Kiến trúc | Xây dựng | Sự trang trí
+75. Innovation | Phát minh | Khám phá | Nghiên cứu | Sự đổi mới
+76. Progress | Thất bại | Thử thách | Khó khăn | Sự tiến bộ
+77. Ability | Tài năng | Kỹ năng | Kiến thức | Khả năng
+78. Logic | Tư duy | Suy luận | Sáng tạo | Lô-gic
+79. Strategy | Kế hoạch | Dự án | Ý tưởng | Chiến lược
+80. Conclusion | Bắt đầu | Dự án | Suy luận | Kết luận
+81. Evidence | Suy luận | Dự án | Kế hoạch | Bằng chứng
+82. Purpose | Ý tưởng | Chiến lược | Kết luận | Mục đích
+83. Comparison | Kết luận | Bằng chứng | Mục đích | Sự so sánh
+84. Analysis | So sánh | Kết luận | Bằng chứng | Sự phân tích
+85. Creativity | Sự so sánh | Sự phân tích | Mục đích | Sự sáng tạo
+86. Discipline | Kỷ luật | Trách nhiệm | Động lực | Tính kỷ luật
+87. Curiosity | Sự sáng tạo | Kỷ luật | Động lực | Sự tò mò
+88. Empathy | Cảm xúc | Sự sáng tạo | Kỷ luật | Sự đồng cảm
+89. Integrity | Sự đồng cảm | Kỷ luật | Sự sáng tạo | Sự chính trực
+90. Resilience | Sự chính trực | Sự đồng cảm | Sự sáng tạo | Sự kiên cường
+91. Perspective | Sự kiên cường | Sự chính trực | Sự đồng cảm | Quan điểm
+92. Ambition | Thành tựu | Thử thách | Cơ hội | Tham vọng
+93. Professional | Cá nhân | Cộng đồng | Xã hội | Chuyên nghiệp
+94. Theoretical | Thực tế | Ứng dụng | Nghiên cứu | Lý thuyết
+95. Practical | Lý thuyết | Ứng dụng | Nghiên cứu | Thực tiễn
+96. Essential | Quan trọng | Không cần thiết | Có thể | Cần thiết/thiết yếu
+97. Significant | Cần thiết | Không quan trọng | Có thể | Có ý nghĩa/quan trọng
+98. Sustainable | Lâu dài | Tạm thời | Không thể | Bền vững
+99. Universal | Địa phương | Cá nhân | Cộng đồng | Phổ quát/toàn cầu
+100. Harmony | Sự đối lập | Sự tranh cãi | Sự cạnh tranh | Sự hài hòa
+101. Adventure | Học tập | Làm việc | Nghỉ ngơi | Cuộc phiêu lưu
+102. Appreciate | Ghét bỏ | Phớt lờ | Phê phán | Đánh giá cao
+103. Attitude | Kỹ năng | Kiến thức | Trình độ | Thái độ
+104. Balance | Thay đổi | Di chuyển | Rơi ngã | Sự cân bằng
+105. Behavior | Cảm xúc | Suy nghĩ | Hành động | Cách cư xử
+106. Benefit | Rủi ro | Thiệt hại | Khó khăn | Lợi ích
+107. Boundary | Trung tâm | Khoảng cách | Kết nối | Ranh giới
+108. Capacity | Nhu cầu | Thiếu hụt | Khoảng trống | Sức chứa/Khả năng
+109. Career | Sở thích | Kỳ nghỉ | Môn học | Sự nghiệp
+110. Celebrate | Làm việc | Học tập | Nghỉ ngơi | Tổ chức ăn mừng
+111. Challenge | Hỗ trợ | Giúp đỡ | Thuận lợi | Thử thách
+112. Character | Ngoại hình | Trang phục | Màu sắc | Nhân vật/Tính cách
+113. Choice | Sự bắt buộc | Sự ngẫu nhiên | Sự từ chối | Sự lựa chọn
+114. Circumstance | Kết quả | Nguyên nhân | Mục đích | Hoàn cảnh
+115. Civilization | Thiên nhiên | Hoang dã | Động vật | Nền văn minh
+116. Collection | Sự phân loại | Sự loại bỏ | Sự bán đi | Bộ sưu tập
+117. Comfortable | Khó chịu | Mệt mỏi | Đau đớn | Thoải mái
+118. Commitment | Sự từ chối | Sự thay đổi | Sự lười biếng | Sự cam kết
+119. Communicate | Lắng nghe | Viết lách | Đọc sách | Giao tiếp
+120. Competition | Hợp tác | Giúp đỡ | Đoàn kết | Sự cạnh tranh
+121. Complaint | Lời khen | Sự đồng ý | Sự cảm ơn | Lời phàn nàn
+122. Complex | Đơn giản | Cơ bản | Dễ dàng | Phức tạp
+123. Component | Kết quả | Sản phẩm | Nguyên liệu | Thành phần
+124. Concentrate | Phân tâm | Lười biếng | Bỏ cuộc | Tập trung
+125. Condition | Kết quả | Nguyên nhân | Mục đích | Điều kiện
+126. Confidence | Lo âu | Sợ hãi | Nghi ngờ | Sự tự tin
+127. Connection | Sự tách rời | Sự ngăn cách | Sự phân loại | Sự kết nối
+128. Consequence | Nguyên nhân | Mục đích | Khởi đầu | Hậu quả
+129. Consider | Phớt lờ | Từ chối | Quên lãng | Cân nhắc
+130. Construction | Phá hủy | Dọn dẹp | Cất giữ | Sự xây dựng
+131. Contentment | Lo âu | Tham vọng | Ghen tị | Sự hài lòng
+132. Contribute | Lấy đi | Cất giữ | Phá hủy | Đóng góp
+133. Control | Phụ thuộc | Tự do | Buông thả | Sự kiểm soát
+134. Convert | Giữ nguyên | Từ chối | Phá hủy | Chuyển đổi
+135. Courage | Sợ hãi | Nhút nhát | Lo âu | Lòng dũng cảm
+136. Create | Phá hủy | Lãng quên | Ngừng lại | Tạo ra
+137. Critical | Dễ dãi | Khen ngợi | Hài lòng | Quan trọng/Phê bình
+138. Curiosity | Thờ ơ | Lười biếng | Ngủ quên | Sự tò mò
+139. Current | Cũ kỹ | Quá khứ | Tương lai | Hiện tại
+140. Custom | Hiện đại | Mới lạ | Lạ lẫm | Phong tục
+141. Danger | An toàn | Thuận lợi | Hỗ trợ | Sự nguy hiểm
+142. Debate | Đồng ý | Hợp tác | Im lặng | Cuộc tranh luận
+143. Decision | Sự do dự | Sự lãng quên | Sự từ chối | Sự quyết định
+144. Defend | Tấn công | Từ bỏ | Chạy trốn | Bảo vệ
+145. Define | Phá hủy | Lãng quên | Ngừng lại | Định nghĩa
+146. Demand | Cung cấp | Chia sẻ | Tặng quà | Nhu cầu/Yêu cầu
+147. Demonstrate | Phớt lờ | Từ chối | Quên lãng | Chứng minh
+148. Describe | Che giấu | Phá hủy | Ngừng lại | Mô tả
+149. Design | Phá hủy | Lãng quên | Ngừng lại | Thiết kế
+150. Destroy | Tạo ra | Xây dựng | Bảo vệ | Phá hủy
+151. Detail | Tổng thể | Khái quát | Cơ bản | Chi tiết
+152. Determine | Do dự | Từ bỏ | Ngừng lại | Xác định
+153. Develop | Ngừng lại | Phá hủy | Lãng quên | Phát triển
+154. Difference | Giống nhau | Bằng nhau | Tương đồng | Sự khác biệt
+155. Difficulty | Dễ dàng | Thuận lợi | Hỗ trợ | Khó khăn
+156. Direction | Lạc lối | Tự do | Ngừng lại | Hướng đi
+157. Disappear | Xuất hiện | Tồn tại | Còn lại | Biến mất
+158. Discipline | Tự do | Buông thả | Lười biếng | Kỷ luật
+159. Discover | Che giấu | Phá hủy | Ngừng lại | Khám phá
+160. Discuss | Im lặng | Từ chối | Quên lãng | Thảo luận
+161. Distinguish | Nhầm lẫn | Gộp chung | Bỏ qua | Phân biệt
+162. Distribute | Thu gom | Giữ lại | Cất giữ | Phân phối
+163. Diversity | Sự giống nhau | Sự đơn điệu | Sự trùng lặp | Sự đa dạng
+164. Document | Tranh ảnh | Đồ vật | Sự kiện | Tài liệu
+165. Domestic | Quốc tế | Ngoài nước | Nước ngoài | Nội địa
+166. Dramatic | Nhẹ nhàng | Đơn giản | Bình thường | Kịch tính
+167. Durable | Mỏng manh | Dễ vỡ | Tạm thời | Bền vững
+168. Education | Sự vui chơi | Sự nghỉ ngơi | Sự giải trí | Giáo dục
+169. Effective | Vô ích | Lãng phí | Thất bại | Hiệu quả
+170. Efficient | Lãng phí | Chậm chạp | Thất bại | Năng suất
+171. Effort | Lười biếng | Nhút nhát | Thờ ơ | Nỗ lực
+172. Element | Tổng thể | Khái quát | Phức tạp | Nguyên tố
+173. Emergency | Bình thường | Thuận lợi | Hỗ trợ | Khẩn cấp
+174. Emotion | Sự logic | Sự lạnh lùng | Sự thờ ơ | Cảm xúc
+175. Emphasis | Sự bỏ qua | Sự phớt lờ | Sự quên lãng | Sự nhấn mạnh
+176. Employ | Sa thải | Nghỉ việc | Tự do | Thuê làm
+177. Encounter | Tránh né | Phớt lờ | Quên lãng | Cuộc chạm trán
+178. Encourage | Ngăn cản | Phê phán | Từ bỏ | Khuyến khích
+179. Endure | Từ bỏ | Ngừng lại | Lãng quên | Chịu đựng
+180. Energy | Sự mệt mỏi | Sự yếu ớt | Sự lười biếng | Năng lượng
+181. Enhance | Làm xấu đi | Giảm bớt | Hủy bỏ | Nâng cao
+182. Enterprise | Sự nghỉ ngơi | Sự lười biếng | Sự giải trí | Doanh nghiệp
+183. Entertain | Làm phiền | Làm buồn | Lãng quên | Giải trí
+184. Enthusiasm | Sự thờ ơ | Sự lười biếng | Sự lo âu | Sự nhiệt tình
+185. Entire | Một phần | Thiếu hụt | Chia nhỏ | Toàn bộ
+186. Environment | Thiên nhiên | Con người | Động vật | Môi trường
+187. Equal | Khác biệt | Bất bình đẳng | Lệch lạc | Bằng nhau
+188. Equipment | Đồ ăn | Quần áo | Sách vở | Thiết bị
+189. Essential | Phụ trợ | Không cần thiết | Có thể | Thiết yếu
+190. Establish | Phá hủy | Lãng quên | Ngừng lại | Thiết lập
+191. Estimate | Đo đạc | Xác định | Chứng minh | Ước tính
+192. Eternal | Tạm thời | Ngắn ngủi | Thoáng qua | Vĩnh cửu
+193. Evaluate | Phớt lờ | Từ chối | Quên lãng | Đánh giá
+194. Evidence | Suy luận | Dự án | Kế hoạch | Bằng chứng
+195. Excellent | Kém cỏi | Tệ hại | Tồi tệ | Xuất sắc
+196. Exchange | Giữ lại | Cất giữ | Phá hủy | Trao đổi
+197. Exhibit | Cất giấu | Phá hủy | Ngừng lại | Triển lãm
+198. Existence | Sự biến mất | Sự hủy diệt | Sự lãng quên | Sự tồn tại
+199. Expand | Thu hẹp | Giảm bớt | Hủy bỏ | Mở rộng
+200. Experience | Sự thiếu hụt | Sự non nớt | Sự lười biếng | Kinh nghiệm
+201. Expert | Người mới | Kẻ ngốc | Người non trẻ | Chuyên gia
+202. Explain | Che giấu | Phá hủy | Ngừng lại | Giải thích
+203. Explore | Ngừng lại | Phá hủy | Lãng quên | Khám phá
+204. Express | Che giấu | Phá hủy | Ngừng lại | Thể hiện
+205. Extend | Thu hẹp | Giảm bớt | Hủy bỏ | Kéo dài
+206. External | Bên trong | Nội bộ | Tâm tư | Bên ngoài
+207. Extreme | Bình thường | Nhẹ nhàng | Đơn giản | Cực đoan
+208. Facility | Khó khăn | Rào cản | Ngăn cách | Cơ sở vật chất
+209. Factor | Kết quả | Nguyên nhân | Mục đích | Yếu tố
+210. Faculty | Nhân viên | Người làm | Người học | Giảng viên/Khoa
+211. Failure | Thành công | Hy vọng | Nỗ lực | Thất bại
+212. Faithful | Phản bội | Lừa dối | Dối trá | Trung thành
+213. Familiar | Lạ lẫm | Kỳ lạ | Ngỡ ngàng | Quen thuộc
+214. Famous | Vô danh | Tệ hại | Tồi tệ | Nổi tiếng
+215. Fantastic | Tệ hại | Tồi tệ | Kém cỏi | Tuyệt vời
+216. Fashion | Lỗi thời | Cũ kỹ | Lạc hậu | Thời trang
+217. Feature | Tổng thể | Khái quát | Cơ bản | Đặc điểm
+218. Federal | Địa phương | Nội bộ | Riêng tư | Liên bang
+219. Festival | Ngày thường | Ngày nghỉ | Ngày làm | Lễ hội
+220. Fiction | Sự thật | Thực tế | Lịch sử | Truyện hư cấu
+221. Figure | Chữ viết | Hình vẽ | Đồ vật | Số liệu/Con số
+222. Finance | Lãng phí | Tiêu xài | Nợ nần | Tài chính
+223. Flexible | Cứng nhắc | Gò bó | Khó khăn | Linh hoạt
+224. Focus | Phân tâm | Lười biếng | Bỏ cuộc | Tập trung
+225. Foreign | Nội địa | Trong nước | Riêng tư | Nước ngoài
+226. Formal | Bình dân | Đơn giản | Thoải mái | Trang trọng
+227. Foundation | Phá hủy | Lãng quên | Ngừng lại | Nền tảng
+228. Fragile | Cứng cáp | Bền chặt | Mạnh mẽ | Dễ vỡ
+229. Frequent | Hiếm khi | Thỉnh thoảng | Ngừng lại | Thường xuyên
+230. Function | Phá hủy | Lãng quên | Ngừng lại | Chức năng
+231. Fundamental | Phụ trợ | Không cần thiết | Có thể | Cơ bản
+232. Future | Quá khứ | Hiện tại | Cổ xưa | Tương lai
+233. Gather | Tách rời | Phân tán | Chia nhỏ | Thu thập
+234. General | Cụ thể | Chi tiết | Riêng biệt | Chung/Tổng quát
+235. Generate | Phá hủy | Lãng quên | Ngừng lại | Tạo ra/Sản sinh
+236. Generous | Keo kiệt | Lười biếng | Nhút nhát | Hào phóng
+237. Genuine | Giả tạo | Lừa dối | Dối trá | Chính gốc/Thật
+238. Gesture | Im lặng | Lười biếng | Ngừng lại | Cử chỉ
+239. Gifted | Kém cỏi | Tệ hại | Tồi tệ | Có năng khiếu
+240. Glance | Nhìn lâu | Chăm chú | Ngừng lại | Liếc nhìn
+241. Global | Địa phương | Nội bộ | Riêng tư | Toàn cầu
+242. Goal | Thử thách | Ý định | Cơ hội | Mục tiêu
+243. Govern | Phụ thuộc | Tự do | Buông thả | Cai trị/Quản lý
+244. Graceful | Thô kệch | Kém cỏi | Tệ hại | Duyên dáng
+245. Graduate | Người mới | Kẻ ngốc | Người non trẻ | Tốt nghiệp
+246. Grand | Nhỏ bé | Kém cỏi | Tệ hại | Hùng vĩ/Tráng lệ
+247. Grateful | Vô ơn | Lừa dối | Dối trá | Biết ơn
+248. Gravity | Vận tốc | Khoảng cách | Thời gian | Trọng lực
+249. Guarantee | Từ chối | Phá hủy | Ngừng lại | Đảm bảo
+250. Guard | Tấn công | Từ bỏ | Chạy trốn | Bảo vệ/Canh gác
+251. Guidance | Ngăn cản | Phê phán | Từ bỏ | Sự hướng dẫn
+252. Habit | Sự thay đổi | Sự khác biệt | Sự mới lạ | Thói quen
+253. Harmony | Sự đối lập | Sự tranh cãi | Sự cạnh tranh | Sự hài hòa
+254. Harvest | Phá hủy | Lãng quên | Ngừng lại | Thu hoạch
+255. Hazard | An toàn | Thuận lợi | Hỗ trợ | Mối nguy hiểm
+256. Healthy | Ốm yếu | Mệt mỏi | Lười biếng | Khỏe mạnh
+257. Heritage | Di sản | Lễ hội | Kiến trúc | Di sản
+258. Heroic | Hèn nhát | Lừa dối | Dối trá | Anh hùng
+259. Hesitate | Quyết định | Hành động | Ngừng lại | Do dự
+260. Hidden | Công khai | Rõ ràng | Tự do | Bị che giấu
+261. History | Tương lai | Hiện tại | Cổ xưa | Lịch sử
+262. Honest | Dối trá | Lừa dối | Phản bội | Trung thực
+263. Honor | Phá hủy | Lãng quên | Ngừng lại | Tôn vinh/Danh dự
+264. Hopeful | Tuyệt vọng | Thất bại | Lãng quên | Hy vọng
+265. Horizon | Trung tâm | Khoảng cách | Kết nối | Đường chân trời
+266. Hostile | Thân thiện | Hợp tác | Đoàn kết | Thù địch
+267. Human | Thiên nhiên | Hoang dã | Động vật | Con người
+268. Humorous | Buồn bã | Nghiêm túc | Lãng quên | Hài hước
+269. Identify | Nhầm lẫn | Gộp chung | Bỏ qua | Nhận diện
+270. Ideology | Sự logic | Sự lạnh lùng | Sự thờ ơ | Hệ tư tưởng
+271. Ignorant | Có học | Hiểu biết | Thông thái | Thiếu hiểu biết
+272. Imagine | Phá hủy | Lãng quên | Ngừng lại | Tưởng tượng
+273. Immediate | Chậm chạp | Lãng quên | Ngừng lại | Ngay lập tức
+274. Immense | Nhỏ bé | Kém cỏi | Tệ hại | Rộng lớn/Bao la
+275. Impact | Hỗ trợ | Giúp đỡ | Thuận lợi | Tác động/Ảnh hưởng
+276. Impatient | Kiên nhẫn | Chờ đợi | Ngừng lại | Thiếu kiên nhẫn
+277. Important | Tầm thường | Không quan trọng | Có thể | Quan trọng
+278. Impress | Phớt lờ | Từ chối | Quên lãng | Tạo ấn tượng
+279. Improve | Làm xấu đi | Giảm bớt | Hủy bỏ | Cải thiện
+280. Include | Loại bỏ | Tách rời | Phân tán | Bao gồm
+281. Increase | Giảm bớt | Thu hẹp | Hủy bỏ | Tăng lên
+282. Incredible | Bình thường | Nhẹ nhàng | Đơn giản | Không thể tin nổi
+283. Independent | Phụ thuộc | Nhút nhát | Lười biếng | Độc lập
+284. Indicate | Che giấu | Phá hủy | Ngừng lại | Chỉ ra
+285. Individual | Gia đình | Cộng đồng | Xã hội | Cá nhân
+286. Influence | Ngăn cản | Phê phán | Từ bỏ | Ảnh hưởng
+287. Inform | Che giấu | Phá hủy | Ngừng lại | Thông báo
+288. Initial | Cuối cùng | Sau cùng | Ngừng lại | Ban đầu
+289. Innovation | Lối mòn | Lạc hậu | Cũ kỹ | Sự đổi mới
+290. Inspect | Lãng quên | Phá hủy | Ngừng lại | Kiểm tra
+291. Inspire | Ngăn cản | Phê phán | Từ bỏ | Truyền cảm hứng
+292. Install | Phá hủy | Lãng quên | Ngừng lại | Cài đặt
+293. Instinct | Sự logic | Sự lạnh lùng | Sự thờ ơ | Bản năng
+294. Instruct | Che giấu | Phá hủy | Ngừng lại | Hướng dẫn
+295. Integrate | Tách rời | Phân tán | Chia nhỏ | Tích hợp
+296. Intelligent | Kém cỏi | Tệ hại | Tồi tệ | Thông minh
+297. Intensity | Sự nhẹ nhàng | Sự yếu ớt | Sự lười biếng | Cường độ
+298. Intent | Sự do dự | Sự lãng quên | Sự từ chối | Ý định
+299. Interfere | Hỗ trợ | Giúp đỡ | Thuận lợi | Can thiệp
+300. Interpret | Nhầm lẫn | Gộp chung | Bỏ qua | Giải thích/Phiên dịch

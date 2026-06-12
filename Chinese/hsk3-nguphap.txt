@@ -1,0 +1,100 @@
+﻿1. 把 (bǎ) | Đối với | Với | Nhằm | Từ chỉ sự tác động vào tân ngữ
+2. 被 (bèi) | Chủ động | Tự làm | Vô tình | Bị/Được (câu bị động)
+3. 对 (duì) | Sai | Xấu | Tệ | Đối với
+4. 为了 (wèile) | Vì | Nên | Nhưng | Để/Vì mục đích
+5. 甚至 (shènzhì) | Có lẽ | Chắc chắn | Rõ ràng | Thậm chí
+6. 接着 (jiēzhe) | Trước đó | Sau đó | Vì | Tiếp theo/Ngay sau đó
+7. 于是 (yúshì) | Vì vậy | Nhưng | Mà | Do đó/Vì thế
+8. 另外 (lìngwài) | Trước đó | Sau đó | Vì | Ngoài ra/Bên cạnh đó
+9. 既然 (jìrán) | Nhưng | Mà | Vì | Đã (thế) thì
+10. 不仅...而且... (bùjǐn...érqiě...) | Không những...vừa... | Vì...nên... | Mặc dù... | Không những...mà còn...
+11. 即使...也... (jíshǐ...yě...) | Vì...nên... | Nếu...thì... | Mặc dù... | Cho dù...cũng...
+12. 无论...都... (wúlùn...dōu...) | Vì...nên... | Nếu...thì... | Mặc dù... | Bất luận...đều...
+13. 只要...就... (zhǐyào...jiù...) | Mặc dù... | Cho dù... | Vì... | Chỉ cần...thì...
+14. 只有...才... (zhǐyǒu...cái...) | Mặc dù... | Cho dù... | Vì... | Chỉ có...mới...
+15. 连...也... (lián...yě...) | Vừa...lại | Không chỉ... | Đã... | Ngay cả...cũng...
+16. 宁可 (nìngkě) | Muốn | Thích | Đang | Thà (rằng)
+17. 所谓 (suǒwèi) | Cái gọi là | Sự thật | Chứng cứ | Cái gọi là
+18. 毕竟 (bìjìng) | Mới | Vừa | Đang | Rốt cuộc
+19. 简直 (jiǎnzhí) | Không | Đang | Đã | Đơn giản là/Thật là
+20. 难免 (nánmiǎn) | Dễ tránh | Có thể | Rất | Khó tránh khỏi
+21. 甚至于 (shènzhìyú) | Ít | Rất | Cũ | Thậm chí đến mức
+22. 从而 (cóng'ér) | Trước đó | Sau đó | Vì | Do đó/Từ đó
+23. 反而 (fǎn'ér) | Như vậy | Rất | Đều | Trái lại
+24. 究竟 (jiūjìng) | Ai | Cái gì | Ở đâu | Rốt cuộc (câu hỏi)
+25. 往往 (wǎngwǎng) | Chưa | Đang | Vừa | Thường (thói quen)
+26. 曾经 (céngjīng) | Đang | Sẽ | Chưa | Đã từng
+27. 一向 (yīxiàng) | Chưa | Đang | Vừa | Luôn luôn (từ trước đến nay)
+28. 居然 (jūrán) | Thật ra | Có lẽ | Chắc chắn | Không ngờ/Lại có thể
+29. 竟然 (jìngrán) | Thật ra | Có lẽ | Chắc chắn | Không ngờ (bất ngờ)
+30. 索性 (suǒxìng) | Do dự | Nghi ngờ | Bỏ qua | Thà rằng/Dứt khoát
+31. 大概 (dàgài) | Chắc chắn | Nhất định | Rõ ràng | Khoảng/Đại khái
+32. 确实 (quèshí) | Sai lệch | Mơ hồ | Phớt lờ | Quả thực
+33. 实在 (shízài) | Không | Đang | Đã | Thật sự
+34. 万一 (wànyī) | Chắc chắn | Nhất định | Rõ ràng | Ngộ nhỡ/Nếu chẳng may
+35. 难道 (nándào) | Cái gì | Ở đâu | Khi nào | Lẽ nào
+36. 难怪 (nánguài) | Cái gì | Ở đâu | Khi nào | Thảo nào
+37. 一再 (yīzài) | Một lần | Dừng lại | Phớt lờ | Hết lần này đến lần khác
+38. 再三 (zàisān) | Một lần | Dừng lại | Phớt lờ | Ba lần bảy lượt
+39. 顺便 (shùnbiàn) | Cố ý | Chủ động | Phớt lờ | Tiện thể
+40. 亲口 (qīnkǒu) | Nghe nói | Đọc | Viết | Tự miệng mình nói
+41. 亲手 (qīnshǒu) | Mua | Bán | Mượn | Tự tay mình làm
+42. 亲眼 (qīnyǎn) | Nghe nói | Đọc | Viết | Tự mắt mình thấy
+43. 尤其 (yóuqí) | Bình thường | Xấu | Cũ | Đặc biệt là
+44. 特意 (tèyì) | Tình cờ | Ngẫu nhiên | Đang | Cố ý/Đặc biệt
+45. 果然 (guǒrán) | Có lẽ | Chắc chắn | Rõ ràng | Quả nhiên
+46. 依然 (yīrán) | Thay đổi | Dừng lại | Hủy bỏ | Vẫn/Vẫn như cũ
+47. 仍然 (réngrán) | Thay đổi | Dừng lại | Hủy bỏ | Vẫn/Vẫn như cũ
+48. 突然 (tūrán) | Chậm | Lâu | Mãi | Đột nhiên
+49. 既然 (jìrán) | Nếu | Vì | Nhưng | Đã (thế) thì
+50. 只是 (zhǐshì) | Vì | Nên | Và | Chỉ là
+51. 只有 (zhǐyǒu) | Có lẽ | Nhất định | Rõ ràng | Chỉ có
+52. 只要 (zhǐyào) | Vì | Nên | Nhưng | Chỉ cần
+53. 无论 (wúlùn) | Vì | Nên | Nhưng | Bất luận/Dù
+54. 哪怕 (nǎpà) | Vì | Nên | Nhưng | Cho dù/Dẫu cho
+55. 何必 (hébì) | Rất | Cần | Đã | Cần gì phải
+56. 况且 (kuàngqiě) | Vì | Nên | Nhưng | Hơn nữa/Vả lại
+57. 甚至 (shènzhì) | Vì | Nên | Nhưng | Thậm chí
+58. 至于 (zhìyú) | Vì | Nên | Nhưng | Còn về phần/Còn như
+59. 万一 (wànyī) | Vì | Nên | Nhưng | Ngộ nhỡ
+60. 哪怕 (nǎpà) | Vì | Nên | Nhưng | Cho dù
+61. 竟然 (jìngrán) | Vì | Nên | Nhưng | Lại có thể (ngạc nhiên)
+62. 居然 (jūrán) | Vì | Nên | Nhưng | Lại có thể (không ngờ)
+63. 到底 (dàodǐ) | Vì | Nên | Nhưng | Rốt cuộc
+64. 终于 (zhōngyú) | Vì | Nên | Nhưng | Cuối cùng
+65. 曾经 (céngjīng) | Vì | Nên | Nhưng | Đã từng
+66. 早就 (zǎojiù) | Vì | Nên | Nhưng | Đã sớm
+67. 一向 (yīxiàng) | Vì | Nên | Nhưng | Luôn luôn
+68. 往往 (wǎngwǎng) | Vì | Nên | Nhưng | Thường
+69. 向来 (xiànglái) | Vì | Nên | Nhưng | Luôn luôn
+70. 终于 (zhōngyú) | Vì | Nên | Nhưng | Cuối cùng
+71. 还是 (háishì) | Vì | Nên | Nhưng | Vẫn là/Hoặc là
+72. 毕竟 (bìjìng) | Vì | Nên | Nhưng | Dù sao thì
+73. 到底 (dàodǐ) | Vì | Nên | Nhưng | Rốt cuộc
+74. 干脆 (gāncuì) | Vì | Nên | Nhưng | Dứt khoát
+75. 简直 (jiǎnzhí) | Vì | Nên | Nhưng | Đơn giản là
+76. 索性 (suǒxìng) | Vì | Nên | Nhưng | Thà rằng
+77. 竟然 (jìngrán) | Vì | Nên | Nhưng | Không ngờ
+78. 居然 (jūrán) | Vì | Nên | Nhưng | Không ngờ
+79. 果然 (guǒrán) | Vì | Nên | Nhưng | Quả nhiên
+80. 居然 (jūrán) | Vì | Nên | Nhưng | Không ngờ
+81. 确实 (quèshí) | Vì | Nên | Nhưng | Quả thực
+82. 实在 (shízài) | Vì | Nên | Nhưng | Thật sự
+83. 尤其 (yóuqí) | Vì | Nên | Nhưng | Đặc biệt là
+84. 特意 (tèyì) | Vì | Nên | Nhưng | Cố ý
+85. 哪怕 (nǎpà) | Vì | Nên | Nhưng | Dẫu cho
+86. 不管 (bùguǎn) | Vì | Nên | Nhưng | Bất kể
+87. 不论 (bùlùn) | Vì | Nên | Nhưng | Bất luận
+88. 既然 (jìrán) | Vì | Nên | Nhưng | Đã (thế) thì
+89. 即使 (jíshǐ) | Vì | Nên | Nhưng | Cho dù
+90. 虽然 (suīrán) | Vì | Nên | Nhưng | Mặc dù
+91. 为了 (wèile) | Vì | Nên | Nhưng | Để
+92. 并且 (bìngqiě) | Vì | Nên | Nhưng | Hơn nữa
+93. 况且 (kuàngqiě) | Vì | Nên | Nhưng | Vả lại
+94. 甚至 (shènzhì) | Vì | Nên | Nhưng | Thậm chí
+95. 至于 (zhìyú) | Vì | Nên | Nhưng | Còn về
+96. 何必 (hébì) | Vì | Nên | Nhưng | Cần gì phải
+97. 不免 (bùmiǎn) | Vì | Nên | Nhưng | Không tránh khỏi
+98. 万一 (wànyī) | Vì | Nên | Nhưng | Ngộ nhỡ
+99. 始终 (shǐzhōng) | Vì | Nên | Nhưng | Từ đầu đến cuối
+100. 到底 (dàodǐ) | Vì | Nên | Nhưng | Rốt cuộc

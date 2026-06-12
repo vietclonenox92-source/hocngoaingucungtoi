@@ -1,0 +1,300 @@
+﻿1. Sustainable | Tạm thời | Lãng phí | Ngắn hạn | Bền vững
+2. Urbanization | Nông thôn hóa | Công nghiệp | Hiện đại | Đô thị hóa
+3. Globalize | Địa phương | Cô lập | Tách rời | Toàn cầu hóa
+4. Literacy | Mù chữ | Khó khăn | Nghèo đói | Biết đọc biết viết
+5. Inequality | Công bằng | Cân bằng | Tương đồng | Sự bất bình đẳng
+6. Perspective | Sự áp đặt | Sự nhầm lẫn | Sự bỏ qua | Quan điểm
+7. Elaborate | Đơn giản | Tóm tắt | Rút gọn | Chi tiết hóa
+8. Hypothesis | Sự thật | Kết luận | Bằng chứng | Giả thuyết
+9. Mitigate | Tăng cường | Làm trầm trọng | Mở rộng | Làm giảm nhẹ
+10. Authentic | Giả mạo | Lừa dối | Bắt chước | Chân thực
+11. Vulnerable | Mạnh mẽ | Kiên cường | An toàn | Dễ bị tổn thương
+12. Initiative | Sự trì hoãn | Sự thụ động | Sự bắt chước | Sáng kiến
+13. Resilient | Yếu đuối | Dễ vỡ | Nhút nhát | Kiên cường
+14. Diverse | Đồng nhất | Giống nhau | Đơn điệu | Đa dạng
+15. Advocate | Phản đối | Tẩy chay | Phủ nhận | Ủng hộ
+16. Implement | Hủy bỏ | Từ chối | Phá vỡ | Thực thi
+17. Significant | Tầm thường | Không quan trọng | Nhỏ bé | Có ý nghĩa/quan trọng
+18. Elaborate | Sơ sài | Vắn tắt | Rút gọn | Công phu/kỹ lưỡng
+19. Aesthetic | Xấu xí | Thô kệch | Tệ hại | Có tính thẩm mỹ
+20. Ambiguous | Rõ ràng | Minh bạch | Dễ hiểu | Mơ hồ
+21. Collaborate | Cạnh tranh | Tranh cãi | Đối đầu | Hợp tác
+22. Competent | Kém cỏi | Vụng về | Yếu kém | Có năng lực
+23. Consequence | Nguyên nhân | Khởi đầu | Nguồn gốc | Hậu quả
+24. Consolidate | Phá vỡ | Chia nhỏ | Tách rời | Củng cố
+25. Contradict | Đồng ý | Ủng hộ | Chấp nhận | Mâu thuẫn
+26. Conventional | Mới lạ | Kỳ quặc | Độc đáo | Truyền thống
+27. Credibility | Sự nghi ngờ | Sự lừa dối | Sự giả tạo | Sự đáng tin cậy
+28. Cultivate | Phá hủy | Bỏ mặc | Ngăn cản | Trau dồi/Nuôi dưỡng
+29. Deficiency | Đầy đủ | Dư thừa | Dồi dào | Sự thiếu hụt
+30. Demolish | Xây dựng | Phát triển | Tôn tạo | Phá hủy
+31. Deteriorate | Cải thiện | Phục hồi | Phát triển | Trở nên tồi tệ hơn
+32. Diligent | Lười biếng | Thờ ơ | Chậm chạp | Siêng năng
+33. Discrepancy | Sự đồng nhất | Sự hòa hợp | Sự cân bằng | Sự chênh lệch
+34. Distinguish | Nhầm lẫn | Gộp chung | Bỏ qua | Phân biệt
+35. Domestic | Quốc tế | Ngoài nước | Nước ngoài | Trong nước
+36. Emerge | Biến mất | Chìm xuống | Kết thúc | Nổi lên/Xuất hiện
+37. Emphasize | Phớt lờ | Bỏ qua | Quên lãng | Nhấn mạnh
+38. Empower | Tước đoạt | Ngăn cản | Hạn chế | Trao quyền
+39. Enormous | Nhỏ bé | Tầm thường | Ít ỏi | To lớn
+40. Evaluate | Bỏ qua | Phớt lờ | Quên lãng | Đánh giá
+41. Exacerbate | Cải thiện | Giảm nhẹ | Khắc phục | Làm trầm trọng thêm
+42. Exemplify | Che giấu | Phá hủy | Làm mờ nhạt | Minh họa
+43. Exploit | Bảo vệ | Tôn trọng | Bỏ mặc | Khai thác/Bóc lột
+44. Facilitate | Ngăn cản | Gây khó khăn | Cản trở | Tạo điều kiện
+45. Feasible | Bất khả thi | Vô lý | Khó khăn | Khả thi
+46. Fluctuate | Ổn định | Đứng yên | Ngừng lại | Dao động
+47. Frustrate | Làm hài lòng | Khuyến khích | Hỗ trợ | Gây nản lòng
+48. Generate | Phá hủy | Ngừng lại | Kết thúc | Sản sinh/Tạo ra
+49. Genuine | Giả mạo | Dối trá | Lừa đảo | Chân thật
+50. Habitual | Ngẫu nhiên | Bất chợt | Hiếm khi | Theo thói quen
+51. Hinder | Hỗ trợ | Giúp đỡ | Thúc đẩy | Cản trở
+52. Impartial | Thiên vị | Không công bằng | Định kiến | Khách quan
+53. Implicit | Rõ ràng | Minh bạch | Cụ thể | Ngầm định
+54. Impulsive | Điềm tĩnh | Thận trọng | Suy nghĩ kỹ | Bốc đồng
+55. Inaccessible | Dễ dàng | Thuận lợi | Tiếp cận được | Không thể tiếp cận
+56. Indifferent | Quan tâm | Nhiệt tình | Say mê | Thờ ơ
+57. Inevitable | Có thể tránh | Ngẫu nhiên | Tùy chọn | Không thể tránh khỏi
+58. Infer | Phủ nhận | Phớt lờ | Bỏ qua | Suy luận
+59. Innovative | Lạc hậu | Cũ kỹ | Lỗi thời | Đổi mới
+60. Integrity | Sự gian dối | Sự giả tạo | Sự lừa lọc | Sự chính trực
+61. Intervene | Làm ngơ | Phớt lờ | Để mặc | Can thiệp
+62. Intricate | Đơn giản | Cơ bản | Dễ hiểu | Phức tạp/Rắc rối
+63. Intuition | Sự suy luận | Sự tính toán | Sự logic | Trực giác
+64. Justify | Phê phán | Làm sai | Phủ nhận | Biện minh
+65. Legacy | Sự xóa bỏ | Sự lãng quên | Sự hủy hoại | Di sản
+66. Mandatory | Tự nguyện | Tùy chọn | Không bắt buộc | Bắt buộc
+67. Manipulate | Trung thực | Công bằng | Ngay thẳng | Thao túng
+68. Minimize | Tăng cường | Phóng đại | Mở rộng | Tối thiểu hóa
+69. Modify | Giữ nguyên | Từ chối | Phá bỏ | Điều chỉnh/Sửa đổi
+70. Negligent | Cẩn thận | Chu đáo | Quan tâm | Lơ là/Chểnh mảng
+71. Objective | Chủ quan | Định kiến | Thiên vị | Khách quan/Mục tiêu
+72. Obsolete | Hiện đại | Mới mẻ | Tân tiến | Lỗi thời
+73. Obstacle | Thuận lợi | Hỗ trợ | Thúc đẩy | Chướng ngại vật
+74. Opponent | Đồng minh | Hợp tác | Ủng hộ | Đối thủ
+75. Optimistic | Bi quan | Tuyệt vọng | Lo âu | Lạc quan
+76. Overcome | Từ bỏ | Ngừng lại | Lãng quên | Vượt qua
+77. Perceive | Nhầm lẫn | Phớt lờ | Bỏ qua | Nhận thức
+78. Persistent | Bỏ cuộc | Chán nản | Dễ từ bỏ | Kiên trì
+79. Phenomenon | Sự tầm thường | Sự bình thường | Sự giả tạo | Hiện tượng
+80. Precise | Mơ hồ | Không rõ | Sai lệch | Chính xác
+81. Predict | Nhầm lẫn | Bỏ qua | Phớt lờ | Dự đoán
+82. Prohibit | Cho phép | Đồng ý | Khuyến khích | Cấm
+83. Prolong | Rút ngắn | Hủy bỏ | Kết thúc | Kéo dài
+84. Promote | Ngăn cản | Phê phán | Hạ thấp | Thúc đẩy
+85. Prosper | Thất bại | Nghèo khó | Suy sụp | Thịnh vượng
+86. Radical | Bảo thủ | Cũ kỹ | Lạc hậu | Căn bản/Triệt để
+87. Rational | Phi lý | Vô lý | Mơ hồ | Có lý trí
+88. Redundant | Cần thiết | Đầy đủ | Quan trọng | Dư thừa
+89. Reluctant | Hào hứng | Tự nguyện | Sẵn lòng | Miễn cưỡng
+90. Renowned | Vô danh | Tầm thường | Tệ hại | Nổi tiếng
+91. Resentment | Sự hài lòng | Sự vui vẻ | Sự biết ơn | Sự oán giận
+92. Reveal | Che giấu | Phủ nhận | Bí mật | Tiết lộ
+93. Scarcity | Dồi dào | Nhiều | Đầy đủ | Sự khan hiếm
+94. Skeptical | Tin tưởng | Tôn trọng | Khách quan | Hoài nghi
+95. Sophisticated | Đơn giản | Cơ bản | Lạc hậu | Tinh vi/Phức tạp
+96. Stimulate | Ngăn cản | Phê phán | Kìm hãm | Kích thích
+97. Substantiate | Phủ nhận | Phớt lờ | Bỏ qua | Chứng minh
+98. Surplus | Thiếu hụt | Khan hiếm | Cạn kiệt | Sự dư thừa
+99. Theoretical | Thực tế | Ứng dụng | Nghiên cứu | Lý thuyết
+100. Unprecedented | Thông thường | Bình thường | Tầm thường | Chưa từng có
+101. Abrupt | Từ từ | Chậm rãi | Bình thản | Đột ngột
+102. Abstract | Cụ thể | Rõ ràng | Chi tiết | Trừu tượng
+103. Accessible | Khó tiếp cận | Xa xôi | Tách biệt | Dễ tiếp cận
+104. Acclaim | Phê bình | Chỉ trích | Phủ nhận | Ca ngợi
+105. Accommodate | Từ chối | Xua đuổi | Ngăn cản | Đáp ứng/Cung cấp chỗ
+106. Accumulate | Phân tán | Rời rạc | Chia nhỏ | Tích lũy
+107. Acute | Nhạt nhẽo | Mơ hồ | Tầm thường | Sắc bén/Cấp tính
+108. Adaptable | Cứng nhắc | Gò bó | Khó khăn | Dễ thích nghi
+109. Adhere | Tách rời | Rời bỏ | Phá vỡ | Dính chặt/Tuân thủ
+110. Adjacent | Xa xôi | Đối lập | Tách biệt | Kế bên
+111. Adorn | Làm xấu | Phá hủy | Tẩy chay | Trang trí
+112. Adversary | Đồng minh | Bạn bè | Ủng hộ | Đối thủ
+113. Aesthetic | Xấu xí | Thô kệch | Tệ hại | Có tính thẩm mỹ
+114. Affable | Khó gần | Thô lỗ | Cáu gắt | Thân thiện
+115. Alleviate | Làm trầm trọng | Gia tăng | Mở rộng | Làm giảm bớt
+116. Allocate | Lãng phí | Tiêu xài | Phá hủy | Phân bổ
+117. Alteration | Sự giữ nguyên | Sự ổn định | Sự bất biến | Sự thay đổi
+118. Altruistic | Ích kỷ | Vô tâm | Tàn nhẫn | Vị tha
+119. Ambiguous | Rõ ràng | Minh bạch | Cụ thể | Mơ hồ
+120. Amiable | Thô lỗ | Cáu gắt | Khó gần | Hòa nhã
+121. Amplify | Giảm bớt | Thu hẹp | Hủy bỏ | Phóng đại/Khuếch đại
+122. Analogous | Khác biệt | Lệch lạc | Xa lạ | Tương tự
+123. Animate | Đứng yên | Tĩnh lặng | Lặng lẽ | Làm cho sinh động
+124. Annihilate | Xây dựng | Phát triển | Tôn tạo | Tiêu diệt hoàn toàn
+125. Anomaly | Sự bình thường | Sự chuẩn mực | Sự đồng nhất | Sự bất thường
+126. Antagonize | Hỗ trợ | Giúp đỡ | Khuyến khích | Gây thù chuốc oán
+127. Apprehensive | Tự tin | Bình thản | Quyết đoán | Lo âu/Sợ hãi
+128. Aptitude | Sự kém cỏi | Sự vụng về | Sự lười biếng | Năng khiếu
+129. Arduous | Dễ dàng | Thuận lợi | Hỗ trợ | Gian khổ
+130. Articulate | Lắp bắp | Nói ngọng | Ngập ngừng | Nói năng lưu loát
+131. Ascertain | Phớt lờ | Bỏ qua | Quên lãng | Xác minh
+132. Aspire | Bỏ cuộc | Chán nản | Từ bỏ | Khát vọng
+133. Assertive | Nhút nhát | Rụt rè | Yếu đuối | Quả quyết
+134. Assimilate | Tách rời | Phân tán | Loại bỏ | Đồng hóa
+135. Assorted | Đồng nhất | Giống hệt | Đơn điệu | Hỗn hợp/Đa dạng
+136. Astute | Kém cỏi | Khờ khạo | Ngây thơ | Tinh tường/Sắc sảo
+137. Audacious | Nhút nhát | Rụt rè | Yếu đuối | Táo bạo
+138. Augment | Giảm bớt | Thu hẹp | Hủy bỏ | Tăng cường
+139. Austere | Sang trọng | Thoải mái | Phóng khoáng | Khắc khổ/Nghiêm nghị
+140. Authentic | Giả mạo | Lừa dối | Bắt chước | Chân thực
+141. Autonomous | Phụ thuộc | Nhút nhát | Lười biếng | Tự chủ
+142. Avarice | Hào phóng | Rộng rãi | Khoan dung | Lòng tham
+143. Banish | Chào đón | Chấp nhận | Cư trú | Trục xuất
+144. Barren | Dồi dào | Màu mỡ | Tươi tốt | Cằn cỗi
+145. Benevolent | Độc ác | Tàn nhẫn | Ích kỷ | Nhân từ
+146. Bias | Công bằng | Khách quan | Tương đồng | Định kiến
+147. Blatant | Mơ hồ | Khó hiểu | Kín đáo | Rõ ràng/Trắng trợn
+148. Boisterous | Yên tĩnh | Trầm mặc | Lặng lẽ | Ồn ào/Náo nhiệt
+149. Bolster | Hạ thấp | Làm suy yếu | Phá hủy | Hỗ trợ/Củng cố
+150. Brevity | Dài dòng | Chi tiết | Vắn tắt | Sự ngắn gọn
+151. Brisk | Chậm chạp | Lười biếng | Uể oải | Nhanh nhẹn
+152. Brusque | Lịch sự | Nhã nhặn | Duyên dáng | Thô lỗ/Cộc lốc
+153. Candid | Dối trá | Lừa lọc | Giả tạo | Thẳng thắn
+154. Capable | Kém cỏi | Vụng về | Yếu kém | Có năng lực
+155. Captivate | Làm phiền | Gây khó chịu | Xua đuổi | Làm say đắm
+156. Catastrophe | Hạnh phúc | Vui vẻ | Thành công | Thảm họa
+157. Cautious | Hấp tấp | Vội vàng | Bất cẩn | Thận trọng
+158. Cease | Tiếp tục | Bắt đầu | Phát triển | Dừng lại
+159. Censure | Ca ngợi | Tán dương | Ủng hộ | Phê bình nghiêm khắc
+160. Chaotic | Trật tự | Ngăn nắp | Gọn gàng | Hỗn loạn
+161. Chivalrous | Hèn nhát | Thô lỗ | Độc ác | Hào hiệp
+162. Chronic | Tạm thời | Ngắn ngủi | Thoáng qua | Kinh niên
+163. Clarify | Làm phức tạp | Che giấu | Làm mờ nhạt | Làm rõ
+164. Coalesce | Phân tán | Rời rạc | Chia nhỏ | Kết hợp/Hợp nhất
+165. Coherent | Rời rạc | Mơ hồ | Không rõ | Mạch lạc
+166. Coincide | Khác biệt | Lệch lạc | Tránh nhau | Trùng hợp
+167. Collaborate | Cạnh tranh | Tranh cãi | Đối đầu | Hợp tác
+168. Collide | Tránh né | Tách rời | Đi qua | Va chạm
+169. Commend | Phê bình | Chỉ trích | Phủ nhận | Khen ngợi
+170. Commodity | Hàng xa xỉ | Đồ quý hiếm | Tài sản | Hàng hóa
+171. Commotion | Yên tĩnh | Trầm mặc | Lặng lẽ | Sự náo động
+172. Compassion | Độc ác | Tàn nhẫn | Ích kỷ | Lòng trắc ẩn
+173. Compel | Từ chối | Vắng mặt | Cho phép | Bắt buộc
+174. Competent | Kém cỏi | Vụng về | Yếu kém | Có năng lực
+175. Compile | Phân tán | Rời rạc | Chia nhỏ | Biên soạn
+176. Complacent | Lo âu | Tham vọng | Ghen tị | Tự mãn
+177. Comply | Phản đối | Tẩy chay | Phủ nhận | Tuân thủ
+178. Comprehensive | Hạn hẹp | Sơ sài | Thiếu sót | Toàn diện
+179. Compulsory | Tự nguyện | Tùy chọn | Không bắt buộc | Bắt buộc
+180. Concede | Từ chối | Phủ nhận | Phản đối | Nhượng bộ
+181. Concise | Dài dòng | Chi tiết | Vắn tắt | Ngắn gọn
+182. Concur | Phản đối | Tẩy chay | Phủ nhận | Đồng ý
+183. Condense | Mở rộng | Phóng đại | Tăng cường | Làm cô đọng
+184. Condone | Phê bình | Chỉ trích | Phủ nhận | Tha thứ/Bỏ qua
+185. Conducive | Cản trở | Ngăn cản | Gây khó khăn | Có lợi/Thúc đẩy
+186. Confidential | Công khai | Rõ ràng | Minh bạch | Bí mật
+187. Conflict | Hòa bình | Hợp tác | Đoàn kết | Xung đột
+188. Conform | Phản đối | Tẩy chay | Phủ nhận | Tuân thủ
+189. Confound | Làm rõ | Giải thích | Hướng dẫn | Làm bối rối
+190. Congenial | Khó gần | Thô lỗ | Cáu gắt | Thân thiện
+191. Conjecture | Sự thật | Kết luận | Bằng chứng | Sự phỏng đoán
+192. Conscientious | Lơ là | Chểnh mảng | Vô tâm | Tận tâm
+193. Consecutive | Ngắt quãng | Gián đoạn | Rời rạc | Liên tiếp
+194. Consensus | Sự tranh cãi | Sự đối lập | Sự xung đột | Sự đồng thuận
+195. Consequence | Nguyên nhân | Khởi đầu | Nguồn gốc | Hậu quả
+196. Console | Làm buồn | Gây khó chịu | Xua đuổi | An ủi
+197. Consolidate | Phá vỡ | Chia nhỏ | Tách rời | Củng cố
+198. Conspicuous | Kín đáo | Mờ nhạt | Che giấu | Rõ ràng
+199. Constrain | Tự do | Buông thả | Nuông chiều | Hạn chế
+200. Consult | Phớt lờ | Bỏ qua | Quên lãng | Tham khảo
+201. Consume | Sản xuất | Tạo ra | Duy trì | Tiêu thụ
+202. Contemplate | Hấp tấp | Vội vàng | Bỏ qua | Suy ngẫm
+203. Contemporary | Cổ xưa | Lạc hậu | Cũ kỹ | Đương đại
+204. Contempt | Sự hài lòng | Sự vui vẻ | Sự biết ơn | Sự khinh thường
+205. Contend | Từ bỏ | Ngừng lại | Lãng quên | Tranh đấu/Cạnh tranh
+206. Content | Sự trống rỗng | Sự thiếu hụt | Sự hạn chế | Nội dung/Hài lòng
+207. Context | Sự tách rời | Sự ngăn cách | Sự im lặng | Ngữ cảnh
+208. Contradict | Đồng ý | Ủng hộ | Chấp nhận | Mâu thuẫn
+209. Contrary | Đồng thuận | Hòa hợp | Giống nhau | Trái ngược
+210. Contribute | Lấy đi | Cất giữ | Phá hủy | Đóng góp
+211. Contrive | Phá hủy | Lãng quên | Ngừng lại | Nghĩ ra/Sáng chế
+212. Controversial | Đồng ý | Hợp tác | Ủng hộ | Gây tranh cãi
+213. Convene | Phân tán | Rời rạc | Chia nhỏ | Triệu tập
+214. Conventional | Mới lạ | Kỳ quặc | Độc đáo | Truyền thống
+215. Converge | Phân tán | Tách rời | Chia nhỏ | Hội tụ
+216. Converse | Im lặng | Từ chối | Phủ nhận | Trò chuyện
+217. Convert | Giữ nguyên | Từ chối | Phá bỏ | Chuyển đổi
+218. Convict | Tha bổng | Giải oan | Miễn tội | Kết án
+219. Convince | Ngăn cản | Phê phán | Hạ thấp | Thuyết phục
+220. Convivial | Khó gần | Thô lỗ | Cáu gắt | Vui vẻ/Thân thiện
+221. Cooperate | Cạnh tranh | Tranh cãi | Đối đầu | Hợp tác
+222. Coordinate | Phân tán | Rời rạc | Chia nhỏ | Phối hợp
+223. Copious | Hiếm hoi | Ít ỏi | Khan hiếm | Dồi dào
+224. Cordial | Khó gần | Thô lỗ | Cáu gắt | Nồng hậu
+225. Core | Ngoài cùng | Phụ | Nhỏ bé | Cốt lõi
+226. Correlate | Tách rời | Phân tán | Loại bỏ | Tương quan
+227. Correspond | Nhầm lẫn | Gộp chung | Bỏ qua | Tương ứng
+228. Corrupt | Trong sạch | Ngay thẳng | Lương thiện | Tham nhũng
+229. Corroborate | Phủ nhận | Phớt lờ | Bỏ qua | Xác nhận/Chứng minh
+230. Courage | Sợ hãi | Nhút nhát | Lo âu | Lòng dũng cảm
+231. Courtesy | Thô lỗ | Lừa dối | Dối trá | Sự lịch sự
+232. Covert | Công khai | Rõ ràng | Minh bạch | Kín đáo/Bí mật
+233. Covet | Chê bai | Từ chối | Phủ nhận | Thèm muốn
+234. Cower | Đối mặt | Chấp nhận | Ngừng lại | Co rúm (vì sợ)
+235. Crafty | Ngây thơ | Khờ khạo | Trung thực | Xảo quyệt
+236. Credible | Khó tin | Vô lý | Mơ hồ | Đáng tin
+237. Credit | Nợ nần | Thất bại | Phá sản | Tín dụng/Công lao
+238. Criteria | Sự ngẫu nhiên | Sự tùy tiện | Sự mơ hồ | Tiêu chí
+239. Critical | Khen ngợi | Tán dương | Hỗ trợ | Phê bình/Quan trọng
+240. Criticize | Khen ngợi | Tán dương | Ủng hộ | Phê bình
+241. Crucial | Tầm thường | Không quan trọng | Nhỏ bé | Cốt yếu
+242. Crude | Tinh tế | Tinh vi | Hiện đại | Thô sơ/Thô lỗ
+243. Cultivate | Phá hủy | Bỏ mặc | Ngăn cản | Trau dồi/Nuôi dưỡng
+244. Cultured | Thô kệch | Kém cỏi | Tệ hại | Có văn hóa/Lịch sự
+245. Cumbersome | Gọn nhẹ | Dễ dàng | Thuận lợi | Cồng kềnh/Nặng nề
+246. Cumulative | Ngắt quãng | Gián đoạn | Rời rạc | Tích lũy
+247. Curious | Thờ ơ | Lười biếng | Lo âu | Tò mò
+248. Current | Cũ kỹ | Quá khứ | Lỗi thời | Hiện tại
+249. Curtail | Mở rộng | Phóng đại | Tăng cường | Cắt giảm
+250. Cynical | Tin tưởng | Tôn trọng | Khách quan | Hoài nghi
+251. Dainty | Thô kệch | Kém cỏi | Tệ hại | Duyên dáng/Mỏng manh
+252. Damp | Khô ráo | Nắng nóng | Ngừng lại | Ẩm ướt
+253. Danger | An toàn | Thuận lợi | Hỗ trợ | Sự nguy hiểm
+254. Daring | Nhút nhát | Rụt rè | Yếu đuối | Táo bạo
+255. Daunt | Khuyến khích | Hỗ trợ | Thúc đẩy | Làm nản lòng
+256. Dearth | Dồi dào | Nhiều | Đầy đủ | Sự khan hiếm
+257. Debacle | Thành công | Vui vẻ | Hạnh phúc | Thảm họa
+258. Debate | Đồng ý | Hợp tác | Ủng hộ | Tranh luận
+259. Decipher | Che giấu | Phá hủy | Làm mờ nhạt | Giải mã
+260. Decisive | Do dự | Rụt rè | Yếu đuối | Quyết đoán
+261. Decline | Tăng lên | Phát triển | Mở rộng | Từ chối/Suy giảm
+262. Decode | Che giấu | Phá hủy | Làm mờ nhạt | Giải mã
+263. Decorum | Thô lỗ | Lừa dối | Dối trá | Sự lịch thiệp
+264. Decrease | Tăng lên | Phát triển | Mở rộng | Giảm bớt
+265. Deduce | Suy luận bừa | Đoán mò | Ngừng lại | Suy luận
+266. Deface | Trang trí | Tôn tạo | Xây dựng | Làm xấu/Phá hỏng
+267. Defamation | Ca ngợi | Tán dương | Ủng hộ | Sự phỉ báng
+268. Defeat | Chiến thắng | Thành công | Vui vẻ | Thất bại
+269. Defect | Hoàn hảo | Ưu điểm | Lợi thế | Khiếm khuyết
+270. Defend | Tấn công | Từ bỏ | Ngừng lại | Bảo vệ
+271. Defer | Vội vàng | Hấp tấp | Tiếp tục | Trì hoãn/Nhượng bộ
+272. Defiance | Vâng lời | Tuân thủ | Hợp tác | Sự chống đối
+273. Deficient | Đầy đủ | Dư thừa | Dồi dào | Thiếu hụt
+274. Define | Phá hủy | Lãng quên | Ngừng lại | Định nghĩa
+275. Definite | Mơ hồ | Không rõ | Mập mờ | Rõ ràng/Dứt khoát
+276. Deflect | Đối mặt | Chấp nhận | Ngừng lại | Làm chệch hướng
+277. Deform | Trang trí | Tôn tạo | Xây dựng | Làm biến dạng
+278. Defray | Nợ nần | Thất bại | Phá sản | Chi trả
+279. Defunct | Còn tồn tại | Hoạt động | Đang sống | Đã chết/Không còn tồn tại
+280. Defy | Vâng lời | Tuân thủ | Hợp tác | Thách thức/Chống đối
+281. Degrade | Tôn vinh | Đề cao | Ủng hộ | Hạ thấp/Làm suy giảm
+282. Dehydrate | Cấp nước | Làm ẩm | Ngừng lại | Mất nước
+283. Deify | Phê bình | Chỉ trích | Phủ nhận | Thần thánh hóa
+284. Deject | Làm vui | Hài lòng | Hỗ trợ | Làm chán nản
+285. Delegate | Tước bỏ | Hủy bỏ | Ngăn cản | Ủy quyền
+286. Deleterious | Có lợi | Thuận lợi | Hỗ trợ | Độc hại/Có hại
+287. Deliberate | Hấp tấp | Vội vàng | Bất cẩn | Có chủ đích
+288. Delineate | Che giấu | Phá hủy | Làm mờ nhạt | Phác thảo/Mô tả
+289. Delinquent | Tuân thủ | Chăm chỉ | Tận tâm | Phạm pháp/Chậm trễ
+290. Deliver | Che giấu | Phá hủy | Ngừng lại | Giao hàng
+291. Delude | Thật thà | Trung thực | Ngay thẳng | Lừa dối
+292. Deluge | Nắng nóng | Khô ráo | Ngừng lại | Trận lụt/Tràn ngập
+293. Delve | Lướt qua | Phớt lờ | Bỏ qua | Đào sâu/Nghiên cứu
+294. Demean | Tôn vinh | Đề cao | Ủng hộ | Làm hạ thấp danh dự
+295. Demise | Sự sống | Sự tồn tại | Sự hoạt động | Sự chết/Kết thúc
+296. Demolish | Xây dựng | Phát triển | Tôn tạo | Phá hủy
+297. Demon | Thiên thần | Thánh thiện | Nhân hậu | Ác quỷ
+298. Demote | Đề bạt | Thăng tiến | Ủng hộ | Giáng chức
+299. Demure | Táo bạo | Tự tin | Quyết đoán | E lệ/Kín đáo
+300. Denounce | Ca ngợi | Tán dương | Ủng hộ | Lên án/Phỉ báng

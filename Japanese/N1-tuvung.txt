@@ -1,0 +1,200 @@
+﻿1. 脆弱 (ぜいじゃく) | Kiên cố | Phức tạp | Đơn giản | Mong manh/Yếu đuối
+2. 懸念 (けねん) | Hy vọng | Tin tưởng | Bình thản | Lo ngại
+3. 享受 (きょうじゅ) | Từ bỏ | Chịu đựng | Hy sinh | Hưởng thụ
+4. 疎外 (そがい) | Gắn kết | Thân thiết | Hòa hợp | Xa lánh/Cô lập
+5. 屈折 (くっせつ) | Thẳng băng | Trơn tru | Bằng phẳng | Gãy khúc/Lệch lạc
+6. 執拗 (しつよう) | Dễ bỏ cuộc | Thỏa hiệp | Mau chán | Dai dẳng
+7. 卓越 (たくえつ) | Tầm thường | Kém cỏi | Vụng về | Ưu việt/Xuất sắc
+8. 充当 (じゅうとう) | Bỏ trống | Phung phí | Cắt giảm | Phân bổ/Chuyên dùng
+9. 孤立 (こりつ) | Đoàn kết | Hợp tác | Kết nối | Cô lập
+10. 緊迫 (きんぱく) | Thư giãn | Bình yên | Thoải mái | Căng thẳng
+11. 獲得 (かくとく) | Mất đi | Từ bỏ | Phá hủy | Giành được
+12. 推進 (すいしん) | Cản trở | Dừng lại | Bỏ dở | Thúc đẩy
+13. 提携 (ていけい) | Đối đầu | Tách biệt | Phá hủy | Hợp tác/Liên kết
+14. 紛糾 (ふんきゅう) | Trật tự | Hòa bình | Ổn định | Rối ren/Tranh cãi
+15. 究明 (きゅうめい) | Giấu kín | Phớt lờ | Bỏ qua | Làm sáng tỏ
+16. 是正 (ぜせい) | Làm sai | Phớt lờ | Nhầm lẫn | Chỉnh đốn
+17. 転換 (てんかん) | Giữ nguyên | Sai lệch | Mơ hồ | Chuyển đổi
+18. 提唱 (ていしょう) | Phản đối | Phớt lờ | Sai lệch | Đề xướng
+19. 遵守 (じゅんしゅ) | Vi phạm | Phớt lờ | Nhầm lẫn | Tuân thủ
+20. 疎通 (そつう) | Tắc nghẽn | Hiểu lầm | Mâu thuẫn | Thông suốt/Giao tiếp
+21. 巧妙 (こうみょう) | Vụng về | Thô kệch | Kém cỏi | Khéo léo
+22. 潜在 (せんざい) | Lộ rõ | Công khai | Bên ngoài | Tiềm ẩn
+23. 寛容 (かんよう) | Khắt khe | Hẹp hòi | Nghiêm khắc | Khoan dung
+24. 簡潔 (かんけつ) | Dài dòng | Vòng vo | Rườm rà | Súc tích
+25. 厳重 (げんじゅう) | Lỏng lẻo | Sơ hở | Dễ dàng | Nghiêm ngặt
+26. 壮大 (そうだい) | Nhỏ bé | Còi cọc | Đơn điệu | Hùng vĩ
+27. 緊密 (きんみつ) | Rời rạc | Xa cách | Lỏng lẻo | Chặt chẽ
+28. 必須 (ひっす) | Không cần | Tùy ý | Vô ích | Cần thiết/Bắt buộc
+29. 端的 (たんてき) | Vòng vo | Mơ hồ | Dài dòng | Trực diện/Rõ ràng
+30. 明白 (めいはく) | Mơ hồ | Nhầm lẫn | Sai lệch | Minh bạch/Rõ ràng
+31. 慎重 (しんちょう) | Bất cẩn | Vội vã | Cẩu thả | Thận trọng
+32. 曖昧 (あいまい) | Rõ ràng | Minh bạch | Chính xác | Mơ hồ
+33. 深刻 (しんこく) | Tầm thường | Nhẹ nhàng | Vui vẻ | Nghiêm trọng
+34. 妥当 (だとう) | Vô lý | Sai lệch | Mơ hồ | Thỏa đáng
+35. 懸命 (けんめい) | Lười biếng | Bỏ cuộc | Thờ ơ | Nỗ lực hết sức
+36. 軽快 (けいかい) | Nặng nề | Mệt mỏi | Lo lắng | Thư thái/Nhẹ nhàng
+37. 強硬 (きょうこう) | Dễ dãi | Nhượng bộ | Do dự | Cương quyết
+38. 頻繁 (ひんぱん) | Hiếm khi | Thi thoảng | Vô định | Thường xuyên
+39. 膨大 (ぼうだい) | Tí hon | Nhỏ bé | Còi cọc | Khổng lồ
+40. 迅速 (じんそく) | Chậm chạp | Trì hoãn | Lề mề | Nhanh chóng
+41. 充実 (じゅうじつ) | Thiếu thốn | Vô nghĩa | Bỏ dở | Sung túc/Trọn vẹn
+42. 懸念 (けねん) | Hy vọng | Tin tưởng | Bình thản | Lo ngại
+43. 考慮 (こうりょ) | Phớt lờ | Bỏ qua | Làm ngơ | Xem xét
+44. 象徴 (しょうちょう) | Phi thực tế | Hư cấu | Vô nghĩa | Biểu tượng
+45. 誇張 (こちょう) | Thu nhỏ | Giảm bớt | Che giấu | Phóng đại
+46. 慎重 (しんちょう) | Bất cẩn | Vội vàng | Chủ quan | Thận trọng
+47. 均衡 (きんこう) | Mất cân bằng | Xung đột | Bất ổn | Cân bằng
+48. 妥協 (だきょう) | Cố chấp | Phản đối | Kiên định | Thỏa hiệp
+49. 錯覚 (さっかく) | Nhận thức đúng | Thực tế | Logic | Ảo giác
+50. 妥当 (だとう) | Vô lý | Sai trái | Mơ hồ | Thỏa đáng
+51. 懸命 (けんめい) | Lười biếng | Bỏ dở | Lãng phí | Nỗ lực
+52. 究明 (きゅうめい) | Giấu kín | Phớt lờ | Nhầm lẫn | Làm sáng tỏ
+53. 克服 (こくふく) | Đầu hàng | Bỏ cuộc | Thất bại | Khắc phục
+54. 専念 (せんねん) | Bỏ bê | Lơ là | Phớt lờ | Chuyên tâm
+55. 把握 (はあく) | Hiểu lầm | Mơ hồ | Bỏ qua | Nắm bắt
+56. 観念 (かんねん) | Thực tế | Vật chất | Phớt lờ | Quan niệm
+57. 妥当 (だとう) | Vô lý | Sai lệch | Nhầm lẫn | Thỏa đáng
+58. 正当 (せいとう) | Sai trái | Bất hợp pháp | Mơ hồ | Chính đáng
+59. 曖昧 (あいまい) | Rõ ràng | Minh bạch | Chính xác | Mơ hồ
+60. 複雑 (ふくざつ) | Đơn giản | Dễ hiểu | Rõ ràng | Phức tạp
+61. 簡易 (かんい) | Phức tạp | Rắc rối | Nhầm lẫn | Đơn giản
+62. 深刻 (しんこく) | Nhẹ nhàng | Bình thường | Tầm thường | Nghiêm trọng
+63. 拡大 (かくだい) | Thu hẹp | Giảm bớt | Dừng lại | Mở rộng
+64. 縮小 (しゅくしょう) | Mở rộng | Tăng lên | Phát triển | Thu nhỏ
+65. 統合 (とうごう) | Chia tách | Phân hóa | Tách rời | Hợp nhất
+66. 融合 (ゆうごう) | Chia tách | Đối lập | Phân ly | Dung hợp
+67. 依存 (いぞん) | Độc lập | Tự chủ | Tách rời | Phụ thuộc
+68. 対策 (たいさく) | Nguyên nhân | Hậu quả | Mơ hồ | Đối sách
+69. 誤解 (ごかい) | Hiểu đúng | Biết rõ | Minh bạch | Hiểu lầm
+70. 解明 (かいめい) | Giấu kín | Mơ hồ | Nhầm lẫn | Làm sáng tỏ
+71. 批判 (ひはん) | Ca ngợi | Tán thành | Ủng hộ | Phê phán
+72. 議論 (ぎろん) | Đồng thuận | Im lặng | Nhất trí | Thảo luận/Tranh luận
+73. 接続 (せつぞく) | Ngắt | Tách rời | Hủy bỏ | Kết nối
+74. 調整 (ちょうせい) | Làm rối | Bỏ dở | Hủy bỏ | Điều chỉnh
+75. 管理 (かんり) | Lơ là | Vứt bỏ | Phá hủy | Quản lý
+76. 維持 (いじ) | Hủy bỏ | Phá hủy | Thay đổi | Duy trì
+77. 継続 (けいぞく) | Bỏ cuộc | Dừng lại | Hủy bỏ | Tiếp tục
+78. 停止 (ていし) | Bắt đầu | Tiếp tục | Phát triển | Đình chỉ/Dừng
+79. 修正 (しゅうせい) | Làm hỏng | Vứt đi | Phá hủy | Sửa chữa
+80. 実施 (じっし) | Hủy bỏ | Phớt lờ | Nhầm lẫn | Thực thi
+81. 施行 (しこう) | Bãi bỏ | Phớt lờ | Mơ hồ | Thi hành
+82. 提唱 (ていしょう) | Phản đối | Phớt lờ | Sai lệch | Đề xướng
+83. 遵守 (じゅんしゅ) | Vi phạm | Phớt lờ | Nhầm lẫn | Tuân thủ
+84. 転換 (てんかん) | Giữ nguyên | Sai lệch | Mơ hồ | Chuyển đổi
+85. 供給 (きょうきゅう) | Nhu cầu | Tiêu thụ | Hủy bỏ | Cung cấp
+86. 需要 (じゅよう) | Cung cấp | Thừa thãi | Phớt lờ | Nhu cầu
+87. 消費 (しょうひ) | Tích trữ | Đầu cơ | Phớt lờ | Tiêu thụ
+88. 投資 (とうし) | Rút vốn | Phá sản | Phớt lờ | Đầu tư
+89. 利益 (りえき) | Thua lỗ | Nợ nần | Phớt lờ | Lợi nhuận
+90. 損失 (そんしつ) | Lợi nhuận | Thặng dư | Phớt lờ | Tổn thất
+91. 資産 (しさん) | Nợ nần | Nghèo đói | Phớt lờ | Tài sản
+92. 負債 (ふさい) | Tài sản | Giàu có | Phớt lờ | Nợ nần
+93. 予算 (よさん) | Chi vượt | Lãng phí | Phớt lờ | Ngân sách
+94. 契約 (けいやく) | Hủy bỏ | Đơn phương | Phớt lờ | Hợp đồng
+95. 承認 (しょうにん) | Từ chối | Bác bỏ | Phớt lờ | Phê duyệt
+96. 締結 (ていけつ) | Hủy bỏ | Phá vỡ | Phớt lờ | Ký kết
+97. 破棄 (はき) | Ký kết | Duy trì | Phớt lờ | Hủy bỏ
+98. 公正 (こうせい) | Thiên vị | Tư lợi | Phớt lờ | Công bằng
+99. 独占 (どくせん) | Cạnh tranh | Tự do | Phớt lờ | Độc quyền
+100. 模倣 (もほう) | Sáng tạo | Đổi mới | Phớt lờ | Bắt chước
+101. 暫定 (ざんてい) | Tạm thời | Vĩnh viễn | Cố định | Lâu dài
+102. 懸案 (けんあん) | Vấn đề tồn đọng | Giải quyết xong | Không tồn tại | Đơn giản
+103. 釈明 (しゃくめい) | Giải trình/Biện minh | Thú tội | Im lặng | Phớt lờ
+104. 疎通 (そつう) | Thông suốt/Giao tiếp | Tắc nghẽn | Hiểu lầm | Mâu thuẫn
+105. 享受 (きょうじゅ) | Hưởng thụ | Từ bỏ | Hy sinh | Chịu đựng
+106. 介在 (かいざい) | Trung gian/Can thiệp | Độc lập | Tách biệt | Tự phát
+107. 帰属 (きぞく) | Trực thuộc/Quy về | Độc lập | Tự do | Giải phóng
+108. 懸念 (けねん) | Lo ngại | Hy vọng | Tin tưởng | Bình thản
+109. 喚起 (かんき) | Khơi dậy/Gợi lên | Dập tắt | Ngăn cản | Phớt lờ
+110. 欺瞞 (ぎまん) | Lừa dối | Trung thực | Công khai | Rõ ràng
+111. 糾弾 (きゅうだん) | Kết tội/Cáo buộc | Khen ngợi | Tán thành | Ủng hộ
+112. 示唆 (しさ) | Ám chỉ/Gợi ý | Rõ ràng | Trực tiếp | Tuyên bố
+113. 疎外 (そがい) | Xa lánh/Cô lập | Gắn kết | Thân thiết | Hòa hợp
+114. 妥協 (だきょう) | Thỏa hiệp | Cố chấp | Phản đối | Kiên định
+115. 提携 (ていけい) | Hợp tác/Liên kết | Đối đầu | Tách biệt | Phá hủy
+116. 抵触 (ていしょく) | Xung đột/Vi phạm | Tuân thủ | Phù hợp | Hòa hợp
+117. 払拭 (ふっしょく) | Xóa bỏ/Gạt bỏ | Duy trì | Tăng cường | Xây dựng
+118. 密接 (みっせつ) | Mật thiết | Xa cách | Tách biệt | Lỏng lẻo
+119. 網羅 (もうら) | Bao hàm/Bao quát | Thiếu sót | Bỏ qua | Phớt lờ
+120. 誘発 (ゆうはつ) | Gây ra/Dẫn đến | Ngăn cản | Dập tắt | Phớt lờ
+121. 廉価 (れんか) | Giá rẻ | Đắt đỏ | Vô giá | Xa xỉ
+122. 露呈 (ろてい) | Lộ ra/Phơi bày | Che giấu | Giữ kín | Phớt lờ
+123. 簡潔 (かんけつ) | Súc tích | Dài dòng | Vòng vo | Rườm rà
+124. 均等 (きんとう) | Cân bằng/Đều | Lệch lạc | Thiên vị | Không đều
+125. 厳格 (げんかく) | Nghiêm khắc | Dễ dãi | Phớt lờ | Bỏ qua
+126. 巧妙 (こうみょう) | Khéo léo | Vụng về | Thô kệch | Kém cỏi
+127. 困惑 (こんわく) | Bối rối | Bình tĩnh | Tự tin | Vững vàng
+128. 脆弱 (ぜいじゃく) | Mong manh/Yếu đuối | Kiên cố | Phức tạp | Đơn giản
+129. 妥当 (だとう) | Thỏa đáng | Vô lý | Sai lệch | Mơ hồ
+130. 端的 (たんてき) | Trực diện | Vòng vo | Mơ hồ | Dài dòng
+131. 緻密 (ちみつ) | Tỉ mỉ | Sơ sài | Cẩu thả | Lỏng lẻo
+132. 明白 (めいはく) | Rõ ràng | Mơ hồ | Nhầm lẫn | Sai lệch
+133. 慎重 (しんちょう) | Thận trọng | Bất cẩn | Vội vàng | Chủ quan
+134. 曖昧 (あいまい) | Mơ hồ | Rõ ràng | Minh bạch | Chính xác
+135. 深刻 (しんこく) | Nghiêm trọng | Nhẹ nhàng | Bình thường | Tầm thường
+136. 拡大 (かくだい) | Mở rộng | Thu hẹp | Giảm bớt | Dừng lại
+137. 縮小 (しゅくしょう) | Thu nhỏ | Mở rộng | Tăng lên | Phát triển
+138. 統合 (とうごう) | Hợp nhất | Chia tách | Phân hóa | Tách rời
+139. 分離 (ぶんり) | Chia tách | Hợp nhất | Phớt lờ | Sai lệch
+140. 融合 (ゆうごう) | Dung hợp | Chia tách | Đối lập | Phân ly
+141. 独立 (どくりつ) | Độc lập | Phụ thuộc | Tự chủ | Ràng buộc
+142. 依存 (いぞん) | Phụ thuộc | Độc lập | Phớt lờ | Sai lệch
+143. 反応 (はんのう) | Phản ứng | Phớt lờ | Im lặng | Bỏ qua
+144. 対策 (たいさく) | Đối sách | Nguyên nhân | Phớt lờ | Mơ hồ
+145. 誤解 (ごかい) | Hiểu lầm | Hiểu đúng | Biết rõ | Minh bạch
+146. 解明 (かいめい) | Làm sáng tỏ | Giấu kín | Phớt lờ | Nhầm lẫn
+147. 批判 (ひはん) | Phê phán | Ca ngợi | Tán thành | Ủng hộ
+148. 議論 (ぎろん) | Thảo luận/Tranh luận | Đồng thuận | Im lặng | Phớt lờ
+149. 合意 (ごうい) | Đồng thuận | Tranh cãi | Phản đối | Im lặng
+150. 関連 (かんれん) | Liên quan | Tách biệt | Độc lập | Không dính dáng
+151. 接続 (せつぞく) | Kết nối | Ngắt kết nối | Tách rời | Phá hủy
+152. 調整 (ちょうせい) | Điều chỉnh | Làm rối | Bỏ qua | Phá hủy
+153. 管理 (かんり) | Quản lý | Lơ là | Vứt bỏ | Phá hủy
+154. 維持 (いじ) | Duy trì | Hủy bỏ | Phá hủy | Thay đổi
+155. 継続 (けいぞく) | Tiếp tục | Bỏ cuộc | Dừng lại | Hủy bỏ
+156. 停止 (ていし) | Đình chỉ/Dừng | Bắt đầu | Tiếp tục | Phát triển
+157. 修正 (しゅうせい) | Sửa chữa | Làm hỏng | Vứt đi | Phá hủy
+158. 実施 (じっし) | Thực thi | Hủy bỏ | Phớt lờ | Nhầm lẫn
+159. 施行 (しこう) | Thi hành | Bãi bỏ | Phớt lờ | Mơ hồ
+160. 提唱 (ていしょう) | Đề xướng | Phản đối | Phớt lờ | Sai lệch
+161. 遵守 (じゅんしゅ) | Tuân thủ | Vi phạm | Phớt lờ | Nhầm lẫn
+162. 転換 (てんかん) | Chuyển đổi | Giữ nguyên | Phớt lờ | Sai lệch
+163. 究明 (きゅうめい) | Làm rõ | Giấu kín | Phớt lờ | Mơ hồ
+164. 克服 (こくふく) | Khắc phục | Đầu hàng | Phớt lờ | Sai lệch
+165. 専念 (せんねん) | Chuyên tâm | Bỏ bê | Phớt lờ | Nhầm lẫn
+166. 把握 (はあく) | Nắm bắt | Hiểu lầm | Phớt lờ | Mơ hồ
+167. 記録 (きろく) | Ghi chép | Xóa bỏ | Phớt lờ | Sai lệch
+168. 記憶 (きおく) | Ký ức | Sự quên lãng | Phớt lờ | Nhầm lẫn
+169. 観念 (かんねん) | Quan niệm | Thực tế | Phớt lờ | Mơ hồ
+170. 哲学 (てつがく) | Triết học | Thực tế | Phớt lờ | Sai lệch
+171. 論理 (ろんり) | Logic | Vô nghĩa | Phớt lờ | Nhầm lẫn
+172. 根拠 (こんきょ) | Căn cứ | Vô căn cứ | Phớt lờ | Mơ hồ
+173. 妥当 (だとう) | Thỏa đáng | Vô lý | Phớt lờ | Sai lệch
+174. 正当 (せいとう) | Chính đáng | Sai trái | Phớt lờ | Nhầm lẫn
+175. 不当 (ふとう) | Bất công | Công bằng | Phớt lờ | Mơ hồ
+176. 明確 (めいかく) | Rõ ràng | Mơ hồ | Phớt lờ | Sai lệch
+177. 曖昧 (あいまい) | Mơ hồ | Rõ ràng | Phớt lờ | Nhầm lẫn
+178. 複雑 (ふくざつ) | Phức tạp | Đơn giản | Phớt lờ | Mơ hồ
+179. 簡易 (かんい) | Đơn giản | Phức tạp | Phớt lờ | Sai lệch
+180. 深刻 (しんこく) | Nghiêm trọng | Nhẹ nhàng | Phớt lờ | Nhầm lẫn
+181. 軽微 (けいび) | Nhẹ nhàng | Nghiêm trọng | Phớt lờ | Mơ hồ
+182. 拡大 (かくだい) | Mở rộng | Thu hẹp | Phớt lờ | Sai lệch
+183. 縮小 (しゅくしょう) | Thu nhỏ | Mở rộng | Phớt lờ | Nhầm lẫn
+184. 統合 (とうごう) | Hợp nhất | Chia tách | Phớt lờ | Mơ hồ
+185. 分離 (ぶんり) | Chia tách | Hợp nhất | Phớt lờ | Sai lệch
+186. 融合 (ゆうごう) | Dung hợp | Chia tách | Phớt lờ | Nhầm lẫn
+187. 独立 (どくりつ) | Độc lập | Phụ thuộc | Phớt lờ | Mơ hồ
+188. 依存 (いぞん) | Phụ thuộc | Độc lập | Phớt lờ | Sai lệch
+189. 反応 (はんのう) | Phản ứng | Phớt lờ | Im lặng | Nhầm lẫn
+190. 対策 (たいさく) | Đối sách | Nguyên nhân | Phớt lờ | Mơ hồ
+191. 誤解 (ごかい) | Hiểu lầm | Hiểu đúng | Phớt lờ | Sai lệch
+192. 解明 (かいめい) | Làm sáng | Giấu kín | Phớt lờ | Nhầm lẫn
+193. 妥協 (だきょう) | Thỏa hiệp | Cố chấp | Phớt lờ | Mơ hồ
+194. 批判 (ひはん) | Phê phán | Ca ngợi | Phớt lờ | Sai lệch
+195. 議論 (ぎろん) | Thảo luận | Đồng thuận | Phớt lờ | Nhầm lẫn
+196. 合意 (ごうい) | Đồng thuận | Tranh cãi | Phớt lờ | Mơ hồ
+197. 関連 (かんれん) | Liên quan | Tách biệt | Phớt lờ | Sai lệch
+198. 接続 (せつぞく) | Kết nối | Ngắt | Phớt lờ | Nhầm lẫn
+199. 調整 (ちょうせい) | Điều chỉnh | Làm rối | Phớt lờ | Mơ hồ
+200. 管理 (かんり) | Quản lý | Lơ là | Phớt lờ | Sai lệch

@@ -1,0 +1,341 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ứng dụng Trắc nghiệm Ngoại Ngữ Đa Năng</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --accent: #3498db;
+            --success: #27ae60;
+            --danger: #c0392b;
+            --bg: #f4f6f9;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+        body { background-color: var(--bg); color: var(--primary); padding: 15px; display: flex; flex-direction: column; align-items: center; }
+        
+        .container { max-width: 500px; width: 100%; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-top: 10px; }
+        h1 { text-align: center; font-size: 22px; margin-bottom: 15px; color: var(--primary); }
+        
+        /* Chọn Ngôn Ngữ (Mục lớn) */
+        .lang-container { display: flex; gap: 8px; margin-bottom: 15px; }
+        .lang-btn { flex: 1; padding: 12px 5px; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; background: #ecf0f1; transition: 0.2s; font-size: 14px; }
+        .lang-btn.active { background: var(--accent); color: white; }
+        
+        /* Chọn Bài học / Cấp bậc */
+        .lesson-container { margin-bottom: 15px; display: flex; flex-direction: column; gap: 5px; }
+        .lesson-container label { font-size: 13px; font-weight: bold; color: #7f8c8d; }
+        .lesson-select { width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #bdc3c7; font-size: 15px; background: white; cursor: pointer; }
+        
+        /* Khung câu hỏi */
+        .question-box { background: #fff; border: 1px solid #ddd; padding: 20px; border-radius: 8px; text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 10px; min-height: 80px; display: flex; align-items: center; justify-content: center; }
+        .result-box { text-align: center; font-style: italic; min-height: 40px; margin-bottom: 15px; font-size: 14px; color: #7f8c8d; line-height: 1.4; }
+        
+        /* Nút đáp án */
+        .choices-grid { display: flex; flex-direction: column; gap: 10px; }
+        .choice-btn { width: 100%; padding: 14px; font-size: 16px; background: var(--primary); color: white; border: none; border-radius: 8px; cursor: pointer; transition: 0.1s; text-align: center; }
+        .choice-btn:disabled { cursor: not-allowed; opacity: 0.8; }
+        
+        /* Trạng thái đúng sai */
+        .choice-btn.correct { background: var(--success) !important; }
+        .choice-btn.wrong { background: var(--danger) !important; }
+        
+        /* Điểm và câu tiếp theo */
+        .footer-row { display: flex; justify-content: space-between; align-items: center; margin-top: 20px; padding-top: 15px; border-top: 1px solid #eee; }
+        .score { font-size: 16px; font-weight: bold; color: var(--success); }
+        .next-btn { padding: 10px 20px; background: #e74c3c; color: white; border: none; border-radius: 6px; font-weight: bold; cursor: pointer; display: none; }
+        
+        /* Khung quản lý dữ liệu */
+        .data-management { margin-top: 25px; border-top: 2px dashed #ddd; padding-top: 15px; }
+        .data-management summary { font-weight: bold; cursor: pointer; color: #7f8c8d; margin-bottom: 10px; }
+        textarea { width: 100%; height: 120px; padding: 10px; border-radius: 6px; border: 1px solid #ccc; font-family: monospace; font-size: 12px; margin-bottom: 8px; resize: vertical; }
+        .btn-group { display: flex; gap: 8px; flex-wrap: wrap; }
+        .save-btn { padding: 8px 15px; background: #8e44ad; color: white; border: none; border-radius: 4px; font-weight: bold; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>QUIZ NGOẠI NGỮ ĐA NĂNG</h1>
+        
+        <div class="lang-container">
+            <button class="lang-btn active" id="btn-English" onclick="switchLanguage('English')">🇬🇧 English</button>
+            <button class="lang-btn" id="btn-Japanese" onclick="switchLanguage('Japanese')">🇯🇵 Japanese</button>
+            <button class="lang-btn" id="btn-Chinese" onclick="switchLanguage('Chinese')">🇨🇳 Chinese</button>
+        </div>
+        
+        <div class="lesson-container">
+            <label for="lesson-select">Chọn bài học / Cấp độ:</label>
+            <select id="lesson-select" class="lesson-select" onchange="switchLesson()"></select>
+        </div>
+        
+        <div class="question-box" id="question">Đang tải dữ liệu...</div>
+        <div class="result-box" id="result">Hãy chọn một đáp án!</div>
+        
+        <div class="choices-grid">
+            <button class="choice-btn" onclick="checkAnswer(0)"></button>
+            <button class="choice-btn" onclick="checkAnswer(1)"></button>
+            <button class="choice-btn" onclick="checkAnswer(2)"></button>
+            <button class="choice-btn" onclick="checkAnswer(3)"></button>
+        </div>
+        
+        <div class="footer-row">
+            <div class="score" id="score">Điểm: 0/0</div>
+            <button class="next-btn" id="next-btn" onclick="nextQuestion()">Câu tiếp theo ➡️</button>
+        </div>
+
+        <div class="data-management">
+            <details>
+                <summary>⚙️ Xem / Chỉnh sửa nhanh bài hiện tại</summary>
+                <p style="font-size: 12px; color: #7f8c8d; margin-bottom: 5px;">Định dạng: Câu hỏi | Đúng | Sai1 | Sai2 | Sai3</p>
+                <textarea id="data-input" placeholder="Nhập dữ liệu vào đây..."></textarea>
+                <div class="btn-group">
+                    <button class="save-btn" onclick="saveData()">💾 Lưu tạm tại máy</button>
+                    <button class="save-btn" style="background: #e67e22;" onclick="resetToDefault()">🔄 Đồng bộ lại từ GitHub Server</button>
+                </div>
+            </details>
+        </div>
+    </div>
+
+    <script>
+        // CẤU HÌNH DANH SÁCH FILE .TXT TƯƠNG ỨNG TẠI ĐÂY
+        // Bạn có thể thoải mái thêm tên file .txt vào đây mà không cần sửa HTML
+        const lessonMap = {
+            English: [
+		"Lop1-tuvung.txt",
+		"Lop2-tuvung.txt",
+		"Lop3-tuvung.txt",
+		"Lop4-tuvung.txt",
+		"Lop5-tuvung.txt",
+		"Lop6-tuvung.txt",
+		"Lop7-tuvung.txt",
+		"Lop8-tuvung.txt",
+		"Lop9-tuvung.txt"
+		],
+            Japanese: [
+		"N1-nguphap.txt",
+		"N1-tuvung.txt", 
+		"N2-nguphap.txt",
+		"N2-tuvung.txt", 
+		"N3-nguphap.txt",
+		"N3-tuvung.txt", 
+		"N4-nguphap.txt",
+		"N4-tuvung.txt", 
+		"N5-nguphap.txt",
+		"N5-tuvung.txt", 
+		"tonghopn1.txt"
+		],
+            Chinese: [
+		"hsk1-nguphap.txt",
+		"hsk1-tuvung.txt",
+		"hsk2-nguphap.txt",
+		"hsk2-tuvung.txt",
+		"hsk3-nguphap.txt",
+		"hsk3-tuvung.txt",
+		"hsk4-nguphap.txt",
+		"hsk4-tuvung.txt",
+		"hsk5-nguphap.txt",
+		"hsk5-tuvung.txt",
+		"hsk6-nguphap.txt",
+		"hsk6-tuvung.txt",
+		]
+        };
+
+        let currentLang = "English";
+        let currentFileName = "";
+        let quizData = [];
+        let currentQuestion = null;
+        let currentChoices = []; 
+        let score = 0;
+        let totalQuestions = 0;
+        let countdownTimer = null;
+
+        // Tải dữ liệu từ file trên server GitHub dựa trên Ngôn ngữ + Tên file
+        async function loadDataFromServer(lang, fileName) {
+    // 1. Lấy đường dẫn gốc của trang web hiện tại (giúp chạy đúng cả ở máy tính lẫn GitHub)
+    const origin = window.location.origin;
+    const pathname = window.location.pathname;
+    
+    // 2. Chuẩn hóa thư mục gốc (Bỏ tên file index.html ở cuối đường dẫn nếu có)
+    const baseDir = pathname.substring(0, pathname.lastIndexOf('/') + 1);
+    
+    // 3. Ghép thành đường dẫn tuyệt đối chính xác 100% tới file .txt
+    const filePath = `${origin}${baseDir}${lang}/${fileName}`;
+    
+    console.log("Đang tải dữ liệu từ đường dẫn:", filePath); // Dòng này để bạn kiểm tra trong F12 Console nếu cần
+
+    try {
+        const response = await fetch(filePath);
+        if (!response.ok) throw new Error(`Không tìm thấy file tại: ${filePath}`);
+        const text = await response.text();
+        return text.trim();
+    } catch (error) {
+        console.error("Lỗi fetch file:", error);
+        return `Lỗi | Không thể nạp file: ${lang}/${fileName} | Vui lòng kiểm tra lại | Tên file trên GitHub | Khớp chữ Hoa/Thường chưa?`;
+    }
+}
+
+        // Khởi tạo ứng dụng
+        async function initApp() {
+            await switchLanguage(currentLang);
+        }
+
+        // Chuyển đổi Ngôn ngữ lớn
+        async function switchLanguage(lang) {
+            currentLang = lang;
+            
+            // Cập nhật trạng thái nút bấm active
+            document.querySelectorAll(".lang-btn").forEach(btn => btn.classList.remove("active"));
+            document.getElementById(`btn-${lang}`).classList.add("active");
+
+            // Nạp danh sách bài học tương ứng vào thanh Select thả xuống
+            const selectEl = document.getElementById("lesson-select");
+            selectEl.innerHTML = "";
+            
+            const lessons = lessonMap[lang];
+            lessons.forEach(file => {
+                const option = document.createElement("option");
+                option.value = file;
+                option.text = file.replace(".txt", "").replace(/_/g, " "); // Định dạng tên hiển thị cho đẹp
+                selectEl.appendChild(option);
+            });
+
+            // Chọn mặc định file đầu tiên của ngôn ngữ đó
+            await switchLesson();
+        }
+
+        // Chuyển đổi bài học cụ thể trong Menu thả xuống
+        async function switchLesson() {
+            const selectEl = document.getElementById("lesson-select");
+            if (!selectEl.value) return;
+            
+            currentFileName = selectEl.value;
+            const storageKey = `web_quiz_${currentLang}_${currentFileName}`;
+            
+            // Nếu máy chưa có dữ liệu bài này, tải từ Server về
+            if (!localStorage.getItem(storageKey)) {
+                document.getElementById("question").innerText = "Đang tải dữ liệu từ Server...";
+                const textData = await loadDataFromServer(currentLang, currentFileName);
+                localStorage.setItem(storageKey, textData);
+            }
+
+            const rawData = localStorage.getItem(storageKey) || "";
+            document.getElementById("data-input").value = rawData;
+            
+            score = 0; totalQuestions = 0;
+            document.getElementById("score").innerText = "Điểm: 0/0";
+            
+            parseData(rawData);
+            nextQuestion();
+        }
+
+        // Đồng bộ lại file gốc từ Server (Xóa bản sửa đổi local)
+        async function resetToDefault() {
+            if (confirm("Bạn muốn xóa bản sửa đổi tạm thời để tải lại file gốc trên Server?")) {
+                const storageKey = `web_quiz_${currentLang}_${currentFileName}`;
+                localStorage.removeItem(storageKey);
+                await switchLesson();
+                alert("Đã cập nhật lại file dữ liệu gốc!");
+            }
+        }
+
+        // Xử lý text thành mảng câu hỏi
+        function parseData(text) {
+            quizData = [];
+            const lines = text.split(/\r?\n/);
+            for (let line of lines) {
+                line = line.trim();
+                if (!line || !line.includes("|")) continue;
+                const parts = line.split("|").map(p => p.trim());
+                if (parts.length === 5) {
+                    quizData.push({
+                        question: parts[0],
+                        correct: parts[4],
+                        choices: [parts[1], parts[2], parts[3]]
+                    });
+                }
+            }
+        }
+
+        // Lưu tạm thời sửa đổi tại máy người dùng
+        function saveData() {
+            const text = document.getElementById("data-input").value;
+            const storageKey = `web_quiz_${currentLang}_${currentFileName}`;
+            localStorage.setItem(storageKey, text);
+            parseData(text);
+            alert("Đã lưu chỉnh sửa tạm thời cho bài này!");
+            nextQuestion();
+        }
+
+        // Chuyển sang câu hỏi kế tiếp
+        function nextQuestion() {
+            clearTimeout(countdownTimer);
+            document.getElementById("next-btn").style.display = "none";
+            document.getElementById("result").innerText = "Hãy chọn một đáp án!";
+            document.getElementById("result").style.color = "#7f8c8d";
+            
+            if (quizData.length === 0) {
+                document.getElementById("question").innerText = "Bài học này hiện chưa có dữ liệu câu hỏi.";
+                hideChoices();
+                return;
+            }
+
+            currentQuestion = quizData[Math.floor(Math.random() * quizData.length)];
+            document.getElementById("question").innerText = "Ý nghĩa của: " + currentQuestion.question;
+
+            currentChoices = [...currentQuestion.choices, currentQuestion.correct];
+            currentChoices.sort(() => Math.random() - 0.5);
+
+            const buttons = document.querySelectorAll(".choice-btn");
+            buttons.forEach((btn, idx) => {
+                btn.innerText = currentChoices[idx];
+                btn.className = "choice-btn";
+                btn.disabled = false;
+                btn.style.display = "block";
+            });
+        }
+
+        function hideChoices() {
+            document.querySelectorAll(".choice-btn").forEach(btn => btn.style.display = "none");
+        }
+
+        // Kiểm tra đúng / sai (Đã sửa lỗi xáo trộn)
+        function checkAnswer(idx) {
+            const buttons = document.querySelectorAll(".choice-btn");
+            const selected = currentChoices[idx]; 
+            const correct = currentQuestion.correct;
+            
+            totalQuestions++;
+            buttons.forEach(btn => btn.disabled = true);
+            document.getElementById("next-btn").style.display = "block";
+
+            if (selected === correct) {
+                score++;
+                buttons[idx].classList.add("correct");
+                startCountdown(5, "Chính xác! 🎉", "#27ae60");
+            } else {
+                buttons[idx].classList.add("wrong");
+                buttons.forEach((btn, i) => { 
+                    if (currentChoices[i] === correct) btn.classList.add("correct"); 
+                });
+                startCountdown(5, `Sai rồi! ❌ Đáp án đúng là:\n${correct}`, "#c0392b");
+            }
+            document.getElementById("score").innerText = `Điểm: ${score}/${totalQuestions}`;
+        }
+
+        function startCountdown(seconds, statusText, color) {
+            const resultBox = document.getElementById("result");
+            resultBox.style.color = color;
+            if (seconds > 0) {
+                resultBox.innerText = `${statusText}\n(Tự chuyển câu sau ${seconds} giây...)`;
+                countdownTimer = setTimeout(() => startCountdown(seconds - 1, statusText, color), 1000);
+            } else {
+                nextQuestion();
+            }
+        }
+
+        window.onload = initApp;
+    </script>
+</body>
+</html>

@@ -1,0 +1,300 @@
+﻿1. 仓储 (cāngchǔ) | Vận chuyển | Bán hàng | Phớt lờ | Lưu kho/Kho bãi
+2. 配送 (pèisòng) | Sản xuất | Thu mua | Phớt lờ | Phân phối/Giao hàng
+3. 盘点 (pándiǎn) | Xuất kho | Mua hàng | Phớt lờ | Kiểm kê
+4. 缺货 (quēhuò) | Dư hàng | Hàng tồn | Phớt lờ | Hết hàng
+5. 入库 (rùkù) | Xuất kho | Giao hàng | Phớt lờ | Nhập kho
+6. 出库 (chūkù) | Nhập kho | Trả hàng | Phớt lờ | Xuất kho
+7. 装卸 (zhuāngxiè) | Đóng gói | Kiểm tra | Phớt lờ | Bốc xếp/Dỡ hàng
+8. 供应链 (gōngyìngliàn) | Sản xuất | Tiêu thụ | Phớt lờ | Chuỗi cung ứng
+9. 积压 (jīyā) | Lưu thông | Bán hết | Phớt lờ | Tồn đọng (hàng hóa)
+10. 周转 (zhōuzhuǎn) | Đình trệ | Hủy bỏ | Phớt lờ | Luân chuyển
+11. 搬运 (bānyùn) | Đóng gói | Lưu kho | Phớt lờ | Vận chuyển/Bốc vác
+12. 运输 (yùnshū) | Lưu kho | Bảo quản | Phớt lờ | Vận tải
+13. 堆码 (duīmǎ) | Vận chuyển | Đóng gói | Phớt lờ | Xếp chồng
+14. 包装 (bāozhuāng) | Kiểm kê | Vận chuyển | Phớt lờ | Đóng gói
+15. 货架 (huòjià) | Kho hàng | Xe nâng | Phớt lờ | Kệ hàng
+16. 叉车 (chāchē) | Xe tải | Xe máy | Phớt lờ | Xe nâng
+17. 托盘 (tuōpán) | Xe đẩy | Thùng gỗ | Phớt lờ | Pallet
+18. 标签 (biāoqiān) | Thùng carton | Giấy in | Phớt lờ | Nhãn dán/Tem
+19. 订单 (dìngdān) | Hóa đơn | Báo cáo | Phớt lờ | Đơn đặt hàng
+20. 运费 (yùnfèi) | Giá mua | Thuế | Phớt lờ | Cước vận chuyển
+21. 通关 (tōngguān) | Giao hàng | Lưu kho | Phớt lờ | Thông quan
+22. 滞留 (zhìliú) | Giải phóng | Vận chuyển | Phớt lờ | Lưu bãi/Tắc nghẽn
+23. 承运人 (chéngyùnrén) | Người mua | Người bán | Phớt lờ | Người vận chuyển
+24. 货源 (huòyuán) | Khách hàng | Kho hàng | Phớt lờ | Nguồn hàng
+25. 破损 (pòsǔn) | Còn nguyên | Mới | Phớt lờ | Hư hỏng/Vỡ
+26. 质检 (zhìjiǎn) | Giao hàng | Đóng gói | Phớt lờ | Kiểm tra chất lượng
+27. 条码 (tiáomǎ) | Nhãn dán | Tem giá | Phớt lờ | Mã vạch
+28. 报表 (bàobiǎo) | Hợp đồng | Biên bản | Phớt lờ | Bảng báo cáo
+29. 监控 (jiānkòng) | Kiểm kê | Nhập kho | Phớt lờ | Giám sát
+30. 防火 (fánghuǒ) | Làm mát | Chống trộm | Phớt lờ | Phòng cháy
+31. 损耗 (sǔnhào) | Tăng trưởng | Lợi nhuận | Phớt lờ | Hao hụt
+32. 拣货 (jiǎnhuò) | Nhập kho | Kiểm kê | Phớt lờ | Nhặt hàng/Soạn hàng
+33. 绩效 (jìxiào) | Lương | Thuế | Phớt lờ | Hiệu suất
+34. 规程 (guīchéng) | Tùy tiện | Sáng tạo | Phớt lờ | Quy trình/Quy tắc
+35. 应急 (yìngjí) | Bình thường | Kế hoạch | Phớt lờ | Ứng phó khẩn cấp
+36. 成本 (chéngběn) | Doanh thu | Lợi nhuận | Phớt lờ | Giá thành/Chi phí
+37. 差异 (chāyì) | Giống nhau | Đồng nhất | Phớt lờ | Sai lệch/Khác biệt
+38. 实时 (shíshí) | Định kỳ | Trễ | Phớt lờ | Thời gian thực
+39. 分拣 (fēnjiǎn) | Đóng gói | Vận chuyển | Phớt lờ | Phân loại hàng
+40. 库位 (kùwèi) | Cổng kho | Văn phòng | Phớt lờ | Vị trí kho
+41. 报关 (bàoguān) | Thông quan | Vận chuyển | Phớt lờ | Khai báo hải quan
+42. 索赔 (suǒpéi) | Bán hàng | Mua hàng | Phớt lờ | Khiếu nại/Đòi bồi thường
+43. 集装箱 (jízhuāngxiāng) | Xe tải | Kho lạnh | Phớt lờ | Container
+44. 干线 (gànxiàn) | Tuyến phụ | Lối đi | Phớt lờ | Tuyến đường chính
+45. 覆盖 (fùgài) | Thiếu sót | Bỏ qua | Phớt lờ | Bao phủ/Phạm vi
+46. 自动化 (zìdònghuà) | Thủ công | Truyền thống | Phớt lờ | Tự động hóa
+47. 传感器 (chuángǎnqì) | Đèn | Máy in | Phớt lờ | Cảm biến
+48. 追溯 (zhuīsù) | Bỏ qua | Phớt lờ | Xóa bỏ | Truy xuất nguồn gốc
+49. 效率 (xiàolǜ) | Lãng phí | Chậm chạp | Phớt lờ | Hiệu suất
+50. 规模 (guīmó) | Cá nhân | Nhỏ | Phớt lờ | Quy mô
+51. 优化 (yōuhuà) | Làm tệ đi | Giữ nguyên | Phớt lờ | Tối ưu hóa
+52. 结算 (jiésuàn) | Mua hàng | Nhập kho | Phớt lờ | Thanh toán/Quyết toán
+53. 审核 (shěnhé) | Phớt lờ | Bỏ qua | Phá hủy | Phê duyệt/Xét duyệt
+54. 预警 (yùjǐng) | Bình yên | Hoàn thành | Phớt lờ | Cảnh báo sớm
+55. 整合 (zhěnghé) | Chia tách | Phân hóa | Phớt lờ | Hợp nhất/Tích hợp
+56. 终端 (zhōngduān) | Khởi đầu | Trung gian | Phớt lờ | Đầu cuối
+57. 采购 (cǎigòu) | Bán ra | Sản xuất | Phớt lờ | Thu mua
+58. 客户 (kèhù) | Nhân viên | Người bán | Phớt lờ | Khách hàng
+59. 准时 (zhǔnshí) | Trễ | Hủy bỏ | Phớt lờ | Đúng giờ
+60. 运输网 (yùnshūwǎng) | Kho hàng | Kệ hàng | Phớt lờ | Mạng lưới vận tải
+61. 仓租 (cāngzū) | Phí mua | Phí vận tải | Phớt lờ | Phí thuê kho
+62. 调度 (diàodù) | Nghỉ ngơi | Tạm dừng | Phớt lờ | Điều phối
+63. 包装箱 (bāozhuāngxiāng) | Pallet | Kệ | Phớt lờ | Thùng đóng gói
+64. 托运 (tuōyùn) | Mua hàng | Lưu kho | Phớt lờ | Ký gửi
+65. 提货 (tíhuò) | Nhập kho | Kiểm kê | Phớt lờ | Lấy hàng
+66. 签收 (qiānshōu) | Trả hàng | Hủy đơn | Phớt lờ | Ký nhận
+67. 坏品 (huàipǐn) | Hàng tốt | Hàng mới | Phớt lờ | Hàng lỗi/Hỏng
+68. 批次 (pīcì) | Số lượng | Giá tiền | Phớt lờ | Số lô hàng
+69. 编码 (biānmǎ) | Nhãn dán | Tem | Phớt lờ | Mã hóa
+70. 上架 (shàngjià) | Xuất kho | Kiểm tra | Phớt lờ | Đưa hàng lên kệ
+71. 下架 (xiàjià) | Nhập kho | Đóng gói | Phớt lờ | Lấy hàng xuống kệ
+72. 移库 (yíkù) | Kiểm kê | Giao hàng | Phớt lờ | Di chuyển kho
+73. 过磅 (guòbàng) | Đóng gói | Phân loại | Phớt lờ | Cân trọng lượng
+74. 装卸费 (zhuāngxièfèi) | Phí kho | Phí vận tải | Phớt lờ | Phí bốc xếp
+75. 货单 (huòdān) | Hợp đồng | Biên bản | Phớt lờ | Phiếu hàng
+76. 损耗率 (sǔnhàolǜ) | Lợi nhuận | Tăng trưởng | Phớt lờ | Tỷ lệ hao hụt
+77. 出入库 (chūrùkù) | Kiểm kê | Bảo quản | Phớt lờ | Nhập xuất kho
+78. 储存 (chǔcún) | Vận chuyển | Đóng gói | Phớt lờ | Lưu trữ
+79. 搬运工 (bānyùngōng) | Giám đốc | Kế toán | Phớt lờ | Công nhân bốc xếp
+80. 货位 (huòwèi) | Cổng | Văn phòng | Phớt lờ | Vị trí hàng hóa
+81. 周转率 (zhōuzhuǎnlǜ) | Tỷ lệ lỗi | Phí kho | Phớt lờ | Tỷ lệ luân chuyển
+82. 积压品 (jīyāpǐn) | Hàng mới | Hàng bán chạy | Phớt lờ | Hàng tồn đọng
+83. 配送中心 (pèisòngzhōngxīn) | Kho sản xuất | Cửa hàng | Phớt lờ | Trung tâm phân phối
+84. 物流 (wùliú) | Sản xuất | Bán lẻ | Phớt lờ | Logistics
+85. 运单 (yùndān) | Hợp đồng | Hóa đơn | Phớt lờ | Vận đơn
+86. 核对 (héduì) | Bỏ qua | Phớt lờ | Tin tưởng | Đối chiếu
+87. 合规 (héguī) | Tùy tiện | Sai quy định | Phớt lờ | Tuân thủ/Hợp quy
+88. 智能化 (zhìnénghuà) | Thủ công | Lạc hậu | Phớt lờ | Thông minh hóa
+89. 柔性 (róuxìng) | Cứng nhắc | Cố định | Phớt lờ | Tính linh hoạt
+90. 追溯性 (zhuīsùxìng) | Vô căn cứ | Mơ hồ | Phớt lờ | Tính truy xuất
+91. 零担 (língdàn) | Nguyên xe | Số lượng lớn | Phớt lờ | Hàng lẻ
+92. 整车 (zhěngchē) | Hàng lẻ | Số lượng nhỏ | Phớt lờ | Hàng nguyên xe
+93. 时效 (shíxiào) | Trễ | Vô thời hạn | Phớt lờ | Thời hạn/Hiệu lực
+94. 路径 (lùjìng) | Lối đi | Kho hàng | Phớt lờ | Lộ trình
+95. 成本控制 (chéngběnkòngzhì) | Tăng chi phí | Lãng phí | Phớt lờ | Kiểm soát chi phí
+96. 服务水平 (fúwùshuǐpíng) | Lỗi dịch vụ | Tệ | Phớt lờ | Mức độ dịch vụ
+97. 响应 (xiǎngyìng) | Phớt lờ | Bỏ qua | Im lặng | Phản hồi
+98. 供应链管理 (gōngyìngliànguǎnlǐ) | Bán hàng | Sản xuất | Phớt lờ | Quản lý chuỗi cung ứng
+99. 协作 (xiézuò) | Đối đầu | Chia rẽ | Phớt lờ | Cộng tác
+100. 可持续 (kěchíxù) | Ngắn hạn | Tạm thời | Phớt lờ | Bền vững
+1. 垄断 (lǒngduàn) | Cạnh tranh | Hợp tác | Tự do | Độc quyền
+2. 兼并 (jiānbìng) | Chia tách | Phá sản | Bán lẻ | Sáp nhập
+3. 亏损 (kuīsǔn) | Lãi | Doanh thu | Vốn | Thua lỗ
+4. 负债 (fùzhài) | Lãi | Tài sản | Vốn | Nợ phải trả
+5. 汇率 (huìlǜ) | Lãi suất | Giá vàng | Giá xăng | Tỷ giá hối đoái
+6. 通胀 (tōngzhàng) | Giảm phát | Tăng trưởng | Ổn định | Lạm phát
+7. 融资 (róngzī) | Vay vốn | Trả nợ | Phá sản | Huy động vốn
+8. 审计 (shěnjì) | Kế toán | Bán hàng | Sản xuất | Kiểm toán
+9. 诉讼 (sùsòng) | Hòa giải | Thương lượng | Hợp đồng | Kiện tụng
+10. 条款 (tiáokuǎn) | Phụ lục | Đề mục | Văn bản | Điều khoản
+11. 仲裁 (zhòngcái) | Hòa giải | Khởi tố | Kết án | Trọng tài
+12. 知识产权 (zhīshìchǎnquán) | Tài sản | Kinh doanh | Sản phẩm | Sở hữu trí tuệ
+13. 法人 (fǎrén) | Cá nhân | Luật sư | Công dân | Pháp nhân
+14. 赔偿 (péicháng) | Phạt | Tặng | Mua | Bồi thường
+15. 辩护 (biànhù) | Tố cáo | Kết tội | Xét xử | Biện hộ
+16. 算法 (suànfǎ) | Phần cứng | Mạng | Máy chủ | Thuật toán
+17. 云计算 (yúnjìsuàn) | Máy trạm | Ổ cứng | Màn hình | Điện toán đám mây
+18. 大数据 (dàshùjù) | Máy chủ | Phần cứng | Mạng | Dữ liệu lớn
+19. 编程 (biānchéng) | Thiết kế | Lắp ráp | Đồ họa | Lập trình
+20. 兼容 (jiānróng) | Xung đột | Lỗi | Treo | Tương thích
+21. 迭代 (diédài) | Cũ kỹ | Giữ nguyên | Dừng lại | Lặp lại
+22. 接口 (jiēkǒu) | Màn hình | Chuột | Bàn phím | Giao diện
+23. 防火墙 (fánghuǒqiáng) | Virus | Màn hình | Máy chủ | Tường lửa
+24. 认证 (rènzhèng) | Khóa | Quên | Lỗi | Xác thực
+25. 数据挖掘 (shùjùwājué) | Nhập liệu | Xóa dữ liệu | Lưu trữ | Khai phá dữ liệu
+26. 薪酬 (xīnchóu) | Đãi ngộ | Thuế | Bảo hiểm | Lương bổng
+27. 激励 (jīlì) | Phạt | Kỷ luật | Sa thải | Khích lệ
+28. 晋升 (jìnshēng) | Giáng chức | Đuổi việc | Chuyển ngành | Thăng tiến
+29. 考勤 (kǎoqín) | Lương | Thưởng | Đào tạo | Chấm công
+30. 人才流失 (réncáiliúshī) | Tuyển dụng | Đào tạo | Thăng tiến | Chảy máu chất xám
+31. 愿景 (yuànjǐng) | Mục tiêu | Lợi nhuận | Chiến lược | Tầm nhìn
+32. 核心竞争力 (héxīnjìngzhēnglì) | Lợi nhuận | Doanh thu | Vốn | Năng lực cạnh tranh cốt lõi
+33. 执行力 (zhíxínglì) | Lập kế hoạch | Nghiên cứu | Bán hàng | Năng lực thực thi
+34. 损益表 (sǔnyìbiǎo) | Bảng thuế | Bảng vốn | Vay | Báo cáo kết quả kinh doanh
+35. 现金流 (xiànjīnliú) | Vay vốn | Tài sản | Nợ | Dòng tiền
+36. 市场调研 (shìchǎngdiàoyán) | Sản xuất | Đóng gói | Vận chuyển | Nghiên cứu thị trường
+37. 品牌定位 (pǐnpáidìngwèi) | Bán hàng | Sản xuất | Quảng cáo | Định vị thương hiệu
+38. 盈余 (yíngyú) | Thâm hụt | Thuế | Vốn | Thặng dư
+39. 通缩 (tōngsuō) | Lạm phát | Tăng trưởng | Vốn | Giảm phát
+40. 杠杆 (gànggǎn) | Tiết kiệm | Đầu tư | Nợ | Đòn bẩy
+41. 抵押 (dǐyā) | Vay | Trả | Phạt | Thế chấp
+42. 征税 (zhēngshuì) | Hoàn thuế | Trợ cấp | Vốn | Thu thuế
+43. 预算 (yùsuàn) | Doanh thu | Lợi nhuận | Nợ | Ngân sách
+44. 净值 (jìngzhí) | Tổng tài sản | Nợ | Vốn | Giá trị ròng
+45. 配额 (pèi'é) | Hợp đồng | Thuế | Thị trường | Hạn ngạch
+46. 契约 (qìyuē) | Hòa giải | Tố cáo | Phá sản | Giao kèo
+47. 调解 (tiáojiě) | Khởi tố | Kết án | Thi hành | Hòa giải
+48. 侵权 (qīnquán) | Hợp pháp | Sở hữu | Bản quyền | Xâm phạm quyền
+49. 诉讼法 (sùsòngfǎ) | Luật dân sự | Luật hình sự | Văn bản | Luật tố tụng
+50. 申诉 (shēnsù) | Tố cáo | Hòa giải | Kết án | Khiếu nại
+51. 执行 (zhíxíng) | Hủy bỏ | Đình chỉ | Phê duyệt | Thi hành án
+52. 担保 (dānbǎo) | Vay | Thuê | Phạt | Bảo lãnh
+53. 授权 (shòuquán) | Hủy bỏ | Tố cáo | Kiện tụng | Ủy quyền
+54. 法规 (fǎguī) | Văn bản | Hợp đồng | Bản án | Pháp quy
+55. 违约金 (wéiyuējīn) | Tiền cọc | Lương | Thuế | Phạt vi phạm
+56. 宽带 (kuāndài) | Máy tính | Màn hình | Chuột | Băng thông
+57. 兼容性 (jiānróngxìng) | Lỗi | Xung đột | Treo | Tính tương thích
+58. 数据库 (shùjùkù) | Máy chủ | Mạng | Phần cứng | Cơ sở dữ liệu
+59. 加密 (jiāmì) | Giải mã | Sao lưu | Lỗi | Mã hóa
+60. 服务器 (fúwùqì) | Màn hình | Chuột | Bàn phím | Máy chủ
+61. 虚拟化 (xūnǐhuà) | Phần cứng | Mạng | Lỗi | Ảo hóa
+62. 物联网 (wùliánwǎng) | Máy chủ | Màn hình | Chuột | Internet vạn vật
+63. 备份 (bèifèn) | Xóa bỏ | Lỗi | Treo | Sao lưu
+64. 考核 (kǎohé) | Lương | Thưởng | Tuyển dụng | Đánh giá
+65. 编制 (biānzhì) | Sa thải | Nghỉ việc | Tuyển dụng | Định biên
+66. 离职 (lízhí) | Thăng tiến | Đào tạo | Tuyển dụng | Nghỉ việc
+67. 委任 (wěirèn) | Sa thải | Nghỉ việc | Đào tạo | Bổ nhiệm
+68. 凝聚力 (níngjùlì) | Chia rẽ | Xung đột | Phớt lờ | Tinh thần gắn kết
+69. 团队协作 (tuánduìxiézuò) | Đối đầu | Chia rẽ | Phớt lờ | Làm việc nhóm
+70. 职业规划 (zhíyèguīhuà) | Nghỉ việc | Đào tạo | Tuyển dụng | Lộ trình nghề nghiệp
+71. 领导力 (lǐngdǎolì) | Quản lý | Đào tạo | Tuyển dụng | Năng lực lãnh đạo
+72. 薪酬结构 (xīnchóujiégòu) | Thuế | Thưởng | Bảo hiểm | Cấu trúc lương
+73. 供应商 (gōngyìngshāng) | Khách hàng | Đối thủ | Nhân viên | Nhà cung cấp
+74. 批发 (pīfā) | Bán lẻ | Xuất khẩu | Nhập khẩu | Bán buôn
+75. 零售 (língshòu) | Bán buôn | Sản xuất | Nhập khẩu | Bán lẻ
+76. 营销 (yíngxiāo) | Sản xuất | Đóng gói | Vận chuyển | Marketing
+77. 成本核算 (chéngběnhésuàn) | Lợi nhuận | Doanh thu | Thuế | Hạch toán chi phí
+78. 售后 (shòuhòu) | Bán hàng | Sản xuất | Đóng gói | Hậu mãi
+79. 盈亏平衡 (yíngkuīpínghéng) | Lãi | Lỗ | Vốn | Điểm hòa vốn
+80. 谈判 (tánpàn) | Giao dịch | Hợp đồng | Phạt | Đàm phán
+81. 合同审查 (hétóngshěnchá) | Ký kết | Đóng dấu | Phạt | Rà soát hợp đồng
+82. 客户留存 (kèhùliúcún) | Khách mới | Bán hàng | Sản xuất | Giữ chân khách hàng
+83. 抵御 (dǐyù) | Tấn công | Chấp nhận | Phớt lờ | Chống lại
+84. 妥善 (tuǒshàn) | Sơ sài | Cẩu thả | Phớt lờ | Thỏa đáng/Chu đáo
+85. 沉淀 (chéndiàn) | Bốc hơi | Hòa tan | Phớt lờ | Lắng đọng/Tích lũy
+86. 凝聚 (níngjù) | Phân tán | Chia rẽ | Phớt lờ | Ngưng tụ/Kết tinh
+87. 涵盖 (hángài) | Loại trừ | Tách rời | Phớt lờ | Bao gồm
+88. 纠正 (jiūzhèng) | Làm sai | Phớt lờ | Bỏ qua | Chỉnh sửa
+89. 弥补 (míbǔ) | Phá hủy | Làm hỏng | Phớt lờ | Bù đắp
+90. 扭转 (niǔzhuǎn) | Làm tệ đi | Giữ nguyên | Phớt lờ | Xoay chuyển
+91. 攀登 (pāndēng) | Xuống dốc | Đứng yên | Phớt lờ | Leo lên
+92. 启迪 (qǐdí) | Làm rối | Che giấu | Phớt lờ | Khơi gợi
+93. 渗透 (shèntòu) | Ngăn chặn | Bịt kín | Phớt lờ | Thẩm thấu
+94. 淘汰 (táotài) | Giữ lại | Phát triển | Phớt lờ | Loại thải
+95. 挖掘 (wājué) | Lấp đầy | Che giấu | Phớt lờ | Khai thác
+96. 悬殊 (xuánshū) | Giống nhau | Bằng nhau | Phớt lờ | Chênh lệch lớn
+97. 演绎 (yǎnyì) | Che giấu | Làm rối | Phớt lờ | Diễn giải/Diễn dịch
+98. 约束 (yuēshù) | Tự do | Tùy tiện | Phớt lờ | Ràng buộc
+99. 征服 (zhēngfú) | Đầu hàng | Bỏ cuộc | Phớt lờ | Chinh phục
+100. 振作 (zhènzuò) | Chán nản | Buồn bã | Phớt lờ | Phấn chấn
+101. 阻挠 (zǔnáo) | Hỗ trợ | Giúp đỡ | Phớt lờ | Cản trở
+102. 昂贵 (ángguì) | Rẻ tiền | Vô giá | Tầm thường | Đắt đỏ
+103. 爆满 (bàomǎn) | Trống rỗng | Vắng vẻ | Phớt lờ | Chật cứng
+104. 卑劣 (bēiliè) | Cao thượng | Trung thực | Phớt lờ | Hèn hạ
+105. 苍凉 (cāngliáng) | Phồn vinh | Sôi động | Phớt lờ | Hoang vu/Lạnh lẽo
+106. 沉稳 (chénwěn) | Bồng bột | Nông nổi | Phớt lờ | Điềm tĩnh
+107. 纯粹 (chúncuì) | Phức tạp | Rắc rối | Phớt lờ | Thuần túy
+108. 刺眼 (cìyǎn) | Dịu nhẹ | Mờ nhạt | Phớt lờ | Chói mắt
+109. 粗犷 (cūguǎng) | Tỉ mỉ | Mịn màng | Phớt lờ | Thô mộc/Hào sảng
+110. 呆板 (dāibǎn) | Sống động | Linh hoạt | Phớt lờ | Cứng nhắc
+111. 淡薄 (dànbó) | Đậm đà | Phong phú | Phớt lờ | Nhạt nhẽo/Mỏng manh
+112. 动荡 (dòngdàng) | Ổn định | Bình yên | Phớt lờ | Bất ổn
+113. 独特 (dútè) | Bình thường | Phổ biến | Phớt lờ | Độc đáo
+114. 繁琐 (fánsuǒ) | Đơn giản | Gọn gàng | Phớt lờ | Rườm rà
+115. 丰硕 (fēngshuò) | Ít ỏi | Vô nghĩa | Phớt lờ | Phong phú/To lớn
+116. 浮躁 (fúzào) | Điềm tĩnh | Kiên nhẫn | Phớt lờ | Nóng nảy/Nông nổi
+117. 感慨 (gǎnkǎi) | Vô cảm | Dửng dưng | Phớt lờ | Cảm thán
+118. 高亢 (gāokàng) | Thấp bé | Trầm mặc | Phớt lờ | Cao vút/Sôi nổi
+119. 固执 (gùzhí) | Dễ thay đổi | Phóng khoáng | Phớt lờ | Cố chấp
+120. 寒暄 (hánxuān) | Bỏ qua | Im lặng | Phớt lờ | Xã giao/Hỏi thăm
+121. 宏伟 (hóngwěi) | Nhỏ bé | Tầm thường | Phớt lờ | Hùng vĩ
+122. 激进 (jījìn) | Bảo thủ | Ôn hòa | Phớt lờ | Cấp tiến
+123. 艰巨 (jiānjù) | Dễ dàng | Đơn giản | Phớt lờ | Khó khăn nặng nề
+124. 僵硬 (jiāngyìng) | Mềm mại | Linh hoạt | Phớt lờ | Cứng đờ
+125. 迥异 (jiǒngyì) | Giống nhau | Đồng nhất | Phớt lờ | Khác biệt lớn
+126. 沮丧 (jǔsàng) | Vui vẻ | Phấn chấn | Phớt lờ | Chán nản
+127. 宽容 (kuānróng) | Hẹp hòi | Khắt khe | Phớt lờ | Khoan dung
+128. 敏锐 (mǐnruì) | Chậm chạp | Mơ hồ | Phớt lờ | Nhạy bén
+129. 凝重 (níngzhòng) | Nhẹ nhàng | Sôi động | Phớt lờ | Nghiêm trang/Nặng nề
+130. 偏激 (piānjī) | Ôn hòa | Công bằng | Phớt lờ | Cực đoan
+131. 贫乏 (pínfá) | Phong phú | Đủ đầy | Phớt lờ | Thiếu thốn
+132. 强悍 (qiánghàn) | Yếu đuối | Dễ bị tổn thương | Phớt lờ | Mạnh mẽ
+133. 欠缺 (qiànquē) | Đủ đầy | Thừa thãi | Phớt lờ | Thiếu hụt
+134. 清晰 (qīngxī) | Mơ hồ | Nhòe | Phớt lờ | Rõ ràng
+135. 融洽 (róngqià) | Mâu thuẫn | Xung đột | Phớt lờ | Hòa thuận
+136. 软弱 (ruǎnruò) | Kiên cường | Mạnh mẽ | Phớt lờ | Yếu đuối
+137. 深刻 (shēnkè) | Nông cạn | Hời hợt | Phớt lờ | Sâu sắc
+138. 适宜 (shìyí) | Không hợp | Cấm kỵ | Phớt lờ | Thích hợp
+139. 贪婪 (tānlán) | Vị tha | Hào phóng | Phớt lờ | Tham lam
+140. 忐忑 (tǎntè) | Bình yên | Vững vàng | Phớt lờ | Bất an/Lo lắng
+141. 妥当 (tuǒdàng) | Vô lý | Sai trái | Phớt lờ | Thỏa đáng
+142. 顽固 (wángù) | Linh hoạt | Dễ bảo | Phớt lờ | Cứng đầu
+143. 微妙 (wēimiào) | Rõ ràng | Thô bạo | Phớt lờ | Tinh tế/Vi tế
+144. 稳重 (wěnzhòng) | Nông nổi | Vội vàng | Phớt lờ | Chững chạc
+145. 无辜 (wúgū) | Có tội | Gian lận | Phớt lờ | Vô tội
+146. 鲜明 (xiānmíng) | Mờ nhạt | Nhòe | Phớt lờ | Rõ rệt/Tươi sáng
+147. 严谨 (yánjǐn) | Cẩu thả | Hời hợt | Phớt lờ | Chặt chẽ/Kỹ lưỡng
+148. 遥远 (yáoyuǎn) | Gần | Sát cạnh | Phớt lờ | Xa xôi
+149. 隐蔽 (yǐnbì) | Công khai | Rõ ràng | Phớt lờ | Kín đáo
+150. 有效 (yǒuxiào) | Vô ích | Lỗi thời | Phớt lờ | Hiệu quả
+151. 崭新 (zhǎnxīn) | Cũ kỹ | Lạc hậu | Phớt lờ | Mới tinh
+152. 缜密 (zhěnmì) | Sơ sài | Cẩu thả | Phớt lờ | Tỉ mỉ/Kỹ càng
+153. 忠诚 (zhōngchéng) | Phản bội | Lừa dối | Phớt lờ | Trung thành
+154. 主动 (zhǔdòng) | Bị động | Ỷ lại | Phớt lờ | Chủ động
+155. 卓越 (zhuóyuè) | Tầm thường | Kém | Phớt lờ | Ưu việt
+156. 繁忙 (fánmáng) | Nhàn rỗi | Rảnh rỗi | Phớt lờ | Bận rộn
+157. 诚恳 (chéngkěn) | Giả dối | Lừa lọc | Phớt lờ | Chân thành
+158. 繁华 (fánhuá) | Hoang vắng | Nghèo nàn | Phớt lờ | Phồn hoa
+159. 负责 (fùzé) | Vô trách nhiệm | Bỏ bê | Phớt lờ | Có trách nhiệm
+160. 广大 (guǎngdà) | Nhỏ bé | Hẹp | Phớt lờ | Rộng lớn
+161. 豪迈 (háomài) | Nhút nhát | Rụt rè | Phớt lờ | Hào hùng
+162. 坚决 (jiānjué) | Do dự | Lung lay | Phớt lờ | Kiên quyết
+163. 简陋 (jiǎnlòu) | Tiện nghi | Sang trọng | Phớt lờ | Sơ sài/Tồi tàn
+164. 侥幸 (jiǎoxìng) | Đen đủi | Rủi ro | Phớt lờ | May mắn (không chính đáng)
+165. 焦急 (jiāojí) | Bình thản | Điềm tĩnh | Phớt lờ | Sốt ruột
+166. 紧急 (jǐnjí) | Thong thả | Không gấp | Phớt lờ | Khẩn cấp
+167. 经济 (jīngjì) | Lãng phí | Xa xỉ | Phớt lờ | Tiết kiệm/Kinh tế
+168. 慷慨 (kāngkǎi) | Keo kiệt | Ki bo | Phớt lờ | Hào phóng
+169. 宽敞 (kuānchǎng) | Chật hẹp | Tí hon | Phớt lờ | Rộng rãi
+170. 灵敏 (língmǐn) | Chậm chạp | Mơ hồ | Phớt lờ | Nhạy bén
+171. 美妙 (měimiào) | Xấu xa | Tệ hại | Phớt lờ | Tuyệt vời
+172. 宁静 (níngjìng) | Ồn ào | Huyên náo | Phớt lờ | Yên tĩnh
+173. 平凡 (píngfán) | Vĩ đại | Phi thường | Phớt lờ | Bình thường
+174. 朴素 (pǔsù) | Xa xỉ | Lộng lẫy | Phớt lờ | Giản dị
+175. 奇特 (qítè) | Phổ thông | Bình thường | Phớt lờ | Kỳ lạ
+176. 勤奋 (qínfèn) | Lười biếng | Bỏ bê | Phớt lờ | Chăm chỉ
+177. 热烈 (rèliè) | Lạnh nhạt | Hờ hững | Phớt lờ | Nhiệt liệt
+178. 深刻 (shēnkè) | Hời hợt | Nông cạn | Phớt lờ | Sâu sắc
+179. 舒适 (shūshì) | Mệt mỏi | Khó chịu | Phớt lờ | Thoải mái
+180. 坦率 (tǎnshuài) | Giấu giếm | Vòng vo | Phớt lờ | Thẳng thắn
+181. 完善 (wánshàn) | Khiếm khuyết | Dang dở | Phớt lờ | Hoàn thiện
+182. 威严 (wēiyán) | Dễ dãi | Nhút nhát | Phớt lờ | Uy nghiêm
+183. 稳固 (wěngù) | Rời rạc | Lỏng lẻo | Phớt lờ | Vững chắc
+184. 贤惠 (xiánhuì) | Đanh đá | Lười nhác | Phớt lờ | Hiền thục
+185. 详尽 (xiángjìn) | Sơ sài | Qua loa | Phớt lờ | Chi tiết
+186. 遥远 (yáoyuǎn) | Gần sát | Kế cận | Phớt lờ | Xa xôi
+187. 勇敢 (yǒnggǎn) | Nhút nhát | Hèn nhát | Phớt lờ | Dũng cảm
+188. 珍贵 (zhēnguì) | Tầm thường | Vô giá trị | Phớt lờ | Trân quý
+189. 正确 (zhèngquè) | Sai lệch | Mơ hồ | Nhầm lẫn | Chính xác
+190. 庄重 (zhuāngzhòng) | Suồng sã | Cợt nhả | Phớt lờ | Trang trọng
+191. 准确 (zhǔnquè) | Sai lệch | Mơ hồ | Nhầm lẫn | Chuẩn xác
+192. 卓绝 (zhuójué) | Tầm thường | Kém cỏi | Phớt lờ | Tuyệt luân
+193. 广大 (guǎngdà) | Nhỏ hẹp | Tí hon | Phớt lờ | Rộng lớn
+194. 坚固 (jiāngù) | Rời rạc | Yếu ớt | Phớt lờ | Kiên cố
+195. 简便 (jiǎnbiàn) | Phức tạp | Rắc rối | Phớt lờ | Đơn giản
+196. 健壮 (jiànzhuàng) | Ốm yếu | Còi cọc | Phớt lờ | Khỏe mạnh
+197. 洁白 (jiébái) | Đen tối | Bẩn thỉu | Phớt lờ | Trắng tinh
+198. 紧密 (jǐnmì) | Rời rạc | Xa cách | Phớt lờ | Chặt chẽ
+199. 精致 (jīngzhì) | Thô kệch | Xấu xí | Phớt lờ | Tinh xảo
+200. 宽阔 (kuānkuò) | Hẹp | Nhỏ | Phớt lờ | Rộng rãi

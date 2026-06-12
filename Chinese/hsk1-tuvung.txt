@@ -1,0 +1,200 @@
+﻿1. 爱 (ài) | Ghét | Sợ | Nhớ | Yêu
+2. 八 (bā) | Chín | Bảy | Mười | Tám
+3. 爸爸 (bàba) | Mẹ | Ông | Bà | Bố
+4. 杯子 (bēizi) | Cái đĩa | Cái thìa | Cái bát | Cái cốc
+5. 北京 (Běijīng) | Thượng Hải | Quảng Châu | Nam Kinh | Bắc Kinh
+6. 本 (běn) | Cái bút | Quyển vở | Tờ giấy | Quyển sách
+7. 不客气 (bú kèqi) | Xin lỗi | Cảm ơn | Tạm biệt | Không có chi
+8. 不 (bù) | Có | Đang | Đã | Không
+9. 菜 (cài) | Cơm | Thịt | Rau/Món ăn | Bánh
+10. 茶 (chá) | Nước | Bia | Sữa | Trà
+11. 吃 (chī) | Uống | Ngủ | Chơi | Ăn
+12. 出租车 (chūzūchē) | Xe bus | Xe đạp | Xe máy | Xe taxi
+13. 打电话 (dǎ diànhuà) | Xem tivi | Đọc sách | Viết chữ | Gọi điện thoại
+14. 大 (dà) | Nhỏ | Cao | Thấp | To/Lớn
+15. 的 (de) | Là | Ở | Có | Của
+16. 点 (diǎn) | Giây | Phút | Ngày | Giờ
+17. 电脑 (diànnǎo) | Điện thoại | Tivi | Đài | Máy tính
+18. 电视 (diànshì) | Máy ảnh | Máy in | Đài | Tivi
+19. 电影 (diànyǐng) | Âm nhạc | Hội họa | Thể thao | Phim
+20. 东西 (dōngxi) | Con người | Động vật | Địa điểm | Đồ vật
+21. 都 (dōu) | Chưa | Đang | Vừa | Đều
+22. 读 (dú) | Viết | Nghe | Nói | Đọc
+23. 对不起 (duìbuqǐ) | Chào bạn | Cảm ơn | Tạm biệt | Xin lỗi
+24. 多 (duō) | Ít | Nhỏ | Thấp | Nhiều
+25. 多少 (duōshǎo) | Ở đâu | Khi nào | Ai | Bao nhiêu
+26. 儿子 (érzi) | Con gái | Cháu trai | Anh trai | Con trai
+27. 二 (èr) | Ba | Một | Bốn | Hai
+28. 高兴 (gāoxìng) | Buồn | Mệt | Tức giận | Vui vẻ
+29. 个 (gè) | Cái/Cây | Con | Chiếc | Lượng từ (cá thể)
+30. 工作 (gōngzuò) | Nghỉ ngơi | Đi chơi | Ăn cơm | Công việc
+31. 汉语 (Hànyǔ) | Tiếng Anh | Tiếng Nhật | Tiếng Pháp | Tiếng Trung
+32. 好 (hǎo) | Xấu | Tệ | Mệt | Tốt/Đẹp
+33. 号 (hào) | Thứ | Năm | Tháng | Ngày
+34. 喝 (hē) | Ăn | Ngủ | Chơi | Uống
+35. 和 (hé) | Nhưng | Mà | Vì | Và
+36. 很 (hěn) | Không | Đang | Rất | Đã
+37. 后边 (hòubiān) | Phía trước | Phía trên | Phía dưới | Phía sau
+38. 会 (huì) | Không biết | Không thể | Không dám | Biết
+39. 几 (jǐ) | Ai | Cái gì | Bao nhiêu | Mấy
+40. 家 (jiā) | Công ty | Trường học | Cửa hàng | Nhà
+41. 叫 (jiào) | Nói | Nghe | Nhìn | Gọi tên
+42. 今天 (jīntiān) | Hôm qua | Ngày mai | Tuần sau | Hôm nay
+43. 九 (jiǔ) | Tám | Bảy | Mười | Chín
+44. 开 (kāi) | Đóng | Tắt | Mở | Lái/Mở
+45. 看 (kàn) | Nghe | Đọc | Nói | Nhìn/Xem
+46. 看见 (kànjiàn) | Nghe thấy | Nhìn thấy | Đọc hiểu | Nói được
+47. 块 (kuài) | Xu | Hào | Tệ (tiền) | Đồng/Mảnh
+48. 来 (lái) | Đi | Về | Đứng | Đến
+49. 老师 (lǎoshī) | Học sinh | Bác sĩ | Cảnh sát | Giáo viên
+50. 了 (le) | Chưa | Đang | Sẽ | Trợ từ (đã xong)
+51. 冷 (lěng) | Nóng | Ấm | Mát | Lạnh
+52. 里 (lǐ) | Ngoài | Trước | Sau | Trong
+53. 六 (liù) | Bốn | Năm | Bảy | Sáu
+54. 妈妈 (māma) | Bố | Ông | Bà | Mẹ
+55. 吗 (ma) | Không | Đang | Đã | Từ để hỏi
+56. 买 (mǎi) | Bán | Cho | Tặng | Mua
+57. 猫 (māo) | Chó | Chim | Cá | Mèo
+58. 没 (méi) | Có | Đang | Sẽ | Không có
+59. 没关系 (méi guānxi) | Xin lỗi | Cảm ơn | Tạm biệt | Không sao
+60. 米饭 (mǐfàn) | Rau | Bánh | Mì | Cơm
+61. 明天 (míngtiān) | Hôm nay | Hôm qua | Tuần sau | Ngày mai
+62. 名字 (míngzi) | Tuổi | Số | Quê | Tên
+63. 哪 (nǎ) | Ai | Cái gì | Khi nào | Đâu/Nào
+64. 哪儿 (nǎr) | Khi nào | Ai | Cái gì | Đâu
+65. 那 (nà) | Đây | Nào | Cái gì | Kia
+66. 呢 (ne) | Thì sao | Đang | Đã | Nhé/À
+67. 能 (néng) | Không thể | Không dám | Không muốn | Có thể
+68. 你 (nǐ) | Tôi | Anh ấy | Cô ấy | Bạn
+69. 年 (nián) | Ngày | Tháng | Tuần | Năm
+70. 女儿 (nǚ'ér) | Con trai | Cháu gái | Chị gái | Con gái
+71. 朋友 (péngyǒu) | Thầy giáo | Học sinh | Bố mẹ | Bạn bè
+72. 漂亮 (piàoliang) | Xấu | Già | Lùn | Đẹp
+73. 苹果 (píngguǒ) | Cam | Chuối | Lê | Táo
+74. 七 (qī) | Tám | Sáu | Chín | Bảy
+75. 钱 (qián) | Thẻ | Sách | Bút | Tiền
+76. 前边 (qiánbiān) | Phía sau | Phía dưới | Phía trên | Phía trước
+77. 请 (qǐng) | Cảm ơn | Xin lỗi | Chào | Mời
+78. 去 (qù) | Đến | Về | Đứng | Đi
+79. 热 (rè) | Lạnh | Ấm | Mát | Nóng
+80. 人 (rén) | Con vật | Đồ vật | Cây cối | Người
+81. 认识 (rènshi) | Biết | Học | Đọc | Quen biết
+82. 三 (sān) | Hai | Bốn | Một | Ba
+83. 商店 (shāngdiàn) | Công ty | Trường học | Ngân hàng | Cửa hàng
+84. 上 (shàng) | Dưới | Trước | Sau | Trên
+85. 上午 (shàngwǔ) | Chiều | Tối | Đêm | Buổi sáng
+86. 少 (shǎo) | Nhiều | To | Dài | Ít
+87. 谁 (shéi) | Cái gì | Ở đâu | Khi nào | Ai
+88. 什么 (shénme) | Ai | Ở đâu | Khi nào | Cái gì
+89. 十 (shí) | Chín | Tám | Bảy | Mười
+90. 时候 (shíhou) | Nơi chốn | Người | Vật | Thời gian/Lúc
+91. 是 (shì) | Không phải | Đang | Đã | Là
+92. 书 (shū) | Bút | Giấy | Vở | Sách
+93. 水 (shuǐ) | Trà | Bia | Sữa | Nước
+94. 水果 (shuǐguǒ) | Rau | Thịt | Bánh | Hoa quả
+95. 睡觉 (shuìjiào) | Ăn | Uống | Chơi | Ngủ
+96. 说 (shuō) | Nghe | Đọc | Viết | Nói
+97. 四 (sì) | Ba | Hai | Năm | Bốn
+98. 岁 (suì) | Tháng | Ngày | Giờ | Tuổi
+99. 他 (tā) | Tôi | Bạn | Cô ấy | Anh ấy
+100. 她 (tā) | Tôi | Bạn | Anh ấy | Cô ấy
+101. 太 (tài) | Rất | Không | Vừa | Quá/Lắm
+102. 天气 (tiānqì) | Con người | Đồ vật | Thời gian | Thời tiết
+103. 听 (tīng) | Nhìn | Đọc | Nói | Nghe
+104. 同学 (tóngxué) | Thầy giáo | Bác sĩ | Bạn bè | Bạn học
+105. 喂 (wèi) | Chào | Cảm ơn | Tạm biệt | Alo (nghe điện)
+106. 我 (wǒ) | Bạn | Anh ấy | Cô ấy | Tôi
+107. 我们 (wǒmen) | Bạn | Anh ấy | Cô ấy | Chúng tôi
+108. 五 (wǔ) | Ba | Bốn | Sáu | Năm
+109. 喜欢 (xǐhuān) | Ghét | Sợ | Nhớ | Thích
+110. 下 (xià) | Trên | Trước | Sau | Dưới
+111. 下午 (xiàwǔ) | Sáng | Trưa | Tối | Buổi chiều
+112. 下雨 (xiàyǔ) | Nắng | Gió | Tuyết | Mưa
+113. 先生 (xiānsheng) | Phụ nữ | Trẻ em | Bạn | Tiên sinh/Ông
+114. 现在 (xiànzài) | Hôm nay | Hôm qua | Ngày mai | Bây giờ
+115. 想 (xiǎng) | Biết | Có | Đi | Muốn/Nhớ
+116. 小 (xiǎo) | To | Cao | Thấp | Nhỏ
+117. 小姐 (xiǎojiě) | Bà | Ông | Anh | Cô/Tiểu thư
+118. 写 (xiě) | Đọc | Nghe | Nói | Viết
+119. 谢谢 (xièxie) | Xin lỗi | Chào | Tạm biệt | Cảm ơn
+120. 星期 (xīngqī) | Ngày | Tháng | Năm | Tuần
+121. 学生 (xuésheng) | Giáo viên | Bác sĩ | Cảnh sát | Học sinh
+122. 学习 (xuéxí) | Ăn | Chơi | Ngủ | Học tập
+123. 学校 (xuéxiào) | Công ty | Nhà | Cửa hàng | Trường học
+124. 一 (yī) | Hai | Ba | Bốn | Một
+125. 一点儿 (yīdiǎnr) | Nhiều | Rất | Cũ | Một chút
+126. 医生 (yīshēng) | Giáo viên | Học sinh | Bố mẹ | Bác sĩ
+127. 医院 (yīyuàn) | Trường học | Cửa hàng | Công ty | Bệnh viện
+128. 衣服 (yīfu) | Giày | Mũ | Bút | Quần áo
+129. 椅子 (yǐzi) | Bàn | Giường | Tủ | Ghế
+130. 有 (yǒu) | Không | Đang | Đã | Có
+131. 月 (yuè) | Ngày | Tuần | Năm | Tháng
+132. 在 (zài) | Là | Đang | Không | Ở/Tại
+133. 再见 (zàijiàn) | Chào | Cảm ơn | Xin lỗi | Tạm biệt
+134. 怎么 (zěnme) | Ai | Cái gì | Ở đâu | Thế nào
+135. 怎么样 (zěnmeyàng) | Ai | Cái gì | Ở đâu | Như thế nào
+136. 这 (zhè) | Kia | Nào | Cái gì | Đây
+137. 中国 (Zhōngguó) | Mỹ | Nhật | Anh | Trung Quốc
+138. 中午 (zhōngwǔ) | Sáng | Chiều | Tối | Buổi trưa
+139. 住 (zhù) | Đi | Đến | Ăn | Sống/Ở
+140. 桌子 (zhuōzi) | Ghế | Giường | Tủ | Cái bàn
+141. 字 (zì) | Sách | Bút | Giấy | Chữ
+142. 昨天 (zuótiān) | Hôm nay | Ngày mai | Tuần sau | Hôm qua
+143. 做 (zuò) | Ăn | Uống | Ngủ | Làm
+144. 坐 (zuò) | Đi | Đứng | Chạy | Ngồi
+145. 门 (mén) | Cửa sổ | Tường | Bàn | Cái cửa
+146. 饭店 (fàndiàn) | Trường học | Công ty | Bệnh viện | Nhà hàng
+147. 飞机 (fēijī) | Xe bus | Xe đạp | Tàu | Máy bay
+148. 分钟 (fēnzhōng) | Giờ | Ngày | Tuần | Phút
+149. 狗 (gǒu) | Mèo | Chim | Cá | Chó
+150. 关 (guān) | Mở | Bật | Chạy | Đóng
+151. 孩子 (háizi) | Ông | Bà | Bố | Đứa trẻ
+152. 好吃 (hǎochī) | Xấu | Tệ | Mệt | Ngon
+153. 后面 (hòumiàn) | Phía trước | Phía trên | Phía dưới | Phía sau
+154. 回 (huí) | Đi | Đến | Đứng | Về
+155. 几点 (jǐdiǎn) | Bao nhiêu | Mấy tuổi | Ở đâu | Mấy giờ
+156. 觉得 (juéde) | Thích | Ghét | Nhớ | Cảm thấy
+157. 快 (kuài) | Chậm | Lâu | Lười | Nhanh
+158. 快乐 (kuàilè) | Buồn | Mệt | Tức giận | Vui vẻ
+159. 累 (lèi) | Vui | Khỏe | Buồn | Mệt
+160. 路 (lù) | Nhà | Xe | Cửa | Đường
+161. 旅游 (lǚyóu) | Học | Làm | Ngủ | Du lịch
+162. 马 (mǎ) | Chó | Mèo | Cá | Con ngựa
+163. 马上 (mǎshàng) | Lâu | Chậm | Mãi | Ngay lập tức
+164. 门 (mén) | Bàn | Ghế | Giường | Cái cửa
+165. 没关系 (méiguānxì) | Cảm ơn | Xin lỗi | Chào | Không sao
+166. 每 (měi) | Một | Hai | Ba | Mỗi
+167. 面包 (miànbāo) | Cơm | Rau | Thịt | Bánh mì
+168. 名字 (míngzì) | Tuổi | Quê | Số | Tên
+169. 年级 (niánjí) | Lớp | Trường | Tuổi | Năm học/Cấp
+170. 旁边 (pángbiān) | Phía trước | Phía sau | Phía dưới | Bên cạnh
+171. 跑步 (pǎobù) | Ăn | Ngủ | Học | Chạy bộ
+172. 起床 (qǐchuáng) | Đi ngủ | Ăn | Học | Ngủ dậy
+173. 去年 (qùnián) | Năm nay | Năm sau | Tuần sau | Năm ngoái
+174. 让 (ràng) | Bảo | Đọc | Nghe | Nhường/Để
+175. 日 (rì) | Tuần | Tháng | Năm | Ngày
+176. 上班 (shàngbān) | Ăn | Ngủ | Học | Đi làm
+177. 身体 (shēntǐ) | Đầu | Tay | Chân | Cơ thể/Sức khỏe
+178. 生日 (shēngrì) | Tên | Quê | Tuổi | Sinh nhật
+179. 时间 (shíjiān) | Người | Vật | Việc | Thời gian
+180. 事情 (shìqíng) | Người | Vật | Thời gian | Sự việc/Việc
+181. 手表 (shǒubiǎo) | Bút | Giấy | Vở | Đồng hồ
+182. 送 (sòng) | Mua | Bán | Mượn | Tặng/Tiễn
+183. 虽然 (suīrán) | Nhưng | Mà | Vì | Mặc dù
+184. 但是 (dànshì) | Vì | Nên | Và | Nhưng
+185. 跳舞 (tiàowǔ) | Hát | Vẽ | Chơi | Nhảy múa
+186. 外面 (wàimiàn) | Trong | Trước | Sau | Bên ngoài
+187. 晚 (wǎn) | Sáng | Trưa | Chiều | Muộn
+188. 晚上 (wǎnshàng) | Sáng | Trưa | Chiều | Buổi tối
+189. 为什么 (wèishéme) | Ai | Ở đâu | Khi nào | Tại sao
+190. 问 (wèn) | Nói | Đọc | Nghe | Hỏi
+191. 问题 (wèntí) | Câu trả lời | Ý kiến | Việc | Câu hỏi/Vấn đề
+192. 西 (xī) | Đông | Nam | Bắc | Tây
+193. 希望 (xīwàng) | Thích | Ghét | Nhớ | Hy vọng
+194. 洗 (xǐ) | Ăn | Uống | Ngủ | Rửa/Giặt
+195. 向 (xiàng) | Tại | Ở | Từ | Hướng về
+196. 笑 (xiào) | Khóc | Buồn | Giận | Cười
+197. 休息 (xiūxí) | Học | Làm | Chơi | Nghỉ ngơi
+198. 颜色 (yánsè) | Tên | Tuổi | Quê | Màu sắc
+199. 一样 (yīyàng) | Khác | Lạ | Mới | Giống nhau
+200. 意思 (yìsi) | Tên | Tuổi | Quê | Ý nghĩa

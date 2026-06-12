@@ -1,0 +1,301 @@
+﻿1. Apple | Quả cam | Quả chuối | Quả nho | Quả táo
+2. Ant | Con voi | Con chó | Con mèo | Con kiến
+3. Ball | Cái bàn | Cái ghế | Quyển sách | Quả bóng
+4. Bear | Con cá | Con vịt | Con gà | Con gấu
+5. Bird | Con hổ | Con rùa | Con thỏ | Con chim
+6. Book | Bút chì | Bút mực | Thước kẻ | Quyển sách
+7. Cat | Con lợn | Con bò | Con dê | Con mèo
+8. Car | Xe đạp | Xe máy | Xe lửa | Xe ô tô
+9. Cup | Cái bát | Cái đĩa | Cái thìa | Cái cốc
+10. Desk | Cái giường | Cái tủ | Cái cửa | Cái bàn
+11. Dog | Con chim | Con cá | Con gà | Con chó
+12. Duck | Con ngan | Con ngỗng | Con công | Con vịt
+13. Egg | Thịt | Cá | Rau | Quả trứng
+14. Fan | Điều hòa | Tủ lạnh | Đèn điện | Cái quạt
+15. Fish | Con chó | Con mèo | Con chim | Con cá
+16. Frog | Con trâu | Con bò | Con ngựa | Con ếch
+17. Goat | Con lợn | Con gà | Con chó | Con dê
+18. Hat | Cái áo | Cái quần | Đôi giày | Cái mũ
+19. Hen | Con vịt | Con ngan | Con chim | Con gà mái
+20. Ice | Nước | Sữa | Trà | Đá lạnh
+21. Ink | Phấn | Bút | Giấy | Mực
+22. Jam | Bánh | Kẹo | Sữa | Mứt
+23. Jet | Tàu thủy | Tàu hỏa | Ô tô | Máy bay phản lực
+24. Key | Khóa | Cửa | Cổng | Chìa khóa
+25. Kid | Người già | Người lớn | Ông bà | Đứa trẻ
+26. Kite | Bóng bay | Đèn lồng | Quả bóng | Cái diều
+27. Lamp | Bàn | Ghế | Tủ | Đèn bàn
+28. Leg | Tay | Đầu | Bụng | Chân
+29. Lion | Con hổ | Con báo | Con voi | Sư tử
+30. Map | Tranh | Ảnh | Sách | Bản đồ
+31. Moon | Mặt trời | Sao | Mây | Mặt trăng
+32. Nest | Nhà | Chuồng | Hang | Cái tổ
+33. Nose | Mắt | Tai | Miệng | Cái mũi
+34. Nut | Hạt gạo | Hạt đỗ | Hạt ngô | Hạt
+35. Ox | Con trâu | Con ngựa | Con cừu | Con bò đực
+36. Pen | Thước | Tẩy | Sách | Cái bút
+37. Pig | Con chó | Con mèo | Con dê | Con lợn
+38. Queen | Vua | Hoàng tử | Công chúa | Nữ hoàng
+39. Rat | Con chó | Con mèo | Con thỏ | Con chuột
+40. Red | Xanh | Vàng | Trắng | Màu đỏ
+41. Sun | Trăng | Sao | Mưa | Mặt trời
+42. Ten | Một | Hai | Ba | Số mười
+43. Toy | Sách | Vở | Bút | Đồ chơi
+44. Van | Xe đạp | Xe máy | Xe bus | Xe tải nhỏ
+45. Box | Túi | Cặp | Giỏ | Cái hộp
+46. Bus | Tàu | Thuyền | Máy bay | Xe buýt
+47. Bed | Bàn | Ghế | Tủ | Cái giường
+48. Big | Nhỏ | Bé | Thấp | To lớn
+49. Boy | Cô gái | Phụ nữ | Mẹ | Bé trai
+50. Can | Không thể | Muốn | Cần | Có thể
+51. Cap | Mũ len | Khăn | Găng tay | Mũ lưỡi trai
+52. Cow | Con lợn | Con gà | Con chó | Con bò sữa
+53. Dad | Mẹ | Ông | Bà | Bố
+54. Day | Đêm | Chiều | Sáng | Ngày
+55. Ear | Mắt | Mũi | Miệng | Cái tai
+56. Eye | Tai | Mũi | Chân | Con mắt
+57. Fat | Gầy | Nhỏ | Thấp | Béo
+58. Fig | Táo | Cam | Lê | Quả sung
+59. Fit | Rộng | Chật | Ngắn | Vừa vặn
+60. Fun | Buồn | Chán | Mệt | Vui vẻ
+61. Get | Mất | Cho | Tặng | Có được
+62. Gum | Kẹo mút | Socola | Bánh | Kẹo cao su
+63. Ham | Thịt bò | Thịt gà | Thịt cá | Thịt giăm bông
+64. Him | Tôi | Bạn | Họ | Anh ấy
+65. Hot | Lạnh | Ấm | Mát | Nóng
+66. Hut | Nhà cao tầng | Biệt thự | Lâu đài | Cái lều
+67. Job | Nghỉ ngơi | Chơi | Học | Công việc
+68. Jog | Ngủ | Ăn | Đứng | Chạy bộ
+69. Kit | Bộ đồ | Hộp đựng | Túi | Bộ dụng cụ
+70. Lid | Khóa | Chốt | Cửa | Nắp đậy
+71. Lip | Mắt | Mũi | Tai | Môi
+72. Mad | Vui | Hạnh phúc | Bình tĩnh | Giận dữ
+73. Man | Trẻ em | Phụ nữ | Bé gái | Người đàn ông
+74. Mat | Giường | Ghế | Bàn | Cái chiếu
+75. Mom | Bố | Ông | Bà | Mẹ
+76. Mop | Chổi | Xẻng | Gáo | Cây lau nhà
+77. Mug | Chén | Bát | Đĩa | Cái cốc có quai
+78. Net | Dây | Thừng | Gậy | Cái lưới
+79. Not | Có | Rồi | Đang | Không
+80. Pet | Đồ chơi | Đồ dùng | Sách | Thú cưng
+81. Pot | Bát | Đĩa | Thìa | Cái nồi
+82. Ran | Đi | Nhảy | Đứng | Đã chạy
+83. Rat | Voi | Hổ | Sư tử | Con chuột cống
+84. Sad | Vui | Hào hứng | Ngạc nhiên | Buồn
+85. Sat | Đứng | Chạy | Nhảy | Đã ngồi
+86. Six | Một | Hai | Ba | Số sáu
+87. Sun | Mưa | Mây | Gió | Mặt trời
+88. Tap | Cửa | Cổng | Rèm | Vòi nước
+89. Tea | Sữa | Cà phê | Nước | Trà
+90. Tin | Sắt | Đồng | Nhôm | Thiếc
+91. Tip | Đáy | Giữa | Dưới | Mẹo/đỉnh
+92. Top | Dưới | Đáy | Giữa | Trên đỉnh
+93. Toy | Bút | Sách | Cặp | Đồ chơi
+94. Tub | Chậu | Gáo | Xô | Bồn tắm
+95. Van | Tàu | Thuyền | Máy bay | Xe tải
+96. Wet | Khô | Nóng | Lạnh | Ướt
+97. Win | Thua | Hòa | Chơi | Chiến thắng
+98. Yes | Không | Chưa | Rồi | Vâng
+99. Yet | Rồi | Đang | Đã | Chưa
+100. Zip | Cúc | Dây | Nút | Khóa kéo
+101. Art | Toán | Văn | Sử | Mỹ thuật
+102. Bag | Bút | Thước | Vở | Cái cặp
+103. Bee | Kiến | Ruồi | Muỗi | Con ong
+104. Bus | Ô tô | Xe máy | Xe đạp | Xe buýt
+105. Cake | Kẹo | Bánh mì | Kem | Bánh ngọt
+106. Cap | Áo | Quần | Tất | Mũ lưỡi trai
+107. Cat | Chó | Gà | Vịt | Con mèo
+108. Cow | Dê | Cừu | Ngựa | Con bò
+109. Dad | Mẹ | Ông | Bà | Bố
+110. Dog | Mèo | Chim | Cá | Con chó
+111. Ear | Mắt | Mũi | Miệng | Cái tai
+112. Egg | Sữa | Bánh | Kẹo | Quả trứng
+113. Eye | Tai | Mũi | Chân | Con mắt
+114. Fan | Đèn | Bàn | Ghế | Cái quạt
+115. Fly | Đi bộ | Nhảy | Chạy | Bay
+116. Fox | Sói | Hổ | Báo | Con cáo
+117. Gum | Bánh | Mứt | Sữa | Kẹo cao su
+118. Hat | Áo | Quần | Găng tay | Cái mũ
+119. Hen | Vịt | Ngỗng | Chim | Gà mái
+120. Ice | Nước | Trà | Cà phê | Đá lạnh
+121. Jam | Bánh | Sữa | Kẹo | Mứt
+122. Jet | Ô tô | Tàu hỏa | Thuyền | Máy bay phản lực
+123. Key | Cửa | Khóa | Cổng | Chìa khóa
+124. Kid | Người lớn | Ông bà | Thầy cô | Trẻ em
+125. Lip | Mắt | Tai | Mũi | Môi
+126. Map | Tranh | Ảnh | Bìa | Bản đồ
+127. Mom | Bố | Ông | Bà | Mẹ
+128. Net | Dây | Gậy | Vợt | Cái lưới
+129. Pen | Vở | Bút chì | Thước | Bút mực
+130. Pig | Chó | Mèo | Bò | Con lợn
+131. Rat | Voi | Hổ | Sư tử | Con chuột
+132. Red | Xanh | Vàng | Trắng | Màu đỏ
+133. Sun | Mây | Sao | Trăng | Mặt trời
+134. Ten | Một | Hai | Ba | Số mười
+135. Toy | Sách | Bút | Giấy | Đồ chơi
+136. Van | Xe đạp | Tàu | Thuyền | Xe tải
+137. Box | Túi | Cặp | Giỏ | Cái hộp
+138. Bus | Tàu hỏa | Ô tô | Thuyền | Xe buýt
+139. Bed | Bàn | Ghế | Tủ | Cái giường
+140. Big | Nhỏ | Bé | Thấp | To lớn
+141. Boy | Bé gái | Phụ nữ | Mẹ | Bé trai
+142. Can | Không | Cần | Đang | Có thể
+143. Cap | Mũ len | Khăn | Găng | Mũ lưỡi trai
+144. Cow | Lợn | Gà | Chó | Con bò sữa
+145. Day | Đêm | Chiều | Tối | Ngày
+146. Ear | Mắt | Mũi | Miệng | Cái tai
+147. Fat | Gầy | Nhỏ | Thấp | Béo
+148. Fig | Táo | Cam | Lê | Quả sung
+149. Fun | Buồn | Chán | Mệt | Vui vẻ
+150. Get | Mất | Cho | Tặng | Có được
+151. Him | Tôi | Bạn | Họ | Anh ấy
+152. Hot | Lạnh | Ấm | Mát | Nóng
+153. Hut | Biệt thự | Nhà tầng | Lâu đài | Cái lều
+154. Job | Nghỉ | Chơi | Học | Công việc
+155. Jog | Ngủ | Ăn | Đứng | Chạy bộ
+156. Lid | Khóa | Chốt | Cửa | Nắp đậy
+157. Mad | Vui | Hạnh phúc | Bình tĩnh | Giận dữ
+158. Man | Trẻ | Phụ nữ | Bé gái | Người đàn ông
+159. Mat | Giường | Ghế | Bàn | Cái chiếu
+160. Mop | Chổi | Xẻng | Gáo | Cây lau nhà
+161. Mug | Chén | Bát | Đĩa | Cốc có quai
+162. Not | Có | Rồi | Đang | Không
+163. Pet | Đồ chơi | Sách | Vở | Thú cưng
+164. Pot | Bát | Đĩa | Thìa | Cái nồi
+165. Ran | Đi | Nhảy | Đứng | Đã chạy
+166. Sat | Đứng | Chạy | Nhảy | Đã ngồi
+167. Six | Một | Hai | Ba | Số sáu
+168. Tap | Cửa | Cổng | Rèm | Vòi nước
+169. Tea | Sữa | Cà phê | Nước | Trà
+170. Tin | Sắt | Đồng | Nhôm | Thiếc
+171. Tip | Đáy | Giữa | Dưới | Mẹo/đỉnh
+172. Top | Dưới | Đáy | Giữa | Trên đỉnh
+173. Tub | Chậu | Gáo | Xô | Bồn tắm
+174. Wet | Khô | Nóng | Lạnh | Ướt
+175. Win | Thua | Hòa | Chơi | Chiến thắng
+176. Yes | Không | Chưa | Rồi | Vâng
+177. Yet | Rồi | Đang | Đã | Chưa
+178. Zip | Cúc | Dây | Nút | Khóa kéo
+179. Ant | Voi | Chó | Mèo | Con kiến
+180. Bat | Vợt | Gậy | Cây | Con dơi
+181. Cup | Bát | Đĩa | Thìa | Cái cốc
+182. Dog | Chim | Cá | Gà | Con chó
+183. Egg | Thịt | Cá | Rau | Quả trứng
+184. Fan | Điều hòa | Tủ lạnh | Đèn | Cái quạt
+185. Hen | Vịt | Ngan | Chim | Gà mái
+186. Ink | Phấn | Bút | Giấy | Mực
+187. Jam | Bánh | Kẹo | Sữa | Mứt
+188. Kite | Bóng | Đèn | Diều | Cái diều
+189. Lamp | Bàn | Ghế | Tủ | Đèn bàn
+190. Leg | Tay | Đầu | Bụng | Chân
+191. Lion | Hổ | Báo | Voi | Sư tử
+192. Moon | Sao | Mây | Trời | Mặt trăng
+193. Nest | Nhà | Chuồng | Hang | Cái tổ
+194. Nose | Mắt | Tai | Miệng | Cái mũi
+195. Ox | Trâu | Ngựa | Cừu | Bò đực
+196. Pen | Thước | Tẩy | Sách | Cái bút
+197. Pig | Chó | Mèo | Dê | Con lợn
+198. Queen | Vua | Hoàng tử | Công chúa | Nữ hoàng
+199. Rat | Chó | Mèo | Thỏ | Con chuột
+200. Sun | Mưa | Mây | Gió | Mặt trời
+1. Arm | Chân | Bụng | Đầu | Cánh tay
+2. Bag | Bút | Thước | Vở | Cái cặp sách
+3. Bee | Kiến | Ruồi | Muỗi | Con ong
+4. Box | Túi | Cặp | Giỏ | Cái hộp
+5. Bus | Tàu | Thuyền | Máy bay | Xe buýt
+6. Cake | Kẹo | Bánh mì | Kem | Bánh ngọt
+7. Cap | Áo | Quần | Tất | Mũ lưỡi trai
+8. Cat | Chó | Gà | Vịt | Con mèo
+9. Cow | Dê | Cừu | Ngựa | Con bò sữa
+10. Dad | Mẹ | Ông | Bà | Bố
+11. Dog | Mèo | Chim | Cá | Con chó
+12. Ear | Mắt | Mũi | Miệng | Cái tai
+13. Egg | Sữa | Bánh | Kẹo | Quả trứng
+14. Eye | Tai | Mũi | Chân | Con mắt
+15. Fan | Đèn | Bàn | Ghế | Cái quạt
+16. Fly | Đi bộ | Nhảy | Chạy | Bay
+17. Fox | Sói | Hổ | Báo | Con cáo
+18. Gum | Bánh | Mứt | Sữa | Kẹo cao su
+19. Hat | Áo | Quần | Găng tay | Cái mũ
+20. Hen | Vịt | Ngỗng | Chim | Gà mái
+21. Ice | Nước | Trà | Cà phê | Đá lạnh
+22. Jam | Bánh | Sữa | Kẹo | Mứt
+23. Jet | Ô tô | Tàu hỏa | Thuyền | Máy bay phản lực
+24. Key | Cửa | Khóa | Cổng | Chìa khóa
+25. Kid | Người lớn | Ông bà | Thầy cô | Trẻ em
+26. Lip | Mắt | Tai | Mũi | Môi
+27. Map | Tranh | Ảnh | Bìa | Bản đồ
+28. Mom | Bố | Ông | Bà | Mẹ
+29. Net | Dây | Gậy | Vợt | Cái lưới
+30. Pen | Vở | Bút chì | Thước | Bút mực
+31. Pig | Chó | Mèo | Bò | Con lợn
+32. Rat | Voi | Hổ | Sư tử | Con chuột
+33. Red | Xanh | Vàng | Trắng | Màu đỏ
+34. Sun | Mây | Sao | Trăng | Mặt trời
+35. Ten | Một | Hai | Ba | Số mười
+36. Toy | Sách | Bút | Giấy | Đồ chơi
+37. Van | Xe đạp | Tàu | Thuyền | Xe tải
+38. Bed | Bàn | Ghế | Tủ | Cái giường
+39. Big | Nhỏ | Bé | Thấp | To lớn
+40. Boy | Bé gái | Phụ nữ | Mẹ | Bé trai
+41. Can | Không | Cần | Đang | Có thể
+42. Day | Đêm | Chiều | Tối | Ngày
+43. Fat | Gầy | Nhỏ | Thấp | Béo
+44. Fig | Táo | Cam | Lê | Quả sung
+45. Fun | Buồn | Chán | Mệt | Vui vẻ
+46. Get | Mất | Cho | Tặng | Có được
+47. Him | Tôi | Bạn | Họ | Anh ấy
+48. Hot | Lạnh | Ấm | Mát | Nóng
+49. Hut | Biệt thự | Nhà tầng | Lâu đài | Cái lều
+50. Job | Nghỉ | Chơi | Học | Công việc
+51. Jog | Ngủ | Ăn | Đứng | Chạy bộ
+52. Lid | Khóa | Chốt | Cửa | Nắp đậy
+53. Mad | Vui | Hạnh phúc | Bình tĩnh | Giận dữ
+54. Man | Trẻ | Phụ nữ | Bé gái | Người đàn ông
+55. Mat | Giường | Ghế | Bàn | Cái chiếu
+56. Mop | Chổi | Xẻng | Gáo | Cây lau nhà
+57. Mug | Chén | Bát | Đĩa | Cốc có quai
+58. Not | Có | Rồi | Đang | Không
+59. Pet | Đồ chơi | Sách | Vở | Thú cưng
+60. Pot | Bát | Đĩa | Thìa | Cái nồi
+61. Ran | Đi | Nhảy | Đứng | Đã chạy
+62. Sat | Đứng | Chạy | Nhảy | Đã ngồi
+63. Six | Một | Hai | Ba | Số sáu
+64. Tap | Cửa | Cổng | Rèm | Vòi nước
+65. Tea | Sữa | Cà phê | Nước | Trà
+66. Tin | Sắt | Đồng | Nhôm | Thiếc
+67. Tip | Đáy | Giữa | Dưới | Mẹo/đỉnh
+68. Top | Dưới | Đáy | Giữa | Trên đỉnh
+69. Tub | Chậu | Gáo | Xô | Bồn tắm
+70. Wet | Khô | Nóng | Lạnh | Ướt
+71. Win | Thua | Hòa | Chơi | Chiến thắng
+72. Yes | Không | Chưa | Rồi | Vâng
+73. Yet | Rồi | Đang | Đã | Chưa
+74. Zip | Cúc | Dây | Nút | Khóa kéo
+75. Bat | Vợt | Gậy | Cây | Con dơi
+76. Cup | Bát | Đĩa | Thìa | Cái cốc
+77. Kite | Bóng | Đèn | Diều | Cái diều
+78. Lamp | Bàn | Ghế | Tủ | Đèn bàn
+79. Leg | Tay | Đầu | Bụng | Chân
+80. Lion | Hổ | Báo | Voi | Sư tử
+81. Moon | Sao | Mây | Trời | Mặt trăng
+82. Nest | Nhà | Chuồng | Hang | Cái tổ
+83. Nose | Mắt | Tai | Miệng | Cái mũi
+84. Ox | Trâu | Ngựa | Cừu | Bò đực
+85. Queen | Vua | Hoàng tử | Công chúa | Nữ hoàng
+86. Book | Thước | Bút | Vở | Quyển sách
+87. Doll | Bóng | Xe | Gấu | Búp bê
+88. Door | Cửa sổ | Tường | Trần | Cửa ra vào
+89. Fish | Chó | Mèo | Gà | Con cá
+90. Girl | Bé trai | Bố | Anh | Bé gái
+91. Hand | Chân | Mắt | Mũi | Bàn tay
+92. Milk | Nước | Trà | Cà phê | Sữa
+93. Read | Viết | Nghe | Vẽ | Đọc
+94. Run | Đi | Đứng | Ngồi | Chạy
+95. Sit | Đi | Chạy | Đứng | Ngồi
+96. Sky | Đất | Biển | Sông | Bầu trời
+97. Tea | Nước | Sữa | Cà phê | Trà
+98. Tree | Cỏ | Hoa | Lá | Cái cây
+99. Walk | Chạy | Nhảy | Bơi | Đi bộ
+100. Water | Nước | Sữa | Trà | Nước uống
+

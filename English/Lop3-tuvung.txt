@@ -1,0 +1,300 @@
+﻿1. Subject | Đồ vật | Trò chơi | Màu sắc | Môn học
+2. Science | Toán | Văn | Nhạc | Khoa học
+3. History | Toán | Văn | Nhạc | Lịch sử
+4. Geography | Toán | Văn | Nhạc | Địa lý
+5. Biology | Toán | Văn | Nhạc | Sinh học
+6. Physics | Toán | Văn | Nhạc | Vật lý
+7. Chemistry | Toán | Văn | Nhạc | Hóa học
+8. Informatics | Toán | Văn | Nhạc | Tin học
+9. Literature | Toán | Nhạc | Vật lý | Ngữ văn
+10. Exercise | Học | Chơi | Ngủ | Bài tập
+11. Homework | Bài kiểm tra | Bài thi | Bài học | Bài tập về nhà
+12. Lesson | Bài tập | Bài thi | Bài thi | Bài học
+13. Classroom | Thư viện | Căng tin | Sân chơi | Phòng học
+14. Library | Căng tin | Phòng học | Sân chơi | Thư viện
+15. Laboratory | Thư viện | Căng tin | Sân chơi | Phòng thí nghiệm
+16. Headmaster | Giáo viên | Bảo vệ | Học sinh | Hiệu trưởng
+17. Student | Giáo viên | Bảo vệ | Hiệu trưởng | Học sinh
+18. Uniform | Giày | Mũ | Cặp | Đồng phục
+19. Notebook | Bút | Thước | Cặp | Vở ghi
+20. Compass | Bút | Vở | Cặp | Com-pa
+21. Dictionary | Vở | Bút | Thước | Từ điển
+22. Scissors | Bút | Vở | Thước | Cái kéo
+23. Glue | Bút | Vở | Thước | Keo dán
+24. Activity | Trò chơi | Màu sắc | Môn học | Hoạt động
+25. Breaktime | Giờ học | Giờ thi | Giờ làm | Giờ ra chơi
+26. Summer | Xuân | Thu | Đông | Mùa hè
+27. Weather | Mùa | Ngày | Tháng | Thời tiết
+28. Sunny | Mưa | Lạnh | Tuyết | Trời nắng
+29. Rainy | Nắng | Lạnh | Tuyết | Trời mưa
+30. Cloudy | Nắng | Mưa | Lạnh | Trời có mây
+31. Windy | Nắng | Mưa | Lạnh | Trời có gió
+32. Stormy | Nắng | Mưa | Lạnh | Trời có bão
+33. Temperature | Gió | Mưa | Nắng | Nhiệt độ
+34. Season | Thời tiết | Ngày | Tháng | Mùa
+35. Hometown | Thành phố | Làng | Phố | Quê hương
+36. Capital | Thành phố | Làng | Phố | Thủ đô
+37. Country | Thành phố | Làng | Phố | Đất nước
+38. Province | Thành phố | Đất nước | Phố | Tỉnh
+39. District | Thành phố | Đất nước | Phố | Huyện
+40. Village | Thành phố | Đất nước | Phố | Ngôi làng
+41. Address | Tên | Tuổi | Số | Địa chỉ
+42. Nationality | Tên | Tuổi | Số | Quốc tịch
+43. Occupation | Tên | Tuổi | Số | Nghề nghiệp
+44. Carpenter | Bác sĩ | Kỹ sư | Công nhân | Thợ mộc
+45. Farmer | Bác sĩ | Kỹ sư | Công nhân | Nông dân
+46. Worker | Bác sĩ | Kỹ sư | Nông dân | Công nhân
+47. Engineer | Bác sĩ | Thợ mộc | Nông dân | Kỹ sư
+48. Pilot | Bác sĩ | Kỹ sư | Nông dân | Phi công
+49. Dentist | Bác sĩ | Kỹ sư | Nông dân | Nha sĩ
+50. Relative | Bạn bè | Hàng xóm | Người lạ | Họ hàng
+51. Cousin | Anh trai | Chị gái | Mẹ | Anh chị em họ
+52. Aunt | Bố | Anh | Chú | Cô/dì
+53. Uncle | Bà | Mẹ | Cô | Chú/bác
+54. Nephew | Con gái | Chị gái | Mẹ | Cháu trai
+55. Niece | Con trai | Anh trai | Bố | Cháu gái
+56. Neighborhood | Trường | Chợ | Bệnh viện | Khu phố
+57. Supermarket | Trường | Chợ | Bệnh viện | Siêu thị
+58. Cinema | Trường | Chợ | Bệnh viện | Rạp chiếu phim
+59. Restaurant | Trường | Chợ | Bệnh viện | Nhà hàng
+60. Hospital | Trường | Chợ | Cửa hàng | Bệnh viện
+61. Pharmacy | Công viên | Trường | Bệnh viện | Hiệu thuốc
+62. Station | Nhà | Trường | Bệnh viện | Nhà ga
+63. Direction | Bản đồ | Ảnh | Sách | Phương hướng
+64. Turn left | Rẽ phải | Đi thẳng | Quay lại | Rẽ trái
+65. Turn right | Rẽ trái | Đi thẳng | Quay lại | Rẽ phải
+66. Go straight | Rẽ trái | Rẽ phải | Quay lại | Đi thẳng
+67. Crossroad | Đường | Cầu | Ngõ | Ngã tư
+68. Bridge | Đường | Ngã tư | Ngõ | Cái cầu
+69. Traffic | Đường | Ngã tư | Ngõ | Giao thông
+70. Health | Ốm | Đau | Khỏe | Sức khỏe
+71. Symptom | Thuốc | Bác sĩ | Y tá | Triệu chứng
+72. Headache | Đau chân | Đau tay | Đau lưng | Đau đầu
+73. Toothache | Đau chân | Đau tay | Đau lưng | Đau răng
+74. Stomachache | Đau chân | Đau tay | Đau đầu | Đau bụng
+75. Fever | Đau chân | Đau tay | Đau lưng | Sốt
+76. Medicine | Thức ăn | Nước uống | Quần áo | Thuốc
+77. Healthy | Ốm | Đau | Mệt | Khỏe mạnh
+78. Weekend | Thứ hai | Thứ ba | Thứ tư | Cuối tuần
+79. Picnic | Trường | Chợ | Bệnh viện | Dã ngoại
+80. Camping | Trường | Chợ | Bệnh viện | Cắm trại
+81. Hobby | Màu sắc | Đồ vật | Trò chơi | Sở thích
+82. Painting | Toán | Văn | Nhạc | Vẽ tranh
+83. Swimming | Toán | Văn | Nhạc | Bơi lội
+84. Fishing | Toán | Văn | Nhạc | Câu cá
+85. Dancing | Toán | Vẽ | Chạy | Nhảy múa
+86. Cooking | Đọc | Vẽ | Chạy | Nấu ăn
+87. Shopping | Đọc | Vẽ | Chạy | Mua sắm
+88. Travel | Học | Làm | Ăn | Du lịch
+89. Adventure | Chạy | Nhảy | Đi | Phiêu lưu
+90. Science fiction | Truyện cười | Truyện cổ tích | Báo | Truyện khoa học viễn tưởng
+91. Comic | Truyện cổ tích | Báo | Sách | Truyện tranh
+92. Story | Báo | Sách | Vở | Câu chuyện
+93. Newspaper | Truyện | Sách | Vở | Báo
+94. Magazine | Truyện | Sách | Vở | Tạp chí
+95. Animal | Con người | Cây cối | Đồ vật | Động vật
+96. Butterfly | Chim | Ong | Ruồi | Con bướm
+97. Dolphin | Cá | Voi | Hổ | Cá heo
+98. Giraffe | Khỉ | Voi | Gấu | Hươu cao cổ
+99. Kangaroo | Khỉ | Voi | Gấu | Chuột túi
+100. Crocodile | Khỉ | Voi | Gấu | Cá sấu
+101. Vocabulary | Ngữ pháp | Bài tập | Câu | Từ vựng
+102. Grammar | Từ vựng | Bài tập | Câu | Ngữ pháp
+103. Sentence | Từ vựng | Ngữ pháp | Bài tập | Câu
+104. Paragraph | Từ vựng | Câu | Bài tập | Đoạn văn
+105. Chapter | Từ vựng | Câu | Đoạn văn | Chương sách
+106. Author | Học sinh | Giáo viên | Hiệu trưởng | Tác giả
+107. Character | Tác giả | Học sinh | Giáo viên | Nhân vật
+108. Plot | Nhân vật | Tác giả | Chương | Cốt truyện
+109. Fantasy | Khoa học | Hài | Tin tức | Truyện giả tưởng
+110. Mystery | Khoa học | Hài | Tin tức | Truyện trinh thám
+111. Dictionary | Vở ghi | Bút | Thước | Từ điển
+112. Map | Bút | Thước | Vở | Bản đồ
+113. Globe | Bản đồ | Bút | Thước | Quả địa cầu
+114. Calculator | Bút | Thước | Vở | Máy tính cầm tay
+115. Blackboard | Bút | Vở | Thước | Bảng đen
+116. Chalk | Bút | Vở | Thước | Phấn viết
+117. Eraser | Bút | Thước | Vở | Cục tẩy
+118. Sharpener | Bút | Vở | Thước | Gọt bút chì
+119. Backpack | Bút | Vở | Thước | Balo
+120. Classroom | Căng tin | Sân chơi | Thư viện | Phòng học
+121. Corridor | Căng tin | Phòng học | Thư viện | Hành lang
+122. Staircase | Căng tin | Phòng học | Thư viện | Cầu thang
+123. Window | Cửa ra vào | Tường | Sàn | Cửa sổ
+124. Curtain | Cửa sổ | Cửa ra vào | Tường | Rèm cửa
+125. Floor | Cửa sổ | Cửa ra vào | Tường | Sàn nhà
+126. Ceiling | Cửa sổ | Cửa ra vào | Tường | Trần nhà
+127. Wall | Cửa sổ | Cửa ra vào | Sàn | Bức tường
+128. Desk | Bảng | Ghế | Tủ | Bàn học
+129. Chair | Bảng | Bàn | Tủ | Cái ghế
+130. Cabinet | Bảng | Bàn | Ghế | Tủ đựng đồ
+131. Wastebasket | Bảng | Bàn | Ghế | Thùng rác
+132. Clock | Lịch | Tranh | Tivi | Đồng hồ treo tường
+133. Calendar | Đồng hồ | Tranh | Tivi | Lịch
+134. Fan | Đèn | Tủ | Ghế | Cái quạt
+135. Light | Quạt | Tủ | Ghế | Đèn điện
+136. Spring | Hè | Thu | Đông | Mùa xuân
+137. Autumn | Xuân | Hè | Đông | Mùa thu
+138. Winter | Xuân | Hè | Thu | Mùa đông
+139. Foggy | Nắng | Mưa | Lạnh | Trời có sương mù
+140. Snowy | Nắng | Mưa | Lạnh | Trời có tuyết
+141. Humid | Nắng | Mưa | Lạnh | Trời ẩm ướt
+142. Dry | Nắng | Mưa | Lạnh | Trời khô hanh
+143. Hot | Lạnh | Mưa | Nắng | Nóng
+144. Cold | Nóng | Mưa | Nắng | Lạnh
+145. Cool | Nóng | Lạnh | Nắng | Mát mẻ
+146. Warm | Nóng | Lạnh | Nắng | Ấm áp
+147. Direction | Bản đồ | Ảnh | Sách | Phương hướng
+148. North | Nam | Đông | Tây | Phía Bắc
+149. South | Bắc | Đông | Tây | Phía Nam
+150. East | Bắc | Nam | Tây | Phía Đông
+151. West | Bắc | Nam | Đông | Phía Tây
+152. Left | Phải | Thẳng | Quay lại | Bên trái
+153. Right | Trái | Thẳng | Quay lại | Bên phải
+154. Straight | Trái | Phải | Quay lại | Thẳng
+155. Behind | Trước | Giữa | Dưới | Đằng sau
+156. In front of | Sau | Giữa | Dưới | Phía trước
+157. Between | Sau | Trước | Dưới | Ở giữa
+158. Beside | Sau | Trước | Dưới | Bên cạnh
+159. Opposite | Sau | Trước | Dưới | Đối diện
+160. Near | Xa | Giữa | Dưới | Gần
+161. Far | Gần | Giữa | Dưới | Xa
+162. Inside | Ngoài | Trên | Dưới | Bên trong
+163. Outside | Trong | Trên | Dưới | Bên ngoài
+164. Upstairs | Dưới | Ngang | Trước | Tầng trên
+165. Downstairs | Trên | Ngang | Trước | Tầng dưới
+166. Vegetable | Hoa quả | Thịt | Cá | Rau củ
+167. Fruit | Rau | Thịt | Cá | Trái cây
+168. Meat | Rau | Hoa quả | Cá | Thịt
+169. Fish | Rau | Thịt | Hoa quả | Cá
+170. Rice | Bánh | Mì | Rau | Cơm
+171. Noodle | Bánh | Cơm | Rau | Mì sợi
+172. Bread | Cơm | Mì | Rau | Bánh mì
+173. Soup | Cơm | Mì | Rau | Canh
+174. Salad | Cơm | Mì | Rau | Món salad
+175. Water | Sữa | Trà | Cà phê | Nước lọc
+176. Milk | Nước | Trà | Cà phê | Sữa
+177. Juice | Nước lọc | Trà | Cà phê | Nước ép
+178. Tea | Nước lọc | Sữa | Cà phê | Trà
+179. Coffee | Nước lọc | Sữa | Trà | Cà phê
+180. Breakfast | Trưa | Tối | Phụ | Bữa sáng
+181. Lunch | Sáng | Tối | Phụ | Bữa trưa
+182. Dinner | Sáng | Trưa | Phụ | Bữa tối
+183. Snack | Sáng | Trưa | Tối | Bữa ăn nhẹ
+184. Plate | Bát | Thìa | Đũa | Cái đĩa
+185. Bowl | Đĩa | Thìa | Đũa | Cái bát
+186. Spoon | Bát | Đĩa | Đũa | Cái thìa
+187. Fork | Bát | Đĩa | Thìa | Cái dĩa
+188. Chopsticks | Bát | Đĩa | Thìa | Đôi đũa
+189. Knife | Bát | Đĩa | Thìa | Con dao
+190. Glass | Bát | Đĩa | Thìa | Cái ly
+191. Cup | Bát | Đĩa | Thìa | Cái tách
+192. Napkin | Bát | Đĩa | Thìa | Khăn giấy
+193. Tablecloth | Bát | Đĩa | Thìa | Khăn trải bàn
+194. Kitchen | Phòng ngủ | Phòng khách | Nhà vệ sinh | Nhà bếp
+195. Bedroom | Nhà bếp | Phòng khách | Nhà vệ sinh | Phòng ngủ
+196. Bathroom | Nhà bếp | Phòng ngủ | Phòng khách | Phòng tắm
+197. Living room | Nhà bếp | Phòng ngủ | Phòng tắm | Phòng khách
+198. Garden | Cửa sổ | Mái nhà | Cổng | Khu vườn
+199. Garage | Cửa sổ | Mái nhà | Cổng | Nhà để xe
+200. Balcony | Cửa sổ | Mái nhà | Cổng | Ban công
+201. Father | Mẹ | Ông | Bà | Bố
+202. Mother | Bố | Ông | Bà | Mẹ
+203. Grandfather | Bà | Mẹ | Cô | Ông nội/ngoại
+204. Grandmother | Bố | Anh | Chú | Bà nội/ngoại
+205. Brother | Chị | Em gái | Mẹ | Anh/em trai
+206. Sister | Anh | Em trai | Bố | Chị/em gái
+207. Son | Con gái | Cháu | Mẹ | Con trai
+208. Daughter | Con trai | Cháu | Bố | Con gái
+209. Husband | Vợ | Con | Mẹ | Chồng
+210. Wife | Chồng | Con | Bố | Vợ
+211. Parent | Anh | Chị | Em | Cha mẹ
+212. Child | Người lớn | Ông bà | Thầy cô | Trẻ em
+213. Baby | Người lớn | Ông bà | Thầy cô | Em bé
+214. Friend | Kẻ thù | Người lạ | Hàng xóm | Bạn bè
+215. Neighbor | Kẻ thù | Bạn bè | Người lạ | Hàng xóm
+216. Teacher | Bác sĩ | Kỹ sư | Công nhân | Giáo viên
+217. Student | Giáo viên | Bảo vệ | Hiệu trưởng | Học sinh
+218. Doctor | Y tá | Bệnh nhân | Dược sĩ | Bác sĩ
+219. Nurse | Bác sĩ | Bệnh nhân | Dược sĩ | Y tá
+220. Police | Bác sĩ | Bệnh nhân | Dược sĩ | Công an
+221. Fireman | Bác sĩ | Bệnh nhân | Dược sĩ | Lính cứu hỏa
+222. Driver | Bác sĩ | Bệnh nhân | Dược sĩ | Tài xế
+223. Farmer | Bác sĩ | Bệnh nhân | Dược sĩ | Nông dân
+224. Worker | Bác sĩ | Bệnh nhân | Dược sĩ | Công nhân
+225. Singer | Bác sĩ | Bệnh nhân | Dược sĩ | Ca sĩ
+226. Dancer | Bác sĩ | Bệnh nhân | Dược sĩ | Vũ công
+227. Artist | Bác sĩ | Bệnh nhân | Dược sĩ | Họa sĩ
+228. Writer | Bác sĩ | Bệnh nhân | Dược sĩ | Nhà văn
+229. Player | Bác sĩ | Bệnh nhân | Dược sĩ | Cầu thủ
+230. Chef | Bác sĩ | Bệnh nhân | Dược sĩ | Đầu bếp
+231. Body | Chân | Tay | Lưng | Cơ thể
+232. Head | Chân | Tay | Lưng | Đầu
+233. Face | Chân | Tay | Lưng | Khuôn mặt
+234. Eye | Tai | Mũi | Miệng | Con mắt
+235. Ear | Mắt | Mũi | Miệng | Cái tai
+236. Nose | Mắt | Tai | Miệng | Cái mũi
+237. Mouth | Mắt | Tai | Mũi | Miệng
+238. Tooth | Mắt | Tai | Mũi | Răng
+239. Hair | Mắt | Tai | Mũi | Tóc
+240. Neck | Chân | Tay | Lưng | Cổ
+241. Shoulder | Chân | Tay | Lưng | Vai
+242. Arm | Chân | Tay | Lưng | Cánh tay
+243. Hand | Chân | Tay | Lưng | Bàn tay
+244. Finger | Chân | Cổ | Lưng | Ngón tay
+245. Leg | Chân | Tay | Lưng | Chân
+246. Knee | Chân | Tay | Lưng | Đầu gối
+247. Foot | Vai | Tay | Lưng | Bàn chân
+248. Toe | Chân | Tay | Lưng | Ngón chân
+249. Back | Chân | Tay | Lưng | Lưng
+250. Stomach | Chân | Tay | Lưng | Bụng
+251. Healthy | Ốm | Đau | Mệt | Khỏe mạnh
+252. Sick | Khỏe | Vui | Buồn | Ốm
+253. Tired | Khỏe | Vui | Buồn | Mệt mỏi
+254. Happy | Buồn | Giận | Sợ | Vui vẻ
+255. Sad | Vui | Giận | Sợ | Buồn bã
+256. Angry | Vui | Buồn | Sợ | Giận dữ
+257. Hungry | Khát | Mệt | Vui | Đói
+258. Thirsty | Đói | Mệt | Vui | Khát
+259. Brave | Nhát | Yếu | Tệ | Dũng cảm
+260. Shy | Tự tin | Khỏe | Dũng cảm | E thẹn
+261. Busy | Rảnh | Lười | Tệ | Bận rộn
+262. Free | Bận | Lười | Tệ | Rảnh rỗi
+263. Strong | Yếu | Lười | Chậm | Khỏe mạnh
+264. Weak | Khỏe | Chăm | Nhanh | Yếu đuối
+265. Kind | Dữ | Xấu | Tệ | Tốt bụng
+266. Fast | Chậm | Yếu | Lười | Nhanh
+267. Slow | Nhanh | Khỏe | Chăm | Chậm
+268. Big | Nhỏ | Thấp | Gầy | To lớn
+269. Small | To | Cao | Béo | Nhỏ bé
+270. Tall | Thấp | Ngắn | Bé | Cao
+271. Short | Cao | Dài | To | Thấp/Ngắn
+272. Beautiful | Xấu | Già | Bẩn | Đẹp
+273. Clean | Bẩn | Cũ | Rách | Sạch sẽ
+274. Dirty | Sạch | Mới | Đẹp | Bẩn thỉu
+275. Old | Mới | Trẻ | Đẹp | Cũ/Già
+276. New | Cũ | Rách | Bẩn | Mới
+277. Easy | Khó | Mệt | Tệ | Dễ dàng
+278. Hard | Dễ | Mệt | Tệ | Khó khăn
+279. True | Sai | Tệ | Xấu | Đúng
+280. False | Đúng | Tệ | Xấu | Sai
+281. Same | Khác | Tệ | Xấu | Giống nhau
+282. Different | Giống | Tệ | Xấu | Khác nhau
+283. First | Cuối | Giữa | Tệ | Đầu tiên
+284. Last | Đầu | Giữa | Tệ | Cuối cùng
+285. High | Thấp | Tệ | Xấu | Cao
+286. Low | Cao | Tệ | Xấu | Thấp
+287. Long | Ngắn | Bé | Xấu | Dài
+288. Wide | Hẹp | Bé | Xấu | Rộng
+289. Narrow | Rộng | Bé | Xấu | Hẹp
+290. Thick | Mỏng | Bé | Xấu | Dày
+291. Thin | Dày | Bé | Xấu | Mỏng
+292. Deep | Nông | Bé | Xấu | Sâu
+293. Shallow | Sâu | Bé | Xấu | Nông
+294. Heavy | Nhẹ | Bé | Xấu | Nặng
+295. Light | Nặng | Bé | Xấu | Nhẹ
+296. Soft | Cứng | Bé | Xấu | Mềm
+297. Smooth | Ráp | Bé | Xấu | Mịn màng
+298. Rough | Mịn | Bé | Xấu | Nhám/Gồ ghề
+299. Sweet | Đắng | Chua | Mặn | Ngọt
+300. Sour | Ngọt | Đắng | Mặn | Chua

@@ -1,0 +1,200 @@
+﻿1. 準備 (じゅんび) | Chuẩn bị | Kết thúc | Bắt đầu | Kiểm tra
+2. 練習 (れんしゅう) | Luyện tập | Thi đấu | Nghỉ ngơi | Học tập
+3. 発表 (はっぴょう) | Phát biểu/Công bố | Im lặng | Viết | Đọc
+4. 経験 (けいけん) | Kinh nghiệm | Kiến thức | Trình độ | Bằng cấp
+5. 成功 (せいこう) | Thành công | Thất bại | Nỗ lực | Thay đổi
+6. 失敗 (しっぱい) | Thất bại | Thành công | Mục tiêu | Kết quả
+7. 計画 (けいかく) | Kế hoạch | Thực tế | Lựa chọn | Ý kiến
+8. 相談 (そうだん) | Thảo luận/Trao đổi | Phản đối | Tự quyết | Im lặng
+9. 約束 (やくそく) | Lời hứa/Cuộc hẹn | Hủy bỏ | Trả lại | Mượn
+10. 用事 (ようじ) | Việc bận/Việc riêng | Rảnh rỗi | Nghỉ ngơi | Du lịch
+11. 事故 (じこ) | Tai nạn | Sự cố | May mắn | Thành công
+12. 経験 (けいけん) | Kinh nghiệm | Kỷ niệm | Kỹ năng | Trình độ
+13. 会議 (かいぎ) | Cuộc họp | Buổi tiệc | Lớp học | Công viên
+14. 招待 (しょうたい) | Mời/Chiêu đãi | Từ chối | Tặng quà | Quên
+15. 紹介 (しょうかい) | Giới thiệu | Phản đối | Tạm biệt | Tìm kiếm
+16. 冗談 (じょうだん) | Nói đùa | Nói thật | Viết bài | Hát
+17. 習慣 (しゅうかん) | Thói quen | Sở thích | Khả năng | Tài năng
+18. 法律 (ほうりつ) | Pháp luật | Quy tắc | Tự do | Lịch sử
+19. 丁寧 (ていねい) | Lịch sự/Cẩn thận | Vô lễ | Sơ sài | Nhanh
+20. 特別 (とくべつ) | Đặc biệt | Bình thường | Cũ kỹ | Xấu xa
+21. 複雑 (ふくざつ) | Phức tạp | Đơn giản | Sáng sủa | Rộng rãi
+22. 自由 (じゆう) | Tự do | Ràng buộc | Cấm đoán | Khó khăn
+23. 危険 (きけん) | Nguy hiểm | An toàn | Vui vẻ | Hạnh phúc
+24. 安全 (あんぜん) | An toàn | Nguy hiểm | Mệt mỏi | Lo lắng
+25. 丈夫 (じょうぶ) | Bền/Chắc | Yếu | Hỏng | Mềm
+26. 正直 (しょうじき) | Trung thực | Dối trá | Thông minh | Chăm chỉ
+27. 厳しい (きびしい) | Nghiêm khắc | Dễ dãi | Vui vẻ | Buồn bã
+28. 幸せ (しあわせ) | Hạnh phúc | Đau khổ | Mệt mỏi | Chán nản
+29. 羨ましい (うらやましい) | Ghen tị | Hài lòng | Bình yên | Lo lắng
+30. 騒がしい (さわがしい) | Ồn ào | Yên tĩnh | Trong lành | Sạch sẽ
+31. 珍しい (めずらしい) | Hiếm | Phổ biến | Đắt tiền | Cũ kỹ
+32. 賑やか (にぎやか) | Náo nhiệt | Yên tĩnh | Buồn tẻ | Sạch sẽ
+33. 鋭い (するどい) | Sắc bén | Cùn/Tù | Nhẹ nhàng | Dài
+34. 鈍い (にぶい) | Chậm chạp/Đần | Nhanh nhẹn | Thông minh | Sắc sảo
+35. 激しい (はげしい) | Dữ dội | Nhẹ nhàng | Chậm rãi | Yếu ớt
+36. 懐かしい (なつかしい) | Nhớ nhung | Quên lãng | Ghét bỏ | Xa lạ
+37. 恐ろしい (おそろしい) | Đáng sợ | Dũng cảm | Vui vẻ | Đáng yêu
+38. 豊かな (ゆたかな) | Giàu có/Phong phú | Nghèo khó | Thiếu thốn | Nhỏ bé
+39. 確か (たしか) | Chắc chắn/Hình như | Không rõ | Sai lệch | Mơ hồ
+40. 得意 (とくい) | Giỏi/Đắc ý | Kém | Sợ hãi | Lười biếng
+41. 苦手 (にがて) | Kém/Không thích | Giỏi | Hăng hái | Tự tin
+42. 真面目 (まじめ) | Chăm chỉ/Nghiêm túc | Lười biếng | Vô trách nhiệm | Nông nổi
+43. 素晴らしい (すばらしい) | Tuyệt vời | Tồi tệ | Bình thường | Xấu xí
+44. 厳しい (きびしい) | Nghiêm khắc | Dễ tính | Rộng rãi | Nhanh nhẹn
+45. 酷い (ひどい) | Tồi tệ | Tuyệt vời | Lịch sự | Tốt bụng
+46. 積極的 (せっきょくてき) | Tích cực | Tiêu cực | Lười biếng | Nhút nhát
+47. 消極的 (しょうきょくてき) | Tiêu cực | Tích cực | Năng động | Tự tin
+48. 一般的 (いっぱんてき) | Phổ biến/Thông thường | Hiếm | Đặc biệt | Bí mật
+49. 不思議 (ふしぎ) | Kỳ lạ/Kỳ diệu | Bình thường | Rõ ràng | Thú vị
+50. 無理 (むり) | Quá sức/Vô lý | Hợp lý | Dễ dàng | Đơn giản
+51. 連絡 (れんらく) | Liên lạc | Ngắt kết nối | Bỏ qua | Phớt lờ
+52. 集合 (しゅうごう) | Tập hợp | Giải tán | Tản mát | Tách rời
+53. 解散 (かいさん) | Giải tán | Tập hợp | Kết hợp | Gắn kết
+54. 成功 (せいこう) | Thành công | Thất bại | Lãng phí | Dừng lại
+55. 失敗 (しっぱい) | Thất bại | Thành công | Thắng lợi | Tiến bộ
+56. 解決 (かいけつ) | Giải quyết | Bỏ mặc | Làm rối | Dừng lại
+57. 原因 (げんいん) | Nguyên nhân | Kết quả | Mục tiêu | Giải pháp
+58. 結果 (けっか) | Kết quả | Nguyên nhân | Khởi đầu | Quá trình
+59. 目的 (もくてき) | Mục đích | Kết quả | Hậu quả | Vô nghĩa
+60. 目標 (もくひょう) | Mục tiêu | Khởi đầu | Kết thúc | Sự việc
+61. 意見 (いけん) | Ý kiến | Im lặng | Phản bác | Bỏ cuộc
+62. 感想 (かんそう) | Cảm tưởng | Sự thật | Phê bình | Kết quả
+63. 質問 (しつもん) | Câu hỏi | Câu trả lời | Ý kiến | Kết luận
+64. 回答 (かいとう) | Câu trả lời | Câu hỏi | Giải thích | Im lặng
+65. 説明 (せつめい) | Giải thích | Gây nhiễu | Giấu giếm | Phớt lờ
+66. 発表 (はっぴょう) | Phát biểu | Giấu kín | Im lặng | Từ bỏ
+67. 返事 (へんじ) | Sự trả lời/Hồi âm | Bỏ qua | Im lặng | Từ chối
+68. 約束 (やくそく) | Lời hứa | Hủy bỏ | Trả lại | Mượn
+69. 予定 (よてい) | Dự định/Kế hoạch | Quá khứ | Ngẫu nhiên | Bất ngờ
+70. 都合 (つごう) | Sự thuận tiện/Tình trạng | Thời gian | Địa điểm | Mục đích
+71. 経験 (けいけん) | Kinh nghiệm | Kỷ niệm | Kỹ năng | Trình độ
+72. 知識 (ちしき) | Kiến thức | Sự ngu dốt | Tài năng | Cảm xúc
+73. 実力 (じつりょく) | Thực lực | May mắn | Vô danh | Thất bại
+74. 才能 (さいのう) | Tài năng | Sự kém cỏi | Sự lười biếng | Tính cách
+75. 努力 (どりょく) | Nỗ lực | Sự lười biếng | Từ bỏ | Thất bại
+76. 苦労 (くろう) | Gian khổ/Vất vả | Thảnh thơi | Hạnh phúc | Thành công
+77. 成功 (せいこう) | Thành công | Thất bại | Rủi ro | Lãng phí
+78. 満足 (まんぞく) | Thỏa mãn | Bất mãn | Tức giận | Buồn bã
+79. 不満 (ふまん) | Bất mãn | Thỏa mãn | Hạnh phúc | Vui vẻ
+80. 心配 (しんぱい) | Lo lắng | Yên tâm | Thư giãn | Bình tĩnh
+81. 安心 (あんしん) | Yên tâm | Lo lắng | Hoảng sợ | Hồi hộp
+82. 緊張 (きんちょう) | Căng thẳng | Thư giãn | Bình tĩnh | Thoải mái
+83. 疲労 (ひろう) | Mệt mỏi | Khỏe mạnh | Hăng hái | Tươi tỉnh
+84. 興奮 (こうふん) | Hưng phấn | Bình tĩnh | Chán nản | Buồn ngủ
+85. 失望 (しつぼう) | Thất vọng | Hy vọng | Hài lòng | Tin tưởng
+86. 希望 (きぼう) | Hy vọng | Thất vọng | Chán nản | Bỏ cuộc
+87. 勇気 (ゆうき) | Dũng cảm | Nhút nhát | Sợ hãi | Hèn hạ
+88. 驚き (おどろき) | Sự ngạc nhiên | Sự bình thường | Sự chuẩn bị | Sự thất vọng
+89. 悲しみ (かなしみ) | Nỗi buồn | Niềm vui | Hy vọng | Hạnh phúc
+90. 喜び (よろこび) | Niềm vui | Nỗi buồn | Sự đau khổ | Thất vọng
+91. 怒り (いかり) | Sự tức giận | Sự bình tĩnh | Sự yêu thương | Sự ngạc nhiên
+92. 感謝 (かんしゃ) | Cảm ơn | Phàn nàn | Oán trách | Phớt lờ
+93. 感動 (かんどう) | Cảm động | Vô cảm | Chán ghét | Thờ ơ
+94. 興味 (きょうみ) | Hứng thú | Chán ghét | Vô cảm | Lãng quên
+95. 習慣 (しゅうかん) | Thói quen | Sự lạ lẫm | Sự bỏ dở | Sự thay đổi
+96. 伝統 (でんとう) | Truyền thống | Sự đổi mới | Sự lạ lẫm | Sự biến mất
+97. 変化 (へんか) | Thay đổi | Giữ nguyên | Dừng lại | Hỏng hóc
+98. 発展 (はってん) | Phát triển | Suy thoái | Dậm chân | Kết thúc
+99. 増加 (ぞうか) | Tăng lên | Giảm đi | Dừng lại | Biến mất
+100. 減少 (げんしょう) | Giảm đi | Tăng lên | Phát triển | Mở rộng
+101. 競争 (きょうそう) | Cạnh tranh | Hợp tác | Dừng lại | Thất bại
+102. 協力 (きょうりょく) | Hợp tác | Cạnh tranh | Đối đầu | Chia rẽ
+103. 影響 (えいきょう) | Ảnh hưởng | Không liên quan | Ngăn cản | Dừng lại
+104. 存在 (そんざい) | Sự tồn tại | Sự biến mất | Sự không có | Sự hư cấu
+105. 理由 (りゆう) | Lý do | Kết quả | Hậu quả | Mục đích
+106. 方法 (ほうほう) | Phương pháp | Kết quả | Lý do | Cản trở
+107. 目的 (もくてき) | Mục đích | Hậu quả | Nguyên nhân | Tình cờ
+108. 状況 (じょうきょう) | Tình trạng | Mục tiêu | Kết quả | Lý do
+109. 計画 (けいかく) | Kế hoạch | Thực tế | Tình cờ | Hậu quả
+110. 準備 (じゅんび) | Chuẩn bị | Bỏ dở | Kết thúc | Phớt lờ
+111. 確認 (かくにん) | Xác nhận | Bỏ qua | Phớt lờ | Nghi ngờ
+112. 整理 (せいり) | Chỉnh sửa/Sắp xếp | Làm rối | Vứt bỏ | Phá hủy
+113. 変更 (へんこう) | Thay đổi | Giữ nguyên | Cố định | Dừng lại
+114. 中止 (ちゅうし) | Hủy bỏ | Tiếp tục | Bắt đầu | Phát triển
+115. 延期 (えんき) | Hoãn lại | Làm sớm | Hủy bỏ | Bắt đầu
+116. 提出 (ていしゅつ) | Nộp (báo cáo) | Giữ lại | Cất đi | Vứt bỏ
+117. 受付 (うけつけ) | Tiếp tân/Tiếp nhận | Từ chối | Bỏ qua | Phớt lờ
+118. 検査 (けんさ) | Kiểm tra | Bỏ qua | Phớt lờ | Tin tưởng
+119. 発見 (はっけん) | Phát hiện | Che giấu | Phớt lờ | Làm mất
+120. 製作 (せいさく) | Chế tạo | Phá hủy | Vứt đi | Bỏ cuộc
+121. 完成 (かんせい) | Hoàn thành | Bỏ dở | Phá hủy | Dừng lại
+122. 優勝 (ゆうしょう) | Vô địch | Thất bại | Bỏ cuộc | Dừng lại
+123. 参加 (さんか) | Tham gia | Vắng mặt | Từ bỏ | Dừng lại
+124. 応援 (おうえん) | Cổ vũ | Ngăn cản | Phản đối | Từ bỏ
+125. 成功 (せいこう) | Thành công | Thất bại | Rủi ro | Lãng phí
+126. 失敗 (しっぱい) | Thất bại | Thành công | Thắng lợi | Tiến bộ
+127. 解決 (かいけつ) | Giải quyết | Gây rắc rối | Bỏ qua | Dừng lại
+128. 責任 (せきにん) | Trách nhiệm | Vô trách nhiệm | Bỏ trốn | Lười biếng
+129. 信用 (しんよう) | Tin tưởng | Nghi ngờ | Phản bội | Bỏ qua
+130. 誤解 (ごかい) | Hiểu lầm | Hiểu đúng | Tin tưởng | Biết rõ
+131. 正解 (せいかい) | Đáp án đúng | Sai lầm | Lỗi sai | Mơ hồ
+132. 間違い (まちがい) | Lỗi sai | Đúng đắn | Chính xác | Rõ ràng
+133. 記録 (きろく) | Ghi chép | Xóa bỏ | Bỏ qua | Quên
+134. 記憶 (きおく) | Ký ức | Sự quên lãng | Sự nhầm lẫn | Sự bỏ dở
+135. 習慣 (しゅうかん) | Thói quen | Sự lạ lẫm | Sự bỏ dở | Sự thay đổi
+136. 文化 (ぶんか) | Văn hóa | Sự lạc hậu | Sự biến mất | Sự phá hủy
+137. 芸術 (げいじゅつ) | Nghệ thuật | Sự thô kệch | Sự vô nghĩa | Sự phá hủy
+138. 科学 (かがく) | Khoa học | Sự mê tín | Sự lạ lẫm | Sự lạc hậu
+139. 医学 (いがく) | Y học | Sự lạ lẫm | Sự vô nghĩa | Sự phá hủy
+140. 政治 (せいじ) | Chính trị | Sự vô chính phủ | Sự hỗn loạn | Sự bỏ dở
+141. 経済 (けいざい) | Kinh tế | Sự nghèo đói | Sự phá sản | Sự bỏ dở
+142. 社会 (しゃかい) | Xã hội | Sự cô lập | Sự hỗn loạn | Sự phá hủy
+143. 法律 (ほうりつ) | Pháp luật | Sự phạm tội | Sự hỗn loạn | Sự vô nghĩa
+144. 歴史 (れきし) | Lịch sử | Sự tương lai | Sự lạ lẫm | Sự quên lãng
+145. 地理 (ちり) | Địa lý | Sự lạ lẫm | Sự vô nghĩa | Sự phá hủy
+146. 数学 (すうがく) | Toán học | Sự vô nghĩa | Sự lạ lẫm | Sự phá hủy
+147. 物理 (ぶつり) | Vật lý | Sự vô nghĩa | Sự lạ lẫm | Sự phá hủy
+148. 化学 (かがく) | Hóa học | Sự vô nghĩa | Sự lạ lẫm | Sự phá hủy
+149. 体育 (たいいく) | Thể dục | Sự lười biếng | Sự yếu đuối | Sự bỏ dở
+150. 音楽 (おんがく) | Âm nhạc | Sự ồn ào | Sự vô nghĩa | Sự im lặng
+151. 案内 (あんない) | Hướng dẫn | Làm phiền | Ngăn cản | Phớt lờ
+152. 交換 (こうかん) | Trao đổi | Giữ lại | Vứt bỏ | Làm mất
+153. 返品 (へんぴん) | Trả lại hàng | Mua thêm | Giữ lại | Sử dụng
+154. 注文 (ちゅうもん) | Đặt hàng | Hủy đơn | Bỏ qua | Phớt lờ
+155. 配達 (はいたつ) | Giao hàng | Giữ lại | Ngăn cản | Vứt bỏ
+156. 運転 (うんてん) | Lái xe | Đi bộ | Đi tàu | Ngồi yên
+157. 故障 (こしょう) | Hỏng hóc | Hoạt động tốt | Mới | Sửa xong
+158. 修理 (しゅうり) | Sửa chữa | Làm hỏng | Vứt đi | Phá hủy
+159. 停電 (ていでん) | Mất điện | Có điện | Thắp đèn | Bật máy
+160. 掃除 (そうじ) | Dọn dẹp | Làm bẩn | Bỏ hoang | Phá hủy
+161. 洗濯 (せんたく) | Giặt giũ | Làm bẩn | Vứt đi | Phá hủy
+162. 準備 (じゅんび) | Chuẩn bị | Bỏ dở | Kết thúc | Phớt lờ
+163. 片付け (かたづけ) | Dọn dẹp/Sắp xếp | Làm bừa bãi | Phá hủy | Vứt đi
+164. 整理 (せいり) | Chỉnh sửa/Sắp xếp | Làm rối | Vứt bỏ | Phá hủy
+165. 相談 (そうだん) | Thảo luận/Trao đổi | Phản đối | Tự quyết | Im lặng
+166. 約束 (やくそく) | Lời hứa/Cuộc hẹn | Hủy bỏ | Trả lại | Mượn
+167. 連絡 (れんらく) | Liên lạc | Ngắt kết nối | Bỏ qua | Phớt lờ
+168. 集合 (しゅうごう) | Tập hợp | Giải tán | Tản mát | Tách rời
+169. 解散 (かいさん) | Giải tán | Tập hợp | Kết hợp | Gắn kết
+170. 解決 (かいけつ) | Giải quyết | Bỏ mặc | Làm rối | Dừng lại
+171. 失敗 (しっぱい) | Thất bại | Thành công | Thắng lợi | Tiến bộ
+172. 成功 (せいこう) | Thành công | Thất bại | Rủi ro | Lãng phí
+173. 原因 (げんいん) | Nguyên nhân | Kết quả | Mục tiêu | Giải pháp
+174. 結果 (けっか) | Kết quả | Nguyên nhân | Khởi đầu | Quá trình
+175. 目的 (もくてき) | Mục đích | Hậu quả | Nguyên nhân | Tình cờ
+176. 計画 (けいかく) | Kế hoạch | Thực tế | Tình cờ | Hậu quả
+177. 確認 (かくにん) | Xác nhận | Bỏ qua | Phớt lờ | Nghi ngờ
+178. 変更 (へんこう) | Thay đổi | Giữ nguyên | Cố định | Dừng lại
+179. 中止 (ちゅうし) | Hủy bỏ | Tiếp tục | Bắt đầu | Phát triển
+180. 延期 (えんき) | Hoãn lại | Làm sớm | Hủy bỏ | Bắt đầu
+181. 提出 (ていしゅつ) | Nộp (báo cáo) | Giữ lại | Cất đi | Vứt bỏ
+182. 受付 (うけつけ) | Tiếp tân/Tiếp nhận | Từ chối | Bỏ qua | Phớt lờ
+183. 検査 (けんさ) | Kiểm tra | Bỏ qua | Phớt lờ | Tin tưởng
+184. 発見 (はっけん) | Phát hiện | Che giấu | Phớt lờ | Làm mất
+185. 製作 (せいくさ) | Chế tạo | Phá hủy | Vứt đi | Bỏ cuộc
+186. 完成 (かんせい) | Hoàn thành | Bỏ dở | Phá hủy | Dừng lại
+187. 参加 (さんか) | Tham gia | Vắng mặt | Từ bỏ | Dừng lại
+188. 応援 (おうえん) | Cổ vũ | Ngăn cản | Phản đối | Từ bỏ
+189. 記録 (きろく) | Ghi chép | Xóa bỏ | Bỏ qua | Quên
+190. 記憶 (きおく) | Ký ức | Sự quên lãng | Sự nhầm lẫn | Sự bỏ dở
+191. 習慣 (しゅうかん) | Thói quen | Sự lạ lẫm | Sự bỏ dở | Sự thay đổi
+192. 文化 (ぶんか) | Văn hóa | Sự lạc hậu | Sự biến mất | Sự phá hủy
+193. 芸術 (げいじゅつ) | Nghệ thuật | Sự thô kệch | Sự vô nghĩa | Sự phá hủy
+194. 科学 (かがく) | Khoa học | Sự mê tín | Sự lạ lẫm | Sự lạc hậu
+195. 医学 (いがく) | Y học | Sự lạ lẫm | Sự vô nghĩa | Sự phá hủy
+196. 政治 (せいじ) | Chính trị | Sự vô chính phủ | Sự hỗn loạn | Sự bỏ dở
+197. 経済 (けいざい) | Kinh tế | Sự nghèo đói | Sự phá sản | Sự bỏ dở
+198. 社会 (しゃかい) | Xã hội | Sự cô lập | Sự hỗn loạn | Sự phá hủy
+199. 法律 (ほうりつ) | Pháp luật | Sự phạm tội | Sự hỗn loạn | Sự vô nghĩa
+200. 歴史 (れきし) | Lịch sử | Sự tương lai | Sự lạ lẫm | Sự quên lãng

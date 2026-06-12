@@ -1,0 +1,100 @@
+﻿1. ～際 (～さい) | Khi/Lúc (Văn viết) | Sau khi | Trước khi | Trong khi rảnh
+2. ～に際して (～にさいして) | Nhân dịp/Khi bắt đầu | Kết thúc | Vì | Mặc dù
+3. ～にあたって (～にあたって) | Nhân dịp/Vào thời điểm (Trang trọng) | Sau khi xong | Định làm | Vì không làm
+4. ～たとたん (～たとたん) | Ngay sau khi (Bất ngờ) | Trước khi | Mãi sau mới | Trong khi
+5. ～かと思ったら (～かとおもったら) | Vừa mới... thì ngay lập tức | Định làm | Sắp làm | Không bao giờ làm
+6. ～か～ないかのうちに (～か～ないかのうちに) | Ngay khi vừa mới (Gần như đồng thời) | Trước khi làm | Sau một lúc | Vì đã làm
+7. ～次第 (～しだい) | Ngay sau khi... sẽ làm ngay | Tùy thuộc vào | Định làm | Đang làm
+8. ～て以来 (～ていらい) | Kể từ khi... suốt cho đến nay | Trước khi | Chỉ một lần | Sắp tới
+9. ～てはじめて (～てはじめて) | Cho đến khi... mới nhận ra | Đã làm xong | Sắp làm | Vừa mới làm
+10. ～うちに (～うちに) | Trong khi còn... (Tranh thủ) | Sau khi | Kể từ | Vì
+11. ～を問わず (～をとわず) | Bất kể/Không phân biệt | Dựa trên | Tùy thuộc | Vì
+12. ～にかかわらず (～にかかわらず) | Bất kể/Dù thế nào đi nữa | Chỉ vì | Nhờ vào | Kết quả là
+13. ～もかまわず (～もかまかわらず) | Chẳng quan tâm đến/Mặc kệ | Rất để ý | Vì lo lắng | Nhờ có
+14. ～はともかく (～はともかく) | Khoan hãy bàn đến/Tạm thời bỏ qua | Nhất định là | Vì | Sau khi
+15. ～はさておき (～はさておき) | Tạm gác chuyện... sang một bên | Định làm | Đang làm | Vì là
+16. ～に限らず (～にかぎらず) | Không chỉ... mà còn | Chỉ có | Ngược lại | Vì
+17. ～のみならず (～のみならず) | Không chỉ (Văn viết) | Chỉ là | Thay vì | Do bởi
+18. ～ばかりか (～ばかりか) | Không chỉ... mà còn (Mức độ tăng dần) | Chỉ toàn là | Vừa mới | Sắp sửa
+19. ～はもとより (～はもとより) | ... là đương nhiên, ngoài ra còn | Vì là | Không phải là | Định là
+20. ～上に (～うえに) | Hơn nữa/Thêm vào đó | Tuy nhiên | Vì | Sau khi
+21. ～をめぐって (～をめぐって) | Xoay quanh (Vấn đề/Tranh luận) | Dựa trên | Thông qua | Bắt đầu từ
+22. ～に答えて (～にこたえて) | Đáp ứng lại (Kỳ vọng/Yêu cầu) | Hỏi về | Thay vì | Trái với
+23. ～に基づいた (～にもとづいた) | Dựa trên/Căn cứ vào | Trái với | Thay cho | Cùng với
+24. ～に沿って (～にそって) | Dọc theo/Tuân theo (Quy tắc/Lộ trình) | Trái với | Nhờ vào | Bởi vì
+25. ～をもとに (～をもとに) | Dựa trên (Vật liệu/Đề tài) | Bỏ qua | Thay cho | Sau khi
+26. ～に基づいて (～にもとづいて) | Căn cứ vào | Định làm | Đã làm | Sợ làm
+27. ～につれて (～につれて) | Càng... càng (Kéo theo tự nhiên) | Tuy nhiên | Chỉ là | Vì không
+28. ～にしたがって (～にしたがって) | Càng... càng (Kéo theo quy luật) | Trước khi | Nhờ có | Tại vì
+29. ～にともなって (～にともなって) | Cùng với (Sự thay đổi đồng thời) | Trái ngược | Thay cho | Vì
+30. ～とともに (～とともに) | Cùng với/Đồng thời với | Duy nhất | Thay vì | Khác với
+31. ～に違いない (～にちがいない) | Chắc chắn là | Có lẽ | Hình như | Không phải
+32. ～はずがない (～はずがない) | Không thể nào/Lẽ nào lại | Chắc chắn | Sắp làm | Nên làm
+33. ～っこない (～っこない) | Tuyệt đối không/Không thể | Nhất định | Có thể | Định làm
+34. ～わけがない (～わけがない) | Tuyệt đối không (Phủ định logic) | Có lẽ | Sắp sửa | Đang làm
+35. ～得ない (～えない) | Không thể (Về mặt vật lý/lý thuyết) | Có thể | Định làm | Sợ làm
+36. ～おそれがある (～おそれがある) | E rằng/Có nguy cơ (Xấu) | Có hy vọng | Nhất định | Nên làm
+37. ～まい (～まい) | Chắc là không/Quyết không | Sắp làm | Hãy làm | Đã làm
+38. ～ものか (～ものか) | Tuyệt đối không (Cảm xúc mạnh) | Có lẽ | Nhất định | Hãy làm
+39. ～わけではない (～わけではない) | Không hẳn là | Luôn luôn | Vì | Nên
+40. ～というものではない (～というものではない) | Không phải cứ... là được | Chắc chắn | Nên làm | Hãy làm
+41. ～に際して (～にさいして) | Khi/Nhân dịp | Sau khi | Vì | Tuy nhiên
+42. ～に限って (～にかぎって) | Chỉ riêng/Đúng vào lúc | Không chỉ | Ngược lại | Tất cả
+43. ～さえ～ば (～さえ～ば) | Chỉ cần... là đủ | Càng... càng | Mặc dù | Tuy nhiên
+44. ～からには (～からには) | Một khi đã... thì phải | Trước khi | Vì không | Nếu không
+45. ～以上は (～いじょうは) | Một khi đã... (Trang trọng) | Dưới mức | Chỉ là | Sắp tới
+46. ～上は (～うえは) | Một khi đã (Văn viết trang trọng) | Sau khi | Dưới | Trong khi
+47. ～わけにはいかない (～わけにはいかない) | Không thể (Lương tâm/Lý do) | Có thể | Nên | Hãy
+48. ～ざるを得ない (～ざるをえない) | Đành phải/Buộc phải | Không cần | Thích | Nên
+49. ～抜く (～ぬく) | Làm tới cùng/Hết mức | Làm dở dang | Bắt đầu làm | Không làm
+50. ～がたい (～がたい) | Khó mà (Cảm xúc/Tâm lý) | Dễ làm | Thích làm | Nên làm
+51. ～ずにはいられない (～ずにはいられない) | Không thể không/Không kìm được | Phải làm | Nên làm | Cấm làm
+52. ～ないではいられない (～ないではいられない) | Không thể cưỡng lại việc... | Có thể nhịn | Định làm | Sắp làm
+53. ～に限る (～にかぎる) | ... là tốt nhất/là nhất | ... là không nên | ... là sai | ... là bình thường
+54. ～にほかならない (～にほかならない) | Chính là/Không gì khác ngoài | Có lẽ là | Không phải là | Hình như là
+55. ～にすぎない (～にすぎない) | Chẳng qua chỉ là | Rất nhiều | Quan trọng là | Khác biệt là
+56. ～ものがある (～ものがある) | Có cảm giác/Có gì đó rất... | Không có gì | Bình thường | Sắp tới
+57. ～といっても過言ではない (～といってもかごんではない) | Nói... cũng không quá lời | Nói dối | Nói sai | Nói thừa
+58. ～というものではない (～というものではない) | Không phải cứ... là được | Chắc chắn | Nên làm | Hãy làm
+59. ～ないことはない (～ないことはない) | Không phải là không... | Tuyệt đối không | Chắc chắn | Đừng làm
+60. ～ことはない (～ことはない) | Không cần thiết phải làm | Phải làm | Nên làm | Cấm làm
+61. ～反面 (～はんめん) | Mặt khác/Trái lại | Hơn nữa | Do đó | Vì vậy
+62. ～一方で (～いっぽうで) | Mặt khác/Đồng thời | Chỉ có một | Trước khi | Sau khi
+63. ～というより (～というより) | Nói đúng hơn là... | Giống như là | Vì là | Nghe nói là
+64. ～かわりに (～かわりに) | Thay vì/Bù lại | Cùng với | Do đó | Bởi vì
+65. ～にしろ / ～にせよ (～にしろ / ～にせよ) | Cho dù là/Dẫu cho là | Vì là | Sau khi | Trước khi
+66. ～といっても (～といっても) | Dù nói là... nhưng thực tế | Bởi vì | Nếu nói | Nghe nói là
+67. ～ものの (～ものの) | Mặc dù... nhưng | Vì vậy | Tuy nhiên | Cho nên
+68. ～つつ (～つつ) | Mặc dù... nhưng (Văn viết) | Vì... nên | Sau khi | Trước khi
+69. ～ながら (～ながら) | Mặc dù... nhưng (Trạng thái) | Vì thế | Do đó | Hơn nữa
+70. ～からといって (～からといって) | Cho dù nói là... cũng không | Vì là | Nếu là | Tuy nhiên
+71. ～ぬく (～ぬく) | Làm tới cùng (Nỗ lực) | Làm dở dang | Bắt đầu làm | Không làm
+72. ～きれる (～きれる) | Có thể làm hết sạch | Không thể làm | Sắp xong | Đang làm
+73. ～をきっかけに (～をきっかけに) | Nhân cơ hội/Từ việc | Trước khi | Vì không | Dù cho
+74. ～を通じて / ～を通して (～をつうじて / ～をとおして) | Thông qua/Suốt cả | Chỉ một lát | Vì | Ngược lại
+75. ～をこめて (～をこめて) | Gửi gắm (Tình cảm/Tâm tình) | Loại bỏ | Giữ lại | Lấy ra
+76. ～をもとに (～をもとに) | Dựa trên/Căn cứ trên | Bỏ qua | Thay cho | Sau khi
+77. ～に基づいて (～にもとづいて) | Căn cứ vào | Định làm | Đã làm | Sợ làm
+78. ～に応じて (～におうじて) | Ứng với/Tùy theo | Trái ngược | Bỏ qua | Mặc dù
+79. ～に沿って (～にそって) | Tuân theo/Dọc theo | Trái với | Nhờ vào | Bởi vì
+80. ～上 (～じょう) | Về mặt/Xét theo khía cạnh | Phía trên | Bên dưới | Bên cạnh
+81. ～うちに (～うちに) | Trong lúc còn... (Tranh thủ) | Sau khi | Kể từ | Vì
+82. ～かけだ / ～かけの (～かけだ / ～かけの) | Đang làm dở/Chưa xong | Đã làm xong | Sắp làm | Không làm
+83. ～きる (～きる) | Làm hết/Hoàn toàn | Bắt đầu | Đang làm | Sợ làm
+84. ～たて (～たて) | Vừa mới xong (Tươi mới) | Đã xong lâu | Sắp làm | Đang làm
+85. ～っぱなし (～っぱなし) | Cứ để nguyên như vậy (Xấu) | Sắp xếp gọn | Làm xong | Định làm
+86. ～げ (～げ) | Có vẻ (Trạng thái tâm hồn) | Nghe nói | Định làm | Đã làm
+87. ～がち (～がち) | Thường hay (Xu hướng xấu) | Hiếm khi | Luôn luôn | Tốt lành
+88. ～っぽい (～っぽい) | Cảm thấy như/Đầy rẫy | Hoàn toàn không | Rất tốt | Rất đẹp
+89. ～めく (～めく) | Có vẻ như là/Cảm giác là | Trái với | Giống hệt | Không phải
+90. ～向き (～むき) | Phù hợp với | Ghét | Dành riêng cho | Trái với
+91. ～拝見する (～はいけんする) | Xem/Nhìn (Khiêm nhường) | Ngài xem | Ngài đi | Ngài làm
+92. ～お目にかかる (～おめにかかる) | Gặp gỡ (Khiêm nhường) | Ngài gặp | Tôi đi | Tôi ngủ
+93. ～存じ上げる (～ぞんじあげる) | Biết (Khiêm nhường) | Tôi làm | Ngài biết | Ngài làm
+94. ～申し上げる (～もうしあげる) | Nói (Khiêm nhường) | Ngài nói | Ngài đi | Tôi ăn
+95. ～承る (～うけたまわる) | Nhận/Nghe (Khiêm nhường) | Ngài nhận | Tôi cho | Ngài cho
+96. ～次第だ (～しだいだ) | Chuyện là/Lý do là | Ngay lập tức | Tùy vào | Chắc chắn
+97. ～末に (～すえに) | Sau rất nhiều (Vất vả) | Ngay trước khi | Trong khi | Vì
+98. ～あげく (～あげく) | Cuối cùng thì (Kết quả xấu) | Kết quả tốt | Bắt đầu | Sắp sửa
+99. ～抜く (～ぬく) | Làm đến cùng | Dừng lại | Bỏ cuộc | Sắp làm
+100. ～っこない (～っこない) | Tuyệt đối không thể | Có thể | Nhất định | Định làm

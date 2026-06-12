@@ -1,0 +1,100 @@
+﻿1. 就要...了 (jiùyào...le) | Đã xong | Đang làm | Vừa làm | Sắp sửa...rồi
+2. 正在 (zhèngzài) | Đã | Sẽ | Vừa | Đang
+3. 一边...一边... (yībiān...yībiān...) | Sau khi | Vì | Nhưng | Vừa...vừa...
+4. 是...的 (shì...de) | Đang làm | Sẽ làm | Muốn làm | Nhấn mạnh thời gian/cách thức
+5. 又...又... (yòu...yòu...) | Hoặc...hoặc | Vừa...vừa | Không chỉ...mà còn | Vừa...lại vừa...
+6. 有点儿 (yǒudiǎnr) | Rất | Quá | Không | Một chút (chê bai)
+7. 比 (bǐ) | Bằng | Như | Không | So sánh hơn
+8. 不比 (bùbǐ) | Hơn | Nhất | Càng | Không so bằng
+9. 没有 (méiyǒu) | Hơn | Nhất | Càng | So sánh kém
+10. 一样 (yīyàng) | Khác | Lạ | Mới | Giống nhau
+11. 最 (zuì) | Rất | Quá | Khá | Nhất
+12. 好 (hǎo) | Dễ | Khó | Rất | Tiện/Tốt
+13. 就 (jiù) | Đã | Đang | Sẽ | Thì (sớm)
+14. 才 (cái) | Đã | Đang | Sẽ | Mới (muộn)
+15. 连...都... (lián...dōu...) | Vừa...lại | Không chỉ... | Đã... | Ngay cả...cũng...
+16. 被 (bèi) | Chủ động | Tự làm | Vô tình | Bị/Được (câu bị động)
+17. 叫 (jiào) | Bảo | Nhường | Nhận | Sai khiến
+18. 让 (ràng) | Bảo | Nhường | Nhận | Để/Nhường
+19. 把 (bǎ) | Đối với | Với | Nhằm | Dùng cho tân ngữ tác động
+20. 那么 (nàme) | Đây | Nào | Cái gì | Như thế/Vậy
+21. 这么 (zhème) | Kia | Nào | Cái gì | Như thế này/Thế này
+22. 够 (gòu) | Thiếu | Hết | Thừa | Đủ
+23. 还是 (háishì) | Và | Nhưng | Vì | Hoặc là (câu hỏi)
+24. 或者 (huòzhě) | Và | Nhưng | Vì | Hoặc là (câu trần thuật)
+25. 虽然...但是... (suīrán...dànshì...) | Vì...nên | Nếu...thì | Càng...càng | Mặc dù...nhưng...
+26. 如果...就... (rúguǒ...jiù...) | Vì...nên | Mặc dù... | Vừa...vừa... | Nếu...thì...
+27. 除了...以外 (chúle...yǐwài) | Vì | Nhưng | Và | Ngoài...ra
+28. 越...越... (yuè...yuè...) | Vì...nên | Nếu...thì | Mặc dù... | Càng...càng...
+29. 有的...有的... (yǒude...yǒude...) | Tất cả | Không | Đang | Có cái...có cái...
+30. 先...再... (xiān...zài...) | Sau...trước | Vừa...vừa | Đang... | Trước...sau...
+31. 给 (gěi) | Nhận | Mượn | Mua | Cho (đối tượng)
+32. 刚 (gāng) | Đã | Đang | Sẽ | Vừa mới
+33. 刚才 (gāngcái) | Đang | Sẽ | Vừa mới | Lúc nãy
+34. 曾经 (céngjīng) | Đang | Sẽ | Chưa | Đã từng
+35. 已经 (yǐjīng) | Chưa | Đang | Sẽ | Đã (hoàn thành)
+36. 快 (kuài) | Chậm | Lâu | Mãi | Nhanh
+37. 慢 (màn) | Nhanh | Lâu | Mãi | Chậm
+38. 再见 (zàijiàn) | Chào | Cảm ơn | Xin lỗi | Tạm biệt
+39. 又 (yòu) | Chưa | Đang | Vừa | Lại (đã xảy ra)
+40. 再 (zài) | Chưa | Đang | Vừa | Lại (sẽ xảy ra)
+41. 一会儿 (yīhuìr) | Lâu | Chậm | Mãi | Một lát
+42. 一下 (yīxià) | Dài | Lâu | Mãi | Một chút
+43. 比较 (bǐjiào) | Nhất | Vừa | Ít | Tương đối
+44. 挺...的 (tǐng...de) | Rất | Không | Vừa | Khá
+45. 特别 (tèbié) | Bình thường | Xấu | Cũ | Đặc biệt
+46. 非常 (fēicháng) | Ít | Chút | Bình thường | Vô cùng
+47. 那么 (nàme) | Đây | Nào | Cái gì | Vậy/Thế
+48. 这么 (zhème) | Kia | Nào | Cái gì | Thế này
+49. 也 (yě) | Chưa | Đang | Vừa | Cũng
+50. 都 (dōu) | Chưa | Đang | Vừa | Đều
+51. 很 (hěn) | Không | Đang | Đã | Rất
+52. 太 (tài) | Rất | Không | Vừa | Quá/Lắm
+53. 极了 (jíle) | Rất | Không | Vừa | Cực kỳ
+54. 真 (zhēn) | Không | Đang | Đã | Thật là
+55. 怎么 (zěnme) | Ai | Cái gì | Ở đâu | Thế nào
+56. 怎么样 (zěnmeyàng) | Ai | Cái gì | Ở đâu | Như thế nào
+57. 什么 (shénme) | Ai | Ở đâu | Khi nào | Cái gì
+58. 谁 (shéi) | Cái gì | Ở đâu | Khi nào | Ai
+59. 哪儿 (nǎr) | Khi nào | Ai | Cái gì | Đâu
+60. 几 (jǐ) | Ai | Cái gì | Ở đâu | Mấy
+61. 多少 (duōshǎo) | Ai | Cái gì | Khi nào | Bao nhiêu
+62. 几点 (jǐdiǎn) | Bao nhiêu | Mấy tuổi | Ở đâu | Mấy giờ
+63. 在 (zài) | Là | Đang | Không | Ở/Tại
+64. 从 (cóng) | Đến | Tại | Ở | Từ
+65. 到 (dào) | Đi | Về | Ở | Đến
+66. 向 (xiàng) | Tại | Ở | Từ | Hướng về
+67. 离 (lí) | Đến | Tại | Ở | Cách
+68. 对 (duì) | Sai | Xấu | Tệ | Đối với
+69. 把 (bǎ) | Đối với | Với | Nhằm | Từ chỉ sự tác động
+70. 被 (bèi) | Chủ động | Tự làm | Vô tình | Bị/Được
+71. 让 (ràng) | Bảo | Nhường | Nhận | Để/Nhường
+72. 叫 (jiào) | Bảo | Nhường | Nhận | Sai khiến
+73. 应该 (yīnggāi) | Không | Đang | Đã | Nên
+74. 可能 (kěnéng) | Chắc chắn | Nhất định | Rõ ràng | Có thể
+75. 可以 (kěyǐ) | Không thể | Không dám | Không muốn | Được/Có thể
+76. 会 (huì) | Không thể | Không dám | Không muốn | Biết (kỹ năng)
+77. 能 (néng) | Không thể | Không dám | Không muốn | Có thể
+78. 要 (yào) | Không | Đang | Đã | Muốn/Sẽ
+79. 想 (xiǎng) | Biết | Có | Đi | Muốn/Nhớ
+80. 没 (méi) | Có | Đang | Sẽ | Không có (phủ định)
+81. 不 (bù) | Đang | Đã | Sẽ | Không (phủ định)
+82. 有 (yǒu) | Không | Đang | Đã | Có
+83. 呢 (ne) | Thì sao | Đang | Đã | Nhé/À
+84. 吧 (ba) | Không | Đang | Đã | Nhé/À
+85. 了 (le) | Đã | Đang | Sẽ | Rồi
+86. 过 (guò) | Đang | Sẽ | Mới | Đã từng
+87. 的 (de) | Ở | Đang | Đi | Của/Trợ từ
+88. 地 (de) | Ở | Đang | Đi | Trợ từ (trạng ngữ)
+89. 得 (de) | Ở | Đang | Đi | Trợ từ (bổ ngữ)
+90. 一点儿 (yīdiǎnr) | Nhiều | Rất | Cũ | Một chút
+91. 一些 (yīxiē) | Tất cả | Không | Đang | Một vài
+92. 每 (měi) | Một | Hai | Ba | Mỗi
+93. 几 (jǐ) | Tất cả | Không | Đang | Mấy/Vài
+94. 些 (xiē) | Tất cả | Không | Đang | Vài (lượng từ)
+95. 以后 (yǐhòu) | Trước đây | Vừa | Đang | Sau đó
+96. 以前 (yǐqián) | Sau | Tương lai | Ngày mai | Trước đây
+97. 时候 (shíhou) | Nơi chốn | Người | Vật | Lúc/Khi
+98. 正在 (zhèngzài) | Đã | Chưa | Sẽ | Đang
+99. 就 (jiù) | Sẽ | Đang | Chưa | Ngay/Chính là
+100. 才 (cái) | Đã | Đang | Sẽ | Mới (trễ)

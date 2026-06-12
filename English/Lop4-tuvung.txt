@@ -1,0 +1,300 @@
+﻿1. Nationality | Quốc gia | Thành phố | Ngôn ngữ | Quốc tịch
+2. Country | Tên | Tuổi | Số | Quốc gia
+3. Australia | Mỹ | Anh | Pháp | Úc
+4. America | Úc | Anh | Pháp | Mỹ
+5. Vietnam | Lào | Thái | Nhật | Việt Nam
+6. England | Úc | Mỹ | Pháp | Anh
+7. Japan | Úc | Mỹ | Anh | Nhật Bản
+8. Malaysia | Thái | Lào | Pháp | Ma-lai-xi-a
+9. Singapore | Nhật | Úc | Anh | Xin-ga-po
+10. Subject | Trò chơi | Màu sắc | Đồ vật | Môn học
+11. Science | Toán | Văn | Nhạc | Khoa học
+12. History | Toán | Văn | Nhạc | Lịch sử
+13. Geography | Toán | Văn | Nhạc | Địa lý
+14. Informatics | Toán | Văn | Nhạc | Tin học
+15. Literature | Toán | Nhạc | Vật lý | Ngữ văn
+16. Schedule | Kế hoạch | Bài tập | Thời gian | Thời khóa biểu
+17. Monday | Thứ ba | Thứ tư | Thứ năm | Thứ hai
+18. Tuesday | Thứ hai | Thứ tư | Thứ sáu | Thứ ba
+19. Wednesday | Thứ hai | Thứ ba | Chủ nhật | Thứ tư
+20. Thursday | Thứ ba | Thứ sáu | Thứ bảy | Thứ năm
+21. Friday | Thứ tư | Thứ năm | Chủ nhật | Thứ sáu
+22. Saturday | Thứ hai | Thứ ba | Thứ tư | Thứ bảy
+23. Sunday | Thứ sáu | Thứ năm | Thứ tư | Chủ nhật
+24. Activity | Trò chơi | Màu sắc | Môn học | Hoạt động
+25. Breaktime | Giờ học | Giờ thi | Giờ làm | Giờ ra chơi
+26. Library | Căng tin | Phòng học | Sân chơi | Thư viện
+27. Laboratory | Thư viện | Căng tin | Sân chơi | Phòng thí nghiệm
+28. Gymnasium | Thư viện | Căng tin | Phòng học | Nhà thể chất
+29. Uniform | Giày | Mũ | Cặp | Đồng phục
+30. Equipment | Vở | Bút | Sách | Thiết bị
+31. Stationery | Vở | Bút | Sách | Văn phòng phẩm
+32. Compass | Bút | Vở | Cặp | Com-pa
+33. Dictionary | Vở | Bút | Thước | Từ điển
+34. Scissors | Bút | Vở | Thước | Cái kéo
+35. Neighborhood | Trường | Chợ | Bệnh viện | Khu phố
+36. Supermarket | Trường | Chợ | Bệnh viện | Siêu thị
+37. Cinema | Trường | Chợ | Bệnh viện | Rạp chiếu phim
+38. Restaurant | Trường | Chợ | Bệnh viện | Nhà hàng
+39. Pharmacy | Công viên | Trường | Bệnh viện | Hiệu thuốc
+40. Station | Nhà | Trường | Bệnh viện | Nhà ga
+41. Direction | Bản đồ | Ảnh | Sách | Phương hướng
+42. Crossroad | Đường | Cầu | Ngõ | Ngã tư
+43. Bridge | Đường | Ngã tư | Ngõ | Cái cầu
+44. Traffic | Đường | Ngã tư | Ngõ | Giao thông
+45. Symptom | Thuốc | Bác sĩ | Y tá | Triệu chứng
+46. Headache | Đau chân | Đau tay | Đau lưng | Đau đầu
+47. Toothache | Đau chân | Đau tay | Đau lưng | Đau răng
+48. Stomachache | Đau chân | Đau tay | Đau đầu | Đau bụng
+49. Medicine | Thức ăn | Nước uống | Quần áo | Thuốc
+50. Picnic | Trường | Chợ | Bệnh viện | Dã ngoại
+51. Camping | Trường | Chợ | Bệnh viện | Cắm trại
+52. Painting | Toán | Văn | Nhạc | Vẽ tranh
+53. Swimming | Toán | Văn | Nhạc | Bơi lội
+54. Fishing | Toán | Văn | Nhạc | Câu cá
+55. Adventure | Chạy | Nhảy | Đi | Phiêu lưu
+56. Comic | Truyện cổ tích | Báo | Sách | Truyện tranh
+57. Newspaper | Truyện | Sách | Vở | Báo
+58. Magazine | Truyện | Sách | Vở | Tạp chí
+59. Butterfly | Chim | Ong | Ruồi | Con bướm
+60. Dolphin | Cá | Voi | Hổ | Cá heo
+61. Giraffe | Khỉ | Voi | Gấu | Hươu cao cổ
+62. Kangaroo | Khỉ | Voi | Gấu | Chuột túi
+63. Crocodile | Khỉ | Voi | Gấu | Cá sấu
+64. Vocabulary | Ngữ pháp | Bài tập | Câu | Từ vựng
+65. Grammar | Từ vựng | Bài tập | Câu | Ngữ pháp
+66. Sentence | Từ vựng | Ngữ pháp | Bài tập | Câu
+67. Paragraph | Từ vựng | Câu | Bài tập | Đoạn văn
+68. Chapter | Từ vựng | Câu | Đoạn văn | Chương sách
+69. Author | Học sinh | Giáo viên | Hiệu trưởng | Tác giả
+70. Character | Tác giả | Học sinh | Giáo viên | Nhân vật
+71. Plot | Nhân vật | Tác giả | Chương | Cốt truyện
+72. Fantasy | Khoa học | Hài | Tin tức | Truyện giả tưởng
+73. Mystery | Khoa học | Hài | Tin tức | Truyện trinh thám
+74. Calculator | Bút | Thước | Vở | Máy tính cầm tay
+75. Blackboard | Bút | Vở | Thước | Bảng đen
+76. Sharpener | Bút | Vở | Thước | Gọt bút chì
+77. Corridor | Căng tin | Phòng học | Thư viện | Hành lang
+78. Staircase | Căng tin | Phòng học | Thư viện | Cầu thang
+79. Curtain | Cửa sổ | Cửa ra vào | Tường | Rèm cửa
+80. Ceiling | Cửa sổ | Cửa ra vào | Tường | Trần nhà
+81. Cabinet | Bảng | Bàn | Ghế | Tủ đựng đồ
+82. Wastebasket | Bảng | Bàn | Ghế | Thùng rác
+83. Calendar | Đồng hồ | Tranh | Tivi | Lịch
+84. Foggy | Nắng | Mưa | Lạnh | Trời có sương mù
+85. Snowy | Nắng | Mưa | Lạnh | Trời có tuyết
+86. Humid | Nắng | Mưa | Lạnh | Trời ẩm ướt
+87. Dry | Nắng | Mưa | Lạnh | Trời khô hanh
+88. Temperature | Gió | Mưa | Nắng | Nhiệt độ
+89. North | Nam | Đông | Tây | Phía Bắc
+90. South | Bắc | Đông | Tây | Phía Nam
+91. East | Bắc | Nam | Tây | Phía Đông
+92. West | Bắc | Nam | Đông | Phía Tây
+93. Vegetable | Hoa quả | Thịt | Cá | Rau củ
+94. Noodle | Bánh | Cơm | Rau | Mì sợi
+95. Soup | Cơm | Mì | Rau | Canh
+96. Salad | Cơm | Mì | Rau | Món salad
+97. Chopsticks | Bát | Đĩa | Thìa | Đôi đũa
+98. Napkin | Bát | Đĩa | Thìa | Khăn giấy
+99. Tablecloth | Bát | Đĩa | Thìa | Khăn trải bàn
+100. Garage | Cửa sổ | Mái nhà | Cổng | Nhà để xe
+101. Experience | Kế hoạch | Kiến thức | Kỹ năng | Kinh nghiệm
+102. Success | Thất bại | Nỗ lực | Tham vọng | Thành công
+103. Failure | Thành công | Hy vọng | Nỗ lực | Thất bại
+104. Effort | Thành công | Thất bại | Hy vọng | Nỗ lực
+105. Ambition | Thành công | Thất bại | Kinh nghiệm | Tham vọng
+106. Knowledge | Thành công | Thất bại | Kinh nghiệm | Kiến thức
+107. Skill | Thành công | Thất bại | Kinh nghiệm | Kỹ năng
+108. Talent | Thành công | Thất bại | Kỹ năng | Tài năng
+109. Creative | Lười biếng | Nhút nhát | Cũ kỹ | Sáng tạo
+110. Diligent | Lười biếng | Nhút nhát | Sáng tạo | Chăm chỉ
+111. Lazy | Chăm chỉ | Sáng tạo | Dũng cảm | Lười biếng
+112. Brave | Nhút nhát | Sáng tạo | Chăm chỉ | Dũng cảm
+113. Confident | Nhút nhát | Lười biếng | Chăm chỉ | Tự tin
+114. Shy | Tự tin | Sáng tạo | Chăm chỉ | Nhút nhát
+115. Healthy | Ốm yếu | Mệt mỏi | Lười biếng | Khỏe mạnh
+116. Sick | Khỏe mạnh | Sáng tạo | Chăm chỉ | Ốm yếu
+117. Tired | Khỏe mạnh | Sáng tạo | Chăm chỉ | Mệt mỏi
+118. Energetic | Mệt mỏi | Lười biếng | Nhút nhát | Tràn đầy năng lượng
+119. Careful | Bất cẩn | Lười biếng | Nhút nhát | Cẩn thận
+120. Careless | Cẩn thận | Chăm chỉ | Tự tin | Bất cẩn
+121. Helpful | Ích kỷ | Lười biếng | Nhút nhát | Hay giúp đỡ
+122. Selfish | Hay giúp đỡ | Chăm chỉ | Tự tin | Ích kỷ
+123. Friendly | Khó gần | Lười biếng | Nhút nhát | Thân thiện
+124. Polite | Thô lỗ | Chăm chỉ | Tự tin | Lịch sự
+125. Impolite | Lịch sự | Chăm chỉ | Tự tin | Thô lỗ
+126. Kind | Xấu tính | Lười biếng | Nhút nhát | Tốt bụng
+127. Cruel | Tốt bụng | Chăm chỉ | Tự tin | Độc ác
+128. Honest | Dối trá | Lười biếng | Nhút nhát | Trung thực
+129. Dishonest | Trung thực | Chăm chỉ | Tự tin | Dối trá
+130. Generous | Keo kiệt | Lười biếng | Nhút nhát | Hào phóng
+131. Stingy | Hào phóng | Chăm chỉ | Tự tin | Keo kiệt
+132. Rich | Nghèo | Lười biếng | Nhút nhát | Giàu có
+133. Poor | Giàu có | Chăm chỉ | Tự tin | Nghèo khó
+134. Expensive | Rẻ | Lười biếng | Nhút nhát | Đắt đỏ
+135. Cheap | Đắt đỏ | Chăm chỉ | Tự tin | Rẻ tiền
+136. Easy | Khó | Lười biếng | Nhút nhát | Dễ dàng
+137. Difficult | Dễ dàng | Chăm chỉ | Tự tin | Khó khăn
+138. Important | Không quan trọng | Lười biếng | Nhút nhát | Quan trọng
+139. Necessary | Không cần thiết | Chăm chỉ | Tự tin | Cần thiết
+140. Possible | Không thể | Lười biếng | Nhút nhát | Có thể
+141. Impossible | Có thể | Chăm chỉ | Tự tin | Không thể
+142. Correct | Sai | Lười biếng | Nhút nhát | Đúng
+143. Incorrect | Đúng | Chăm chỉ | Tự tin | Sai
+144. Famous | Vô danh | Lười biếng | Nhút nhát | Nổi tiếng
+145. Popular | Vô danh | Chăm chỉ | Tự tin | Phổ biến
+146. Strange | Quen thuộc | Lười biếng | Nhút nhát | Kỳ lạ
+147. Familiar | Kỳ lạ | Chăm chỉ | Tự tin | Quen thuộc
+148. Private | Công cộng | Lười biếng | Nhút nhát | Riêng tư
+149. Public | Riêng tư | Chăm chỉ | Tự tin | Công cộng
+150. Global | Địa phương | Lười biếng | Nhút nhát | Toàn cầu
+151. Local | Toàn cầu | Chăm chỉ | Tự tin | Địa phương
+152. Natural | Nhân tạo | Lười biếng | Nhút nhát | Tự nhiên
+153. Artificial | Tự nhiên | Chăm chỉ | Tự tin | Nhân tạo
+154. Modern | Cổ xưa | Lười biếng | Nhút nhát | Hiện đại
+155. Ancient | Hiện đại | Chăm chỉ | Tự tin | Cổ xưa
+156. Simple | Phức tạp | Lười biếng | Nhút nhát | Đơn giản
+157. Complex | Đơn giản | Chăm chỉ | Tự tin | Phức tạp
+158. Perfect | Hoàn hảo | Lười biếng | Nhút nhát | Hoàn hảo
+159. Imperfect | Hoàn hảo | Chăm chỉ | Tự tin | Không hoàn hảo
+160. Clean | Bẩn | Lười biếng | Nhút nhát | Sạch sẽ
+161. Dirty | Sạch sẽ | Chăm chỉ | Tự tin | Bẩn thỉu
+162. Bright | Tối tăm | Lười biếng | Nhút nhát | Sáng sủa
+163. Dark | Sáng sủa | Chăm chỉ | Tự tin | Tối tăm
+164. Full | Rỗng | Lười biếng | Nhút nhát | Đầy đủ
+165. Empty | Đầy đủ | Chăm chỉ | Tự tin | Trống rỗng
+166. Quiet | Ồn ào | Lười biếng | Nhút nhát | Yên tĩnh
+167. Noisy | Yên tĩnh | Chăm chỉ | Tự tin | Ồn ào
+168. Safe | Nguy hiểm | Lười biếng | Nhút nhát | An toàn
+169. Dangerous | An toàn | Chăm chỉ | Tự tin | Nguy hiểm
+170. Early | Muộn | Lười biếng | Nhút nhát | Sớm
+171. Late | Sớm | Chăm chỉ | Tự tin | Muộn
+172. Fast | Chậm | Lười biếng | Nhút nhát | Nhanh chóng
+173. Slow | Nhanh chóng | Chăm chỉ | Tự tin | Chậm chạp
+174. Big | Nhỏ | Lười biếng | Nhút nhát | To lớn
+175. Small | To lớn | Chăm chỉ | Tự tin | Nhỏ bé
+176. Long | Ngắn | Lười biếng | Nhút nhát | Dài
+177. Short | Dài | Chăm chỉ | Tự tin | Ngắn
+178. High | Thấp | Lười biếng | Nhút nhát | Cao
+179. Low | Cao | Chăm chỉ | Tự tin | Thấp
+180. Wide | Hẹp | Lười biếng | Nhút nhát | Rộng
+181. Narrow | Rộng | Chăm chỉ | Tự tin | Hẹp
+182. Thick | Mỏng | Lười biếng | Nhút nhát | Dày
+183. Thin | Dày | Chăm chỉ | Tự tin | Mỏng
+184. Deep | Nông | Lười biếng | Nhút nhát | Sâu
+185. Shallow | Sâu | Chăm chỉ | Tự tin | Nông
+186. Heavy | Nhẹ | Lười biếng | Nhút nhát | Nặng
+187. Light | Nặng | Chăm chỉ | Tự tin | Nhẹ
+188. Soft | Cứng | Lười biếng | Nhút nhát | Mềm
+189. Hard | Mềm | Chăm chỉ | Tự tin | Cứng
+190. Smooth | Ráp | Lười biếng | Nhút nhát | Mịn màng
+191. Rough | Mịn màng | Chăm chỉ | Tự tin | Gồ ghề
+192. Sweet | Đắng | Lười biếng | Nhút nhát | Ngọt
+193. Sour | Ngọt | Chăm chỉ | Tự tin | Chua
+194. Bitter | Ngọt | Lười biếng | Nhút nhát | Đắng
+195. Salty | Ngọt | Chăm chỉ | Tự tin | Mặn
+196. Fresh | Cũ | Lười biếng | Nhút nhát | Tươi mới
+197. Rotten | Tươi mới | Chăm chỉ | Tự tin | Thối rữa
+198. Dry | Ướt | Lười biếng | Nhút nhát | Khô ráo
+199. Wet | Khô ráo | Chăm chỉ | Tự tin | Ướt át
+200. Calm | Ồn ào | Lười biếng | Nhút nhát | Bình tĩnh
+201. Achievement | Thất bại | Nỗ lực | Ý định | Thành tựu
+202. Challenge | Thành công | Ý định | Thành tựu | Thử thách
+203. Opportunity | Thử thách | Ý định | Thành tựu | Cơ hội
+204. Goal | Thử thách | Ý định | Cơ hội | Mục tiêu
+205. Plan | Thử thách | Mục tiêu | Cơ hội | Kế hoạch
+206. Idea | Thử thách | Mục tiêu | Kế hoạch | Ý tưởng
+207. Solution | Thử thách | Mục tiêu | Kế hoạch | Giải pháp
+208. Problem | Giải pháp | Mục tiêu | Kế hoạch | Vấn đề
+209. Change | Giữ nguyên | Thử thách | Vấn đề | Thay đổi
+210. Stability | Thay đổi | Thử thách | Vấn đề | Ổn định
+211. Action | Suy nghĩ | Thử thách | Vấn đề | Hành động
+212. Thought | Hành động | Thử thách | Vấn đề | Suy nghĩ
+213. Feeling | Suy nghĩ | Thử thách | Vấn đề | Cảm xúc
+214. Emotion | Cảm xúc | Thử thách | Vấn đề | Cảm xúc (mạnh)
+215. Reason | Cảm xúc | Thử thách | Vấn đề | Lý do
+216. Result | Lý do | Thử thách | Vấn đề | Kết quả
+217. Process | Kết quả | Thử thách | Vấn đề | Quá trình
+218. System | Quá trình | Thử thách | Vấn đề | Hệ thống
+219. Method | Hệ thống | Thử thách | Vấn đề | Phương pháp
+220. Technique | Phương pháp | Thử thách | Vấn đề | Kỹ thuật
+221. Technology | Phương pháp | Kỹ thuật | Vấn đề | Công nghệ
+222. Science | Phương pháp | Kỹ thuật | Công nghệ | Khoa học
+223. Research | Khoa học | Kỹ thuật | Công nghệ | Nghiên cứu
+224. Discovery | Nghiên cứu | Kỹ thuật | Công nghệ | Khám phá
+225. Invention | Khám phá | Kỹ thuật | Công nghệ | Phát minh
+226. Communication | Phát minh | Kỹ thuật | Công nghệ | Giao tiếp
+227. Language | Giao tiếp | Kỹ thuật | Công nghệ | Ngôn ngữ
+228. Culture | Ngôn ngữ | Kỹ thuật | Công nghệ | Văn hóa
+229. Tradition | Văn hóa | Kỹ thuật | Công nghệ | Truyền thống
+230. History | Truyền thống | Kỹ thuật | Công nghệ | Lịch sử
+231. Geography | Lịch sử | Kỹ thuật | Công nghệ | Địa lý
+232. Environment | Địa lý | Kỹ thuật | Công nghệ | Môi trường
+233. Climate | Môi trường | Kỹ thuật | Công nghệ | Khí hậu
+234. Nature | Khí hậu | Kỹ thuật | Công nghệ | Thiên nhiên
+235. Space | Thiên nhiên | Kỹ thuật | Công nghệ | Không gian
+236. Universe | Không gian | Kỹ thuật | Công nghệ | Vũ trụ
+237. Galaxy | Vũ trụ | Kỹ thuật | Công nghệ | Thiên hà
+238. Planet | Thiên hà | Kỹ thuật | Công nghệ | Hành tinh
+239. Earth | Hành tinh | Kỹ thuật | Công nghệ | Trái đất
+240. Sun | Trái đất | Kỹ thuật | Công nghệ | Mặt trời
+241. Moon | Mặt trời | Kỹ thuật | Công nghệ | Mặt trăng
+242. Star | Mặt trăng | Kỹ thuật | Công nghệ | Ngôi sao
+243. Light | Ngôi sao | Kỹ thuật | Công nghệ | Ánh sáng
+244. Energy | Ánh sáng | Kỹ thuật | Công nghệ | Năng lượng
+245. Power | Năng lượng | Kỹ thuật | Công nghệ | Quyền lực/Sức mạnh
+246. Force | Sức mạnh | Kỹ thuật | Công nghệ | Lực
+247. Movement | Lực | Kỹ thuật | Công nghệ | Sự chuyển động
+248. Velocity | Sự chuyển động | Kỹ thuật | Công nghệ | Vận tốc
+249. Gravity | Vận tốc | Kỹ thuật | Công nghệ | Trọng lực
+250. Distance | Trọng lực | Kỹ thuật | Công nghệ | Khoảng cách
+251. Time | Khoảng cách | Kỹ thuật | Công nghệ | Thời gian
+252. Space | Thời gian | Kỹ thuật | Công nghệ | Không gian
+253. Matter | Không gian | Kỹ thuật | Công nghệ | Vật chất
+254. Atom | Vật chất | Kỹ thuật | Công nghệ | Nguyên tử
+255. Molecule | Nguyên tử | Kỹ thuật | Công nghệ | Phân tử
+256. Cell | Phân tử | Kỹ thuật | Công nghệ | Tế bào
+257. Organism | Tế bào | Kỹ thuật | Công nghệ | Sinh vật
+258. Species | Sinh vật | Kỹ thuật | Công nghệ | Loài
+259. Evolution | Loài | Kỹ thuật | Công nghệ | Sự tiến hóa
+260. Life | Sự tiến hóa | Kỹ thuật | Công nghệ | Cuộc sống
+261. Health | Cuộc sống | Kỹ thuật | Công nghệ | Sức khỏe
+262. Medicine | Sức khỏe | Kỹ thuật | Công nghệ | Y học
+263. Disease | Y học | Kỹ thuật | Công nghệ | Bệnh tật
+264. Treatment | Bệnh tật | Kỹ thuật | Công nghệ | Điều trị
+265. Hospital | Điều trị | Kỹ thuật | Công nghệ | Bệnh viện
+266. Doctor | Bệnh viện | Kỹ thuật | Công nghệ | Bác sĩ
+267. Nurse | Bác sĩ | Kỹ thuật | Công nghệ | Y tá
+268. Patient | Y tá | Kỹ thuật | Công nghệ | Bệnh nhân
+269. Economy | Bệnh nhân | Kỹ thuật | Công nghệ | Kinh tế
+270. Money | Kinh tế | Kỹ thuật | Công nghệ | Tiền tệ
+271. Market | Tiền tệ | Kỹ thuật | Công nghệ | Thị trường
+272. Trade | Thị trường | Kỹ thuật | Công nghệ | Thương mại
+273. Industry | Thương mại | Kỹ thuật | Công nghệ | Công nghiệp
+274. Production | Công nghiệp | Kỹ thuật | Công nghệ | Sản xuất
+275. Service | Sản xuất | Kỹ thuật | Công nghệ | Dịch vụ
+276. Government | Dịch vụ | Kỹ thuật | Công nghệ | Chính phủ
+277. Law | Chính phủ | Kỹ thuật | Công nghệ | Pháp luật
+278. Justice | Pháp luật | Kỹ thuật | Công nghệ | Công lý
+279. Peace | Công lý | Kỹ thuật | Công nghệ | Hòa bình
+280. War | Hòa bình | Kỹ thuật | Công nghệ | Chiến tranh
+281. Society | Chiến tranh | Kỹ thuật | Công nghệ | Xã hội
+282. Community | Xã hội | Kỹ thuật | Công nghệ | Cộng đồng
+283. Family | Cộng đồng | Kỹ thuật | Công nghệ | Gia đình
+284. Individual | Gia đình | Kỹ thuật | Công nghệ | Cá nhân
+285. Education | Cá nhân | Kỹ thuật | Công nghệ | Giáo dục
+286. School | Giáo dục | Kỹ thuật | Công nghệ | Trường học
+287. Teacher | Trường học | Kỹ thuật | Công nghệ | Giáo viên
+288. Student | Giáo viên | Kỹ thuật | Công nghệ | Học sinh
+289. Knowledge | Học sinh | Kỹ thuật | Công nghệ | Kiến thức
+290. Skill | Kiến thức | Kỹ thuật | Công nghệ | Kỹ năng
+291. Talent | Kỹ năng | Kỹ thuật | Công nghệ | Tài năng
+292. Creativity | Tài năng | Kỹ thuật | Công nghệ | Sự sáng tạo
+293. Art | Sự sáng tạo | Kỹ thuật | Công nghệ | Nghệ thuật
+294. Music | Nghệ thuật | Kỹ thuật | Công nghệ | Âm nhạc
+295. Literature | Âm nhạc | Kỹ thuật | Công nghệ | Văn học
+296. Sports | Văn học | Kỹ thuật | Công nghệ | Thể thao
+297. Game | Thể thao | Kỹ thuật | Công nghệ | Trò chơi
+298. Travel | Trò chơi | Kỹ thuật | Công nghệ | Du lịch
+299. Adventure | Du lịch | Kỹ thuật | Công nghệ | Phiêu lưu
+300. Future | Quá khứ | Hiện tại | Cổ xưa | Tương lai

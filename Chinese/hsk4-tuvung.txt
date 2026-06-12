@@ -1,0 +1,300 @@
+﻿1. 爱情 (àiqíng) | Tình bạn | Tình đồng nghiệp | Tình thân | Tình yêu
+2. 安排 (ānpái) | Hủy bỏ | Phá hoại | Bỏ bê | Sắp xếp
+3. 安全 (ānquán) | Nguy hiểm | Rủi ro | Hư hỏng | An toàn
+4. 按时 (ànshí) | Trễ giờ | Hủy bỏ | Bỏ dở | Đúng giờ
+5. 按照 (ànzhào) | Trái ngược | Phớt lờ | Bỏ qua | Theo như
+6. 百分之 (bǎifēnzhī) | Một phần | Số nguyên | Tổng số | Phần trăm
+7. 棒 (bàng) | Tệ | Xấu | Kém | Giỏi/Tuyệt vời
+8. 傍晚 (bàngwǎn) | Sáng sớm | Trưa | Đêm | Chập tối
+9. 包 (bāo) | Mở | Bóc | Tách | Bao/Gói
+10. 包含 (bāohán) | Loại trừ | Tách rời | Phớt lờ | Bao gồm
+11. 宝贵 (bǎoguì) | Rẻ tiền | Vô nghĩa | Tầm thường | Quý giá
+12. 保护 (bǎohù) | Phá hoại | Hủy bỏ | Tấn công | Bảo vệ
+13. 保留 (bǎoliú) | Hủy bỏ | Vứt bỏ | Phá hủy | Bảo lưu/Giữ lại
+14. 保险 (bǎoxiǎn) | Nguy hiểm | Rủi ro | Lừa đảo | Bảo hiểm
+15. 保证 (bǎozhèng) | Phủ định | Từ chối | Nghi ngờ | Bảo đảm
+16. 抱 (bào) | Thả | Đẩy | Xa lánh | Ôm
+17. 抱歉 (bàoqiàn) | Vui vẻ | Hạnh phúc | Tự hào | Xin lỗi
+18. 报道 (bàodào) | Giấu kín | Im lặng | Phớt lờ | Đưa tin/Báo cáo
+19. 报告 (bàogào) | Giấu kín | Phớt lờ | Bỏ qua | Báo cáo
+20. 报名 (bàomíng) | Hủy đăng ký | Bỏ cuộc | Phớt lờ | Đăng ký
+21. 倍 (bèi) | Một nửa | Giảm | Thấp | Lần (số nhân)
+22. 本来 (běnlái) | Vừa mới | Sau đó | Tương lai | Vốn dĩ
+23. 笨 (bèn) | Thông minh | Nhanh nhẹn | Giỏi | Ngốc
+24. 比如 (bǐrú) | Tuy nhiên | Vì thế | Tóm lại | Ví dụ
+25. 彼此 (bǐcǐ) | Người khác | Riêng biệt | Tự do | Lẫn nhau
+26. 必修课 (bìxiūkè) | Môn tự chọn | Môn phụ | Môn bổ trợ | Môn bắt buộc
+27. 必然 (bìrán) | Ngẫu nhiên | Tình cờ | Hiếm khi | Tất nhiên
+28. 必要 (bìyào) | Không cần | Vô ích | Tùy chọn | Cần thiết
+29. 毕竟 (bìjìng) | Mới | Đang | Sẽ | Rốt cuộc
+30. 避免 (bìmiǎn) | Đối mặt | Gây ra | Khuyến khích | Tránh
+31. 编辑 (biānjí) | Phá hủy | Xóa bỏ | Phớt lờ | Biên tập
+32. 鞭炮 (biānpào) | Đèn | Hoa | Quà | Pháo
+33. 辩论 (biànlùn) | Đồng thuận | Im lặng | Phớt lờ | Tranh luận
+34. 标点 (biāodiǎn) | Chữ cái | Con số | Ký tự | Dấu câu
+35. 标志 (biāozhì) | Sự vô nghĩa | Sự biến mất | Sự phá hủy | Biểu tượng/Dấu hiệu
+36. 标准 (biāozhǔn) | Tùy tiện | Sai lệch | Mơ hồ | Tiêu chuẩn
+37. 表达 (biǎodá) | Giấu kín | Im lặng | Phớt lờ | Diễn đạt
+38. 表格 (biǎogé) | Bút | Giấy | Vở | Biểu mẫu
+39. 表面 (biǎomiàn) | Bản chất | Bên trong | Nguyên nhân | Bề mặt
+40. 表明 (biǎomíng) | Giấu kín | Phớt lờ | Nhầm lẫn | Tỏ rõ/Chứng minh
+41. 表情 (biǎoqíng) | Hình ảnh | Mùi | Vị | Biểu cảm
+42. 表现 (biǎoxiàn) | Giấu giếm | Phớt lờ | Nhầm lẫn | Thể hiện
+43. 病毒 (bìngdú) | Thuốc | Bác sĩ | Bệnh viện | Virus
+44. 播放 (bōfàng) | Tắt | Dừng | Đóng | Phát (nhạc/phim)
+45. 补充 (bǔchōng) | Cắt giảm | Loại bỏ | Phớt lờ | Bổ sung
+46. 不安 (bù'ān) | Yên tâm | Bình tĩnh | Tự tin | Bất an
+47. 不得不 (bùdébù) | Không muốn | Tự nguyện | Thích | Phải (bắt buộc)
+48. 不断 (bùduàn) | Ngắt quãng | Dừng lại | Hủy bỏ | Không ngừng
+49. 不见得 (bújiànde) | Chắc chắn | Nhất định | Rõ ràng | Chưa chắc
+50. 不耐烦 (búnàifán) | Kiên nhẫn | Vui vẻ | Điềm tĩnh | Thiếu kiên nhẫn
+51. 不要紧 (búyàojǐn) | Nghiêm trọng | Quan trọng | Cần thiết | Không sao
+52. 不足 (bùzú) | Đủ | Thừa | Dư | Thiếu
+53. 部门 (bùmén) | Cá nhân | Công ty | Trường học | Bộ phận
+54. 步骤 (bùzhòu) | Kết quả | Mục tiêu | Lý do | Các bước/Quy trình
+55. 采访 (cǎifǎng) | Phớt lờ | Bỏ qua | Xóa bỏ | Phỏng vấn
+56. 彩虹 (cǎihóng) | Mây | Gió | Mưa | Cầu vồng
+57. 参考 (cānkǎo) | Bỏ qua | Phớt lờ | Vứt bỏ | Tham khảo
+58. 参与 (cānyù) | Vắng mặt | Từ bỏ | Dừng lại | Tham gia
+59. 残疾 (cánjí) | Khỏe mạnh | Nhanh nhẹn | Thông minh | Khuyết tật
+60. 惭愧 (cánkuì) | Tự hào | Vui vẻ | Hạnh phúc | Hổ thẹn/Xấu hổ
+61. 操心 (cāoxīn) | Vô tâm | Thờ ơ | Phớt lờ | Lo lắng
+62. 测验 (cèyàn) | Học mới | Đọc | Viết | Kiểm tra
+63. 差别 (chābié) | Giống nhau | Bằng nhau | Đồng nhất | Sự khác biệt
+64. 查 (chá) | Bỏ qua | Phớt lờ | Tin tưởng | Tra cứu/Kiểm tra
+65. 拆 (chāi) | Lắp | Xây | Bán | Tháo dỡ
+66. 产品 (chǎnpǐn) | Nguyên liệu | Dụng cụ | Rác | Sản phẩm
+67. 产生 (chǎnshēng) | Kết thúc | Hủy bỏ | Phá hủy | Sản sinh/Nảy sinh
+68. 长江 (Chángjiāng) | Biển | Hồ | Đảo | Sông Dương Tử
+69. 尝试 (chángshì) | Bỏ cuộc | Từ bỏ | Phớt lờ | Thử/Cố gắng
+70. 超过 (chāoguò) | Thua kém | Dậm chân | Kết thúc | Vượt qua
+71. 彻底 (chèdǐ) | Sơ sài | Cẩu thả | Lỏng lẻo | Triệt để
+72. 陈列 (chénliè) | Cất giấu | Vứt bỏ | Phá hủy | Trưng bày
+73. 沉默 (chénmò) | Nói nhiều | Ồn ào | Tranh luận | Im lặng
+74. 衬衫 (chènshān) | Quần | Váy | Giày | Áo sơ mi
+75. 趁 (chèn) | Chờ | Đợi | Bỏ qua | Tranh thủ
+76. 称呼 (chēnghu) | Quên | Bỏ qua | Hiểu nhầm | Xưng hô
+77. 秤 (chèng) | Bút | Giấy | Vở | Cái cân
+78. 吃惊 (chījīng) | Bình tĩnh | Tự tin | Vững vàng | Ngạc nhiên
+79. 吃亏 (chīkuī) | Lợi | Thắng | Vui | Chịu thiệt
+80. 持续 (chíxù) | Ngắt quãng | Dừng lại | Hủy bỏ | Duy trì/Kéo dài
+81. 翅膀 (chìbǎng) | Chân | Mắt | Mũi | Cánh
+82. 充电器 (chōngdiànqì) | Pin | Dây | Ổ cắm | Bộ sạc
+83. 充分 (chōngfèn) | Thiếu | Ít | Hết | Đầy đủ/Phong phú
+84. 充满 (chōngmǎn) | Thiếu | Ít | Trống rỗng | Tràn đầy
+85. 重复 (chóngfù) | Thay đổi | Đổi mới | Khác lạ | Lặp lại
+86. 宠物 (chǒngwù) | Người | Đồ vật | Cây cối | Thú cưng
+87. 抽屉 (chōutì) | Tủ | Bàn | Ghế | Ngăn kéo
+88. 抽象 (chōuxiàng) | Cụ thể | Rõ ràng | Dễ hiểu | Trừu tượng
+89. 出版 (chūbǎn) | Đóng | Cất | Phá hủy | Xuất bản
+90. 出色 (chūsè) | Tầm thường | Kém | Vụng về | Xuất sắc
+91. 出示 (chūshì) | Giấu kín | Cất đi | Phớt lờ | Xuất trình
+92. 出席 (chūxí) | Vắng mặt | Từ bỏ | Dừng lại | Tham dự
+93. 初级 (chūjí) | Cao cấp | Trung cấp | Phổ thông | Sơ cấp
+94. 除非 (chúfēi) | Ngoài ra | Tuy nhiên | Vì vậy | Trừ khi
+95. 除了 (chúle) | Bao gồm | Trong đó | Vì | Ngoài ra
+96. 处理 (chǔlǐ) | Bỏ mặc | Gây rắc rối | Làm khó | Xử lý
+97. 传播 (chuánbō) | Giấu kín | Phớt lờ | Bỏ qua | Lan truyền
+98. 传染 (chuánrǎn) | Chữa khỏi | Ngăn cản | Tách biệt | Lây nhiễm
+99. 传说 (chuánshuō) | Sự thật | Chứng cứ | Rõ ràng | Truyền thuyết
+100. 传统 (chuántǒng) | Hiện đại | Mới lạ | Lạ lẫm | Truyền thống
+101. 闯 (chuǎng) | Đi chậm | Đứng yên | Quay lại | Xông vào/Va phải
+102. 创造 (chuàngzào) | Phá hủy | Phá hoại | Bắt chước | Sáng tạo
+103. 词典 (cídiǎn) | Sách | Vở | Bút | Từ điển
+104. 辞职 (cízhí) | Nhậm chức | Hoạt động | Phớt lờ | Từ chức
+105. 此外 (cǐwài) | Trước đó | Sau đó | Vì | Ngoài ra
+106. 次要 (cìyào) | Quan trọng | Chính | Đầu tiên | Thứ yếu
+107. 刺激 (cìjī) | Làm dịu | Phớt lờ | Bỏ qua | Kích thích
+108. 匆忙 (cōngmáng) | Chậm | Lâu | Mãi | Vội vàng
+109. 从来 (cónglái) | Đang | Sẽ | Mới | Từ trước đến nay
+110. 从事 (cóngshì) | Nghỉ ngơi | Chơi | Bỏ dở | Làm/Tham gia
+111. 粗糙 (cūcāo) | Nhẵn | Mịn | Mượt | Thô ráp
+112. 促进 (cùjìn) | Cản trở | Dừng lại | Hủy bỏ | Thúc đẩy
+113. 促使 (cùshǐ) | Ngăn cản | Dừng lại | Hủy bỏ | Thúc đẩy/Khiến
+114. 醋 (cù) | Đường | Muối | Mì chính | Giấm
+115. 催 (cuī) | Chờ | Đợi | Bỏ qua | Thúc giục
+116. 存 (cún) | Rút | Phung phí | Phớt lờ | Gửi/Tiết kiệm
+117. 存在 (cúnzài) | Biến mất | Không có | Hư cấu | Tồn tại
+118. 错误 (cuòwù) | Đúng | Tốt | Đẹp | Sai lầm
+119. 措施 (cuòshī) | Nguyên nhân | Hậu quả | Mơ hồ | Biện pháp
+120. 答应 (dāying) | Từ chối | Phản đối | Im lặng | Đồng ý/Hứa
+121. 达到 (dádào) | Thất bại | Bỏ dở | Lãng phí | Đạt tới
+122. 打架 (dǎjià) | Làm hòa | Nói chuyện | Chơi | Đánh nhau
+123. 打工 (dǎgōng) | Ăn | Ngủ | Học | Làm thêm
+124. 打印 (dǎyìn) | Tẩy xóa | Viết | Đọc | In ấn
+125. 打折 (dǎzhé) | Tăng giá | Bán đúng | Hủy đơn | Giảm giá
+126. 打针 (dǎzhēn) | Uống thuốc | Phẫu thuật | Khám | Tiêm
+127. 大方 (dàfāng) | Ki bo | Keo kiệt | Ích kỷ | Hào phóng
+128. 大概 (dàgài) | Chắc chắn | Nhất định | Rõ ràng | Khoảng/Đại khái
+129. 大力 (dàlì) | Yếu | Nhẹ | Chậm | Mạnh mẽ
+130. 大厦 (dàshà) | Nhà | Trường | Cửa hàng | Tòa nhà lớn
+131. 大象 (dàxiàng) | Chó | Mèo | Cá | Voi
+132. 大型 (dàxíng) | Nhỏ | Tí hon | Còi cọc | Quy mô lớn
+133. 呆 (dāi) | Chạy | Đi | Chơi | Ở/Đứng đờ
+134. 代替 (dàitì) | Giữ nguyên | Cố định | Bỏ qua | Thay thế
+135. 大夫 (dàifu) | Giáo viên | Học sinh | Cảnh sát | Bác sĩ
+136. 贷款 (dàikuǎn) | Tiết kiệm | Gửi tiền | Phớt lờ | Vay tiền
+137. 待遇 (dàiyù) | Hình phạt | Phớt lờ | Bỏ qua | Chế độ đãi ngộ
+138. 担任 (dānrèn) | Nghỉ | Từ bỏ | Phớt lờ | Đảm nhiệm
+139. 单纯 (dānchún) | Phức tạp | Rắc rối | Nhầm lẫn | Đơn giản/Thuần túy
+140. 单独 (dāndú) | Chung | Tập thể | Phớt lờ | Riêng lẻ
+141. 单位 (dānwèi) | Cá nhân | Gia đình | Phớt lờ | Đơn vị/Cơ quan
+142. 单元 (dānyuán) | Chương | Bài | Câu | Đơn nguyên
+143. 当地 (dāngdì) | Nơi khác | Xa | Phớt lờ | Địa phương
+144. 当时 (dāngshí) | Bây giờ | Tương lai | Ngày mai | Lúc đó
+145. 当务之急 (dāngwùzhījí) | Việc phụ | Việc dễ | Phớt lờ | Việc cấp bách
+146. 挡 (dǎng) | Tránh | Mở | Bỏ qua | Chặn/Cản
+147. 导演 (dǎoyǎn) | Diễn viên | Khán giả | Phớt lờ | Đạo diễn
+148. 倒 (dǎo) | Đứng | Ngồi | Chạy | Ngã/Đổ
+149. 到达 (dàodá) | Xuất phát | Rời đi | Phớt lờ | Đến nơi
+150. 道德 (dàodé) | Vô văn hóa | Đồi trụy | Phớt lờ | Đạo đức
+151. 道理 (dàolǐ) | Vô lý | Mơ hồ | Phớt lờ | Đạo lý/Lẽ phải
+152. 登记 (dēngjì) | Xóa bỏ | Hủy | Phớt lờ | Đăng ký
+153. 等待 (děngdài) | Chạy | Đi | Phớt lờ | Đợi chờ
+154. 等于 (děngyú) | Lớn hơn | Nhỏ hơn | Khác | Bằng
+155. 滴 (dī) | Lít | Kilô | Phớt lờ | Giọt
+156. 的确 (díquè) | Sai lệch | Mơ hồ | Phớt lờ | Quả thực
+157. 敌人 (dírén) | Bạn bè | Đồng minh | Phớt lờ | Kẻ địch
+158. 地道 (dìdào) | Giả mạo | Kém | Phớt lờ | Chính gốc/Thật
+159. 地理 (dìlǐ) | Toán | Văn | Sử | Địa lý
+160. 地球 (dìqiú) | Mặt trời | Mặt trăng | Phớt lờ | Trái đất
+161. 地区 (dìqū) | Thành phố | Xã | Phớt lờ | Khu vực/Vùng
+162. 地位 (dìwèi) | Vị trí thấp | Phớt lờ | Bỏ qua | Địa vị
+163. 地震 (dìzhèn) | Nắng | Gió | Phớt lờ | Động đất
+164. 递 (dì) | Lấy | Rút | Phớt lờ | Chuyển/Đưa
+165. 点 (diǎn) | Giây | Ngày | Phớt lờ | Giờ
+166. 电池 (diànchí) | Dây | Ổ cắm | Phớt lờ | Pin
+167. 电台 (diàntái) | Tivi | Báo | Phớt lờ | Đài phát thanh
+168. 钓 (diào) | Bắt | Xua | Phớt lờ | Câu (cá)
+169. 顶 (dǐng) | Chân | Tay | Phớt lờ | Đỉnh
+170. 动画片 (dònghuàpiàn) | Phim tài liệu | Phim tin tức | Phớt lờ | Phim hoạt hình
+171. 冻 (dòng) | Nóng | Ấm | Phớt lờ | Đóng băng/Lạnh
+172. 洞 (dòng) | Tường | Cửa | Phớt lờ | Cái hang/Lỗ
+173. 逗 (dòu) | Khóc | Giận | Phớt lờ | Trêu chọc
+174. 豆腐 (dòufu) | Thịt | Cá | Phớt lờ | Đậu phụ
+175. 独立 (dúlì) | Phụ thuộc | Nhờ cậy | Phớt lờ | Độc lập
+176. 独特 (dútè) | Bình thường | Phổ biến | Phớt lờ | Độc đáo
+177. 度 (dù) | Lần | Năm | Phớt lờ | Độ
+178. 杜绝 (dùjué) | Khuyến khích | Phớt lờ | Bỏ qua | Chấm dứt/Ngăn chặn
+179. 端 (duān) | Đặt | Để | Phớt lờ | Bưng/Bê
+180. 短促 (duǎncù) | Dài | Lâu | Phớt lờ | Ngắn ngủi
+181. 断 (duàn) | Liền | Nối | Phớt lờ | Đứt/Gãy
+182. 堆 (duī) | Rải | Rải | Phớt lờ | Đống/Chất
+183. 对比 (duìbǐ) | Giống nhau | Đồng nhất | Phớt lờ | Đối chiếu
+184. 对待 (duìdài) | Bỏ mặc | Phớt lờ | Bỏ qua | Đối xử
+185. 对方 (duìfāng) | Phía mình | Người nhà | Phớt lờ | Đối phương
+186. 对手 (duìshǒu) | Đồng minh | Bạn | Phớt lờ | Đối thủ
+187. 对象 (duìxiàng) | Kẻ thù | Người lạ | Phớt lờ | Đối tượng
+188. 兑换 (duìhuàn) | Giữ nguyên | Phớt lờ | Bỏ qua | Đổi (tiền)
+189. 队 (duì) | Đám đông | Rải rác | Phớt lờ | Đội/Hàng
+190. 吨 (dūn) | Gam | Lạng | Phớt lờ | Tấn
+191. 蹲 (dūn) | Đứng | Đi | Phớt lờ | Ngồi xổm
+192. 多亏 (duōkuī) | Tại vì | Nhờ vào (nghĩa xấu) | Phớt lờ | Nhờ vào (nghĩa tốt)
+193. 多余 (duōyú) | Thiếu | Cần | Phớt lờ | Thừa thãi
+194. 躲藏 (duǒcáng) | Xuất hiện | Lộ diện | Phớt lờ | Trốn/Ẩn nấp
+195. 恶劣 (èliè) | Tốt | Tươi đẹp | Phớt lờ | Xấu xa/Tồi tệ
+196. 发表 (fābiǎo) | Giấu kín | Phớt lờ | Bỏ qua | Phát biểu
+197. 发抖 (fādǒu) | Bình tĩnh | Tự tin | Phớt lờ | Run rẩy
+198. 发挥 (fāhuī) | Bỏ dở | Lãng phí | Phớt lờ | Phát huy
+199. 发明 (fāmíng) | Phá hoại | Phá sản | Phớt lờ | Phát minh
+200. 发言 (fāyán) | Im lặng | Phớt lờ | Bỏ qua | Phát biểu
+201. 罚款 (fákuǎn) | Thưởng | Tặng | Phớt lờ | Phạt tiền
+202. 法院 (fǎyuàn) | Trường | Bệnh viện | Phớt lờ | Tòa án
+203. 翻 (fān) | Lật | Đóng | Phớt lờ | Lật/Mở
+204. 繁荣 (fánróng) | Suy thoái | Nghèo nàn | Phớt lờ | Phồn vinh/Thịnh vượng
+205. 反而 (fǎn'ér) | Ngược lại | Như vậy | Phớt lờ | Trái lại
+206. 反复 (fǎnfù) | Một lần | Dừng lại | Phớt lờ | Lặp đi lặp lại
+207. 反应 (fǎnyìng) | Im lặng | Vô cảm | Phớt lờ | Phản ứng
+208. 反映 (fǎnyìng) | Giấu kín | Phớt lờ | Bỏ qua | Phản ánh
+209. 反正 (fǎnzhèng) | Chắc chắn | Nhất định | Phớt lờ | Dù sao thì
+210. 范围 (fànwéi) | Tâm điểm | Phớt lờ | Bỏ qua | Phạm vi
+211. 方 (fāng) | Tròn | Dài | Phớt lờ | Vuông/Phương diện
+212. 方案 (fāng'àn) | Nguyên nhân | Hậu quả | Phớt lờ | Phương án
+213. 方式 (fāngshì) | Mục tiêu | Kết quả | Phớt lờ | Phương thức
+214. 妨碍 (fáng'ài) | Giúp đỡ | Hỗ trợ | Phớt lờ | Cản trở
+215. 仿佛 (fǎngfú) | Rõ ràng | Chính xác | Phớt lờ | Dường như
+216. 非 (fēi) | Đúng | Tốt | Phớt lờ | Không phải/Phi
+217. 肥皂 (féizào) | Bột giặt | Nước rửa | Phớt lờ | Xà phòng
+218. 废话 (fèihuà) | Lời hay | Lời khuyên | Phớt lờ | Lời vô nghĩa
+219. 分别 (fēnbié) | Đoàn tụ | Kết nối | Phớt lờ | Chia tay/Riêng biệt
+220. 分布 (fēnbù) | Tập trung | Nhỏ lẻ | Phớt lờ | Phân bố
+221. 分配 (fēnpèi) | Tập trung | Giấu kín | Phớt lờ | Phân phối
+222. 分析 (fēnxī) | Tổng hợp | Bỏ qua | Phớt lờ | Phân tích
+223. 纷纷 (fēnfēn) | Tập trung | Đồng loạt | Phớt lờ | Tấp nập/Nhiều
+224. 奋斗 (fèndòu) | Nhàn rỗi | Bỏ cuộc | Phớt lờ | Phấn đấu
+225. 风格 (fēnggé) | Nội dung | Hình thức | Phớt lờ | Phong cách
+226. 风景 (fēngjǐng) | Con người | Đồ vật | Phớt lờ | Phong cảnh
+227. 风俗 (fēngsú) | Hiện đại | Lạ lẫm | Phớt lờ | Phong tục
+228. 风险 (fēngxiǎn) | An toàn | Ổn định | Phớt lờ | Rủi ro
+229. 疯狂 (fēngkuáng) | Bình tĩnh | Tự chủ | Phớt lờ | Điên cuồng
+230. 讽刺 (fěngcì) | Khen ngợi | Tán thành | Phớt lờ | Mỉa mai
+231. 否定 (fǒudìng) | Khẳng định | Đồng ý | Phớt lờ | Phủ định
+232. 否认 (fǒurèn) | Thừa nhận | Đồng ý | Phớt lờ | Phủ nhận
+233. 扶 (fú) | Buông | Đẩy | Phớt lờ | Đỡ/Vịn
+234. 幅 (fú) | Tờ | Cái | Phớt lờ | Bức (lượng từ tranh)
+235. 福利 (fúlì) | Nghèo đói | Tai họa | Phớt lờ | Phúc lợi
+236. 抚养 (fǔyǎng) | Bỏ rơi | Hành hạ | Phớt lờ | Nuôi dưỡng
+237. 腐烂 (fǔlàn) | Tươi mới | Sạch sẽ | Phớt lờ | Mục nát
+238. 复杂 (fùzá) | Đơn giản | Dễ hiểu | Phớt lờ | Phức tạp
+239. 富裕 (fùyù) | Nghèo đói | Thiếu thốn | Phớt lờ | Giàu có
+240. 副 (fù) | Chính | Độc | Phớt lờ | Phó
+241. 改进 (gǎijìn) | Làm tệ hơn | Dậm chân | Phớt lờ | Cải tiến
+242. 改善 (gǎishàn) | Làm tệ hơn | Dậm chân | Phớt lờ | Cải thiện
+243. 改正 (gǎizhèng) | Làm sai | Giữ nguyên | Phớt lờ | Sửa đổi/Chỉnh sửa
+244. 盖 (gài) | Mở | Tháo | Phớt lờ | Đậy/Xây
+245. 概括 (gàikuò) | Phân tích | Chi tiết | Phớt lờ | Khái quát
+246. 概念 (gàiniàn) | Thực tế | Vật chất | Phớt lờ | Khái niệm
+247. 干脆 (gāncuì) | Lề mề | Vòng vo | Phớt lờ | Dứt khoát
+248. 干燥 (gānzào) | Ẩm ướt | Mưa | Phớt lờ | Khô hanh
+249. 感激 (gǎnjī) | Oán hận | Phớt lờ | Bỏ qua | Cảm kích
+250. 感受 (gǎnshòu) | Vô cảm | Thờ ơ | Phớt lờ | Cảm nhận
+251. 感想 (gǎnxiǎng) | Thực tế | Vật chất | Phớt lờ | Cảm tưởng
+252. 感染 (gǎnrǎn) | Chữa khỏi | Ngăn cản | Phớt lờ | Lây nhiễm
+253. 干涉 (gānshè) | Tôn trọng | Tự do | Phớt lờ | Can thiệp
+254. 干部 (gànbù) | Nhân viên | Khách | Phớt lờ | Cán bộ
+255. 刚 (gāng) | Lâu | Mãi | Phớt lờ | Vừa mới
+256. 钢铁 (gāngtiě) | Gỗ | Nhựa | Phớt lờ | Thép
+257. 高潮 (gāocháo) | Bế tắc | Suy thoái | Phớt lờ | Cao trào
+258. 高级 (gāojí) | Sơ cấp | Trung cấp | Phớt lờ | Cao cấp
+259. 高尚 (gāoshàng) | Thấp hèn | Xấu xa | Phớt lờ | Cao thượng
+260. 高速公路 (gāosùgōnglù) | Đường làng | Đường mòn | Phớt lờ | Đường cao tốc
+261. 搞 (gǎo) | Phá | Vứt | Phớt lờ | Làm/Thực hiện
+262. 告别 (gàobié) | Gặp gỡ | Đoàn tụ | Phớt lờ | Tạm biệt
+263. 个人 (gèrén) | Tập thể | Chung | Phớt lờ | Cá nhân
+264. 个别 (gèbié) | Chung | Tập thể | Phớt lờ | Cá biệt/Riêng lẻ
+265. 个性 (gèxìng) | Đại trà | Phổ thông | Phớt lờ | Cá tính
+266. 各 (gè) | Một | Hai | Phớt lờ | Các/Mỗi
+267. 根 (gēn) | Tờ | Cái | Phớt lờ | Cái/Gốc (lượng từ)
+268. 根本 (gēnběn) | Mơ hồ | Nhầm lẫn | Phớt lờ | Căn bản
+269. 根据 (gēnjù) | Vô căn cứ | Mơ hồ | Phớt lờ | Căn cứ/Dựa vào
+270. 跟 (gēn) | Độc lập | Tách biệt | Phớt lờ | Cùng với/Theo
+271. 耕种 (gēngzhòng) | Hoạch toán | Thu hoạch | Phớt lờ | Canh tác
+272. 更新 (gēngxīn) | Lạc hậu | Cũ | Phớt lờ | Cập nhật/Đổi mới
+273. 公布 (gōngbù) | Giấu kín | Phớt lờ | Bỏ qua | Công bố
+274. 公开 (gōngkāi) | Bí mật | Giấu kín | Phớt lờ | Công khai
+275. 公平 (gōngpíng) | Thiên vị | Tư lợi | Phớt lờ | Công bằng
+276. 公寓 (gōngyù) | Nhà | Trường | Phớt lờ | Chung cư
+277. 公元 (gōngyuán) | Trước công nguyên | Lạ | Phớt lờ | Công nguyên
+278. 公主 (gōngzhǔ) | Hoàng hậu | Vua | Phớt lờ | Công chúa
+279. 功能 (gōngnéng) | Hỏng | Vô nghĩa | Phớt lờ | Công năng/Chức năng
+280. 恭喜 (gōngxǐ) | Chia buồn | Phớt lờ | Bỏ qua | Chúc mừng
+281. 贡献 (gòngxiàn) | Phá hoại | Phớt lờ | Bỏ qua | Cống hiến
+282. 沟通 (gōutōng) | Tắc nghẽn | Hiểu lầm | Phớt lờ | Giao tiếp/Thông suốt
+283. 构成 (gòuchéng) | Phá hủy | Vứt bỏ | Phớt lờ | Cấu thành
+284. 姑妈 (gūmā) | Ông | Bà | Phớt lờ | Cô/Dì (bên bố)
+285. 孤独 (gūdú) | Thân thiết | Gắn kết | Phớt lờ | Cô độc
+286. 估计 (gūjì) | Chắc chắn | Nhất định | Phớt lờ | Ước tính
+287. 鼓掌 (gǔzhǎng) | Phản đối | Im lặng | Phớt lờ | Vỗ tay
+288. 鼓励 (gǔlì) | Ngăn cản | Phê phán | Phớt lờ | Khuyến khích
+289. 骨头 (gǔtou) | Thịt | Máu | Phớt lờ | Xương
+290. 古代 (gǔdài) | Hiện đại | Mới | Phớt lờ | Cổ đại
+291. 古典 (gǔdiǎn) | Hiện đại | Mới | Phớt lờ | Cổ điển
+292. 股票 (gǔpiào) | Vàng | Bạc | Phớt lờ | Cổ phiếu
+293. 苦 (kǔ) | Ngọt | Mặn | Phớt lờ | Đắng/Khổ
+294. 鼓舞 (gǔwǔ) | Ngăn cản | Dập tắt | Phớt lờ | Cổ vũ/Khích lệ
+295. 骨干 (gǔgàn) | Nhân viên bình thường | Người lạ | Phớt lờ | Cốt cán
+296. 固然 (gùrán) | Tuy nhiên | Nhưng | Phớt lờ | Đành rằng/Vốn dĩ
+297. 固体 (gùtǐ) | Chất lỏng | Chất khí | Phớt lờ | Chất rắn
+298. 固定 (gùdìng) | Thay đổi | Linh hoạt | Phớt lờ | Cố định
+299. 故乡 (gùxiāng) | Nơi khác | Xa lạ | Phớt lờ | Quê hương
+300. 故障 (gùzhàng) | Hoạt động tốt | Mới | Phớt lờ | Sự cố/Hỏng hóc
