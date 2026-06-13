@@ -1,40 +1,40 @@
-﻿1. は (は) | Thì/Là | Của | Ở tại | Và
-2. の (の) | Của (Sở hữu) | Tại | Bằng | Cái gì
-3. も (も) | Cũng | Chỉ | Mỗi | Nhưng
-4. と (と) | Với/Và | Hoặc | Của | Ở
-5. を (を) | Chỉ đối tượng (Tác động) | Chỉ nơi chốn | Chỉ thời gian | Chỉ phương hướng
-6. に (に) | Chỉ thời điểm/Đích đến | Chỉ công cụ | Chỉ lý do | Chỉ sở hữu
-7. へ (へ) | Chỉ phương hướng | Tại đâu | Bằng cái gì | Vì cái gì
-8. で (で) | Tại/Bằng/Vì | Của ai | Lúc nào | Với ai
-9. から (から) | Từ/Vì | Đến | Và | Nhưng
-10. まで (まで) | Đến | Từ | Chỉ | Cũng
-11. ～てください (～てください) | Hãy làm gì | Đang làm gì | Muốn làm gì | Đã làm gì
-12. ～ています (～ています) | Đang làm | Sẽ làm | Phải làm | Nên làm
-13. ～てもいいです (～てもいいです) | Làm cũng được (Cho phép) | Cấm làm | Phải làm | Đang làm
-14. ～てはいけません (～てはいけません) | Không được làm (Cấm) | Hãy làm đi | Sẽ làm | Thích làm
-15. ～なければなりません (～なければなりません) | Phải làm | Không cần làm | Đã làm | Đang làm
-16. ～なくてもいいです (～なくてもいいです) | Không làm cũng được | Phải làm | Nên làm | Muốn làm
-17. ～たいです (～たいです) | Muốn làm | Đang làm | Giỏi làm | Sợ làm
-18. ～に 行きます (～に いきます) | Đi để làm gì | Đi bằng cái gì | Đi với ai | Đi lúc nào
-19. ～ましょう (～ましょう) | Cùng làm nhé | Đã làm rồi | Đừng làm | Đang làm
-20. ～ましょうか (～ましょうか) | Tôi làm giúp nhé? | Bạn đang làm gì? | Làm xong chưa? | Đừng làm nhé?
-21. ～ことが できます (～ことが できます) | Có thể làm | Đã từng làm | Thích làm | Nên làm
-22. ～たことが あります (～たことが あります) | Đã từng làm | Chưa từng làm | Sắp làm | Đang làm
-23. ～ほうが いいです (～ほうが いいです) | Nên làm/Tốt hơn là | Cấm làm | Muốn làm | Sợ làm
-24. ～ないで ください (～ないで ください) | Xin đừng làm | Hãy làm đi | Cấm làm | Đã làm
-25. ～つもりです (～つもりです) | Dự định làm | Đã làm xong | Không thể làm | Thích làm
-26. ～たり ～たりします (～たり ～たりします) | Làm việc này, việc kia | Chỉ làm một việc | Đang làm | Phải làm
-27. ～た あとで (～た あとで) | Sau khi làm | Trước khi làm | Trong khi làm | Vì làm
-28. ～る まえに (～る まえに) | Trước khi làm | Sau khi làm | Ngay khi làm | Nếu làm
-29. ～とき (～とき) | Khi/Lúc | Vì | Tuy nhiên | Sau đó
-30. ～ながら (～ながら) | Vừa làm vừa... | Vì làm nên... | Sau khi làm... | Trước khi làm...
-31. ～があります (～があります) | Có (Đồ vật) | Có (Người) | Đi | Đến
-32. ～がいます (～がいます) | Có (Người/Động vật) | Có (Đồ vật) | Ăn | Ngủ
-33. ～より (～より) | So với | Giống như | Hơn là | Chỉ có
-34. ～の中で 一番 (～のなかで いちばん) | Nhất trong phạm vi | Kém nhất | Khác với | Giống như
-35. ～そうです (～そうです) | Nghe nói/Trông có vẻ | Chính xác là | Chắc chắn là | Không phải là
-36. ～と言いました (～といいました) | Đã nói là | Đã nghĩ là | Đã nghe là | Đã làm là
-37. ～と思います (～とおもいます) | Tôi nghĩ là | Tôi biết là | Tôi thấy là | Tôi nói là
-38. ～から (～から) | Vì (Lý do) | Nhưng | Sau đó | Nếu
-39. ～が (～が) | Nhưng (Nghịch lý) | Vì | Và | Hoặc
-40. ～など (～など) | Vân vân (Liệt kê) | Chỉ có | Chính là | Cũng là
+﻿1. は (は) | Của | Ở tại | Và | Thì/Là
+の (の) | Tại | Bằng | Cái gì | Của (Sở hữu)
+も (も) | Chỉ | Mỗi | Nhưng | Cũng
+と (と) | Hoặc | Của | Ở | Với/Và
+を (を) | Chỉ nơi chốn | Chỉ thời gian | Chỉ phương hướng | Chỉ đối tượng (Tác động)
+に (に) | Chỉ công cụ | Chỉ lý do | Chỉ sở hữu | Chỉ thời điểm/Đích đến
+へ (へ) | Tại đâu | Bằng cái gì | Vì cái gì | Chỉ phương hướng
+で (で) | Của ai | Lúc nào | Với ai | Tại/Bằng/Vì
+から (から) | Đến | Và | Nhưng | Từ/Vì
+まで (まで) | Từ | Chỉ | Cũng | Đến
+～てください (～てください) | Đang làm gì | Muốn làm gì | Đã làm gì | Hãy làm gì
+～ています (～ています) | Sẽ làm | Phải làm | Nên làm | Đang làm
+～てもいいです (～てもいいです) | Cấm làm | Phải làm | Đang làm | Làm cũng được (Cho phép)
+～てはいけません (～てはいけません) | Hãy làm đi | Sẽ làm | Thích làm | Không được làm (Cấm)
+～なければなりません (～なければなりません) | Không cần làm | Đã làm | Đang làm | Phải làm
+～なくてもいいです (～なくてもいいです) | Phải làm | Nên làm | Muốn làm | Không làm cũng được
+～たいです (～たいです) | Đang làm | Giỏi làm | Sợ làm | Muốn làm
+～に 行きます (～に いきます) | Đi bằng cái gì | Đi với ai | Đi lúc nào | Đi để làm gì
+～ましょう (～ましょう) | Đã làm rồi | Đừng làm | Đang làm | Cùng làm nhé
+～ましょうか (～ましょうか) | Bạn đang làm gì? | Làm xong chưa? | Đừng làm nhé? | Tôi làm giúp nhé?
+～ことが できます (～ことが できます) | Đã từng làm | Thích làm | Nên làm | Có thể làm
+～たことが あります (～たことが あります) | Chưa từng làm | Sắp làm | Đang làm | Đã từng làm
+～ほうが いいです (～ほうが いいです) | Cấm làm | Muốn làm | Sợ làm | Nên làm/Tốt hơn là
+～ないで ください (～ないで ください) | Hãy làm đi | Cấm làm | Đã làm | Xin đừng làm
+～つもりです (～つもりです) | Đã làm xong | Không thể làm | Thích làm | Dự định làm
+～たり ～たりします (～たり ～たりします) | Chỉ làm một việc | Đang làm | Phải làm | Làm việc này, việc kia
+～た あとで (～た あとで) | Trước khi làm | Trong khi làm | Vì làm | Sau khi làm
+～る まえに (～る まえに) | Sau khi làm | Ngay khi làm | Nếu làm | Trước khi làm
+～とき (～とき) | Vì | Tuy nhiên | Sau đó | Khi/Lúc
+～ながら (～ながら) | Vì làm nên... | Sau khi làm... | Trước khi làm... | Vừa làm vừa...
+～があります (～があります) | Có (Người) | Đi | Đến | Có (Đồ vật)
+～がいます (～がいます) | Có (Đồ vật) | Ăn | Ngủ | Có (Người/Động vật)
+～より (～より) | Giống như | Hơn là | Chỉ có | So với
+～の中で 一番 (～のなかで いちばん) | Kém nhất | Khác với | Giống như | Nhất trong phạm vi
+～そうです (～そうです) | Chính xác là | Chắc chắn là | Không phải là | Nghe nói/Trông có vẻ
+～と言いました (～といいました) | Đã nghĩ là | Đã nghe là | Đã làm là | Đã nói là
+～と思います (～とおもいます) | Tôi biết là | Tôi thấy là | Tôi nói là | Tôi nghĩ là
+～から (～から) | Nhưng | Sau đó | Nếu | Vì (Lý do)
+～が (～が) | Vì | Và | Hoặc | Nhưng (Nghịch lý)
+～など (～など) | Chỉ có | Chính là | Cũng là | Vân vân (Liệt kê)

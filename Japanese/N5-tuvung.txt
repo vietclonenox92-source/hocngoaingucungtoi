@@ -1,500 +1,500 @@
-﻿1. 私 (わたし) | Bạn | Anh ấy | Cô ấy | Tôi
-2. あなた (あなた) | Tôi | Chúng ta | Họ | Bạn
-3. 人 (ひと) | Con vật | Cây cối | Đồ vật | Người
-4. 先生 (せんせい) | Học sinh | Kỹ sư | Bác sĩ | Giáo viên
-5. 学生 (がくせい) | Giáo viên | Công nhân | Cảnh sát | Học sinh
-6. 会社員 (かいしゃいん) | Thư ký | Bảo vệ | Giám đốc | Nhân viên công ty
-7. 銀行員 (ぎんこういん) | Bác sĩ | Ca sĩ | Luật sư | Nhân viên ngân hàng
-8. 医者 (いしゃ) | Dược sĩ | Bệnh nhân | Y tá | Bác sĩ
-9. 大学 (だいがく) | Mẫu giáo | Trung học | Tiểu học | Đại học
-10. 病院 (びょういん) | Nhà hàng | Nhà ga | Khách sạn | Bệnh viện
-11. 本 (ほん) | Vở | Bút | Thước kẻ | Sách
-12. 辞書 (じしょ) | Bản đồ | Tạp chí | Báo | Từ điển
-13. 雑誌 (ざっし) | Sách | Truyện tranh | Tài liệu | Tạp chí
-14. 新聞 (しんぶん) | Bưu thiếp | Danh thiếp | Thư | Báo
-15. ノート (のーと) | Tẩy | Phấn | Bút chì | Vở
-16. 手帳 (てちょう) | Ví | Giấy | Lịch | Sổ tay
-17. 名刺 (めいし) | Thẻ căn cước | Vé máy bay | Hộ chiếu | Danh thiếp
-18. 鉛筆 (えんぴつ) | Bút máy | Bút bi | Bút màu | Bút chì
-19. 鍵 (かぎ) | Cửa sổ | Ổ khóa | Cửa | Chìa khóa
-20. 時計 (とけい) | Tivi | Điện thoại | Máy tính | Đồng hồ
-21. 傘 (かさ) | Mũ | Giày | Áo mưa | Ô (dù)
-22. 鞄 (かばん) | Ví | Giày dép | Quần áo | Túi xách
-23. 車 (くるま) | Máy bay | Xe đạp | Xe máy | Ô tô
-24. 机 (つくえ) | Giường | Tủ | Ghế | Bàn
-25. 椅子 (いす) | Rèm | Bàn | Cửa | Ghế
-26. 教室 (きょうしつ) | Sân vận động | Nhà ăn | Thư viện | Lớp học
-27. 食堂 (しょくどう) | Nhà kho | Phòng khách | Phòng ngủ | Nhà ăn
-28. 事務所 (じむしょ) | Cửa hàng | Nhà xưởng | Chợ | Văn phòng
-29. 会議室 (かいぎしつ) | Phòng chờ | Nhà vệ sinh | Sảnh | Phòng họp
-30. 受付 (うけつけ) | Cầu thang | Lối ra | Cổng | Quầy lễ tân
-31. 部屋 (へや) | Tòa nhà | Thành phố | Ngôi nhà | Căn phòng
-32. 階段 (かいだん) | Đường đi | Thang máy | Hành lang | Cầu thang
-33. 郵便局 (ゆうびんきょく) | Ngân hàng | Công viên | Nhà ga | Bưu điện
-34. 図書館 (としょかん) | Rạp phim | Bảo tàng | Nhà hát | Thư viện
-35. 美術館 (びじゅつかん) | Sân bay | Cảng | Nhà thờ | Bảo tàng mỹ thuật
-36. 今 (いま) | Trước đây | Sau này | Luôn luôn | Bây giờ
-37. 時 (じ) | Giây | Ngày | Phút | Giờ
-38. 分 (ふん/ぷん) | Giờ | Tuần | Tháng | Phút
-39. 半 (はん) | Cả bộ | Gấp đôi | Một phần tư | Một nửa (rưỡi)
-40. 朝 (あさ) | Buổi trưa | Ban đêm | Buổi tối | Buổi sáng
-41. 昼 (ひる) | Buổi tối | Buổi sáng | Buổi chiều | Buổi trưa
-42. 晩 (ばん) | Buổi chiều | Buổi sáng | Ban ngày | Buổi tối
-43. 昨日 (きのう) | Ngày kia | Ngày mai | Hôm nay | Hôm qua
-44. 今日 (きょう) | Ngày mai | Hôm qua | Tuần sau | Hôm nay
-45. 明日 (あした) | Tháng trước | Hôm nay | Hôm qua | Ngày mai
-46. 毎朝 (まいあさ) | Mỗi tối | Mỗi tuần | Mỗi năm | Mỗi sáng
-47. 毎日 (まいにち) | Mỗi phút | Mỗi giờ | Mỗi tháng | Mỗi ngày
-48. 行きます (いきます) | Ở lại | Đến | Về | Đi
-49. 来ます (きます) | Đi | Chạy | Nhảy | Đến
-50. 帰ります (かえります) | Đến | Đi | Đứng | Về
-51. 食べます (たべます) | Uống | Nghĩ | Ngủ | Ăn
-52. 飲みます (のみます) | Nói | Ăn | Hát | Uống
-53. 吸います (すいます) | Nếm | Thổi | Ngửi | Hút
-54. 見ます (みます) | Nói | Viết | Nghe | Nhìn
-55. 聞きます (ききます) | Đọc | Chạy | Nhìn | Nghe
-56. 読みます (よみます) | Xóa | Viết | Vẽ | Đọc
-57. 書きます (かきます) | Nhìn | Đọc | Nghe | Viết
-58. 買います (かいまず) | Cho | Bán | Nhận | Mua
-59. 撮ります (とります) | Dán | Vẽ | Cắt | Chụp (ảnh)
-60. 会います (あいます) | Chia tay | Nhớ | Quên | Gặp gỡ
-61. 切ります (きります) | Dán | Mở | Gấp | Cắt
-62. 送ります (おくります) | Nhận | Vứt | Giữ | Gửi
-63. あげます (あげます) | Mượn | Trả | Lấy | Cho/Tặng
-64. もらいます (もらいます) | Mất | Cho | Tìm | Nhận
-65. 貸します (かします) | Mua | Bán | Mượn | Cho mượn
-66. 借ります (かりる) | Trả | Cho mượn | Thuê | Mượn
-67. 教えます (おしえます) | Học | Quên | Giấu | Dạy/Chỉ bảo
-68. 習います (ならいます) | Chơi | Dạy | Nghỉ | Học tập
-69. 手 (て) | Lưng | Đầu | Chân | Tay
-70. お金 (おかね) | Vàng | Kim cương | Bạc | Tiền
-71. 荷物 (にもつ) | Thư | Đồ ăn | Quà tặng | Hành lý
-72. 切手 (きって) | Phong bì | Giấy viết thư | Bưu thiếp | Tem
-73. 父 (ちち) | Chị | Anh | Mẹ | Bố (mình)
-74. 母 (はは) | Bố | Em | Bà | Mẹ (mình)
-75. 家族 (かぞく) | Người lạ | Đồng nghiệp | Bạn bè | Gia đình
-76. 大きい (おおきい) | Nóng | Nhỏ | Lạnh | Lớn
-77. 小さい (ちいさい) | Thấp | Lớn | Cao | Nhỏ
-78. 新しい (あたらしい) | Xấu | Đẹp | Cũ | Mới
-79. 古い (ふるい) | Mới | Bẩn | Sạch | Cũ
-80. 暑い (あつい) | Lạnh | Ấm | Mát | Nóng
-81. 寒い (さむい) | Nóng | Ướt | Khô | Lạnh
-82. 高い (たかい) | Ngắn | Rẻ/Thấp | Dài | Đắt/Cao
-83. 安い (やすい) | Xấu | Tốt | Đắt | Rẻ
-84. 低い (ひくい) | Dài | Cao | Rộng | Thấp
-85. 面白い (おもしろい) | Đáng sợ | Khó | Buồn chán | Thú vị
-86. 美味しい (おいしい) | Cay | Ngọt | Dở | Ngon
-87. 忙しい (いそがしい) | Rảnh rỗi | Buồn bã | Vui vẻ | Bận rộn
-88. 楽しい (たのしい) | Mệt mỏi | Khó chịu | Lo lắng | Vui vẻ
-89. 白い (しろい) | Đen | Đỏ | Xanh | Trắng
-90. 黒い (くろい) | Trắng | Vàng | Tím | Đen
-91. 赤い (あかい) | Vàng | Xanh | Trắng | Đỏ
-92. 青い (あおい) | Đỏ | Đen | Cam | Xanh da trời
-93. 好き (すき) | Sợ | Muốn | Ghét | Thích
-94. 嫌い (きらい) | Cần | Thích | Yêu | Ghét
-95. 上手 (じょうず) | Chậm | Nhanh | Kém | Giỏi
-96. 下手 (へた) | Chăm chỉ | Thông minh | Giỏi | Kém
-97. 飲み物 (のみもの) | Quần áo | Sách vở | Đồ ăn | Đồ uống
-98. 料理 (りょうり) | Thể thao | Phim ảnh | Âm nhạc | Món ăn/Nấu ăn
-99. スポーツ (すぽーつ) | Học tập | Nghỉ ngơi | Lao động | Thể thao
-100. 野球 (やきゅう) | Quần vợt | Bóng rổ | Bóng đá | Bóng chày
-101. 音楽 (おんがく) | Du lịch | Thể thao | Hội họa | Âm nhạc
-102. 歌 (うた) | Câu chuyện | Vở kịch | Bài thơ | Bài hát
-103. 絵 (え) | Tờ báo | Bức thư | Bản đồ | Bức tranh
-104. 字 (じ) | Hình ảnh | Con số | Biển báo | Chữ viết
-105. 時間 (じかん) | Địa điểm | Cách thức | Lý do | Thời gian
-106. 用事 (ようじ) | Việc công | Cuộc hẹn | Lời hứa | Việc riêng
-107. 約束 (やくそく) | Kỳ nghỉ | Bài tập | Công việc | Cuộc hẹn/Lời hứa
-108. 子供 (こども) | Thanh niên | Người già | Người lớn | Trẻ con
-109. 少し (すこし) | Rất nhiều | Toàn bộ | Không chút nào | Một chút
-110. 全然 (ぜんぜん) | Luôn luôn | Thường xuyên | Thỉnh thoảng | Hoàn toàn không
-111. 早く (はやく) | Thong thả | Chậm | Muộn | Sớm/Nhanh
-112. あります (あります) | Có (người) | Đến | Đi | Có (đồ vật)
-113. います (います) | Ngủ | Có (đồ vật) | Ăn | Có (người/động vật)
-114. 色々 (いろいろ) | Giống nhau | Duy nhất | Ít | Nhiều/Đa dạng
-115. 男の人 (おとこのひと) | Con gái | Con trai | Người phụ nữ | Người đàn ông
-116. 女の人 (おんなのひと) | Em bé | Người đàn ông | Ông lão | Người phụ nữ
-117. 男の子 (おとこのこ) | Đàn ông | Phụ nữ | Cô bé | Cậu bé
-118. 女の子 (おんなのこ) | Cậu bé | Chị gái | Anh trai | Cô bé
-119. 犬 (いぬ) | Con mèo | Con cá | Con chim | Con chó
-120. 猫 (ねこ) | Con chó | Con thỏ | Con hổ | Con mèo
-121. 木 (き) | Hoa | Cỏ | Lá | Cây
-122. 電池 (でんち) | Điện thoại | Máy tính | Bóng đèn | Pin
-123. 箱 (はこ) | Cái túi | Cái bát | Cái chai | Cái hộp
-124. 冷蔵庫 (れいぞうこ) | Điều hòa | Lò vi sóng | Máy giặt | Tủ lạnh
-125. 棚 (たな) | Cái ghế | Cái tủ | Cái bàn | Cái giá/kệ
-126. 窓 (まど) | Cửa chính | Trần nhà | Tường | Cửa sổ
-127. 公園 (こうえん) | Trường học | Nhà ga | Bệnh viện | Công viên
-128. 喫茶店 (きっさてん) | Nhà hàng | Khách sạn | Hiệu thuốc | Quán cà phê
-129. 屋 (や) | Công ty | Nhà máy | Nhà ở | Cửa hàng
-130. 乗り場 (のりば) | Cổng chờ | Lối ra | Lối vào | Điểm lên xe
-131. 県 (けん) | Quận | Thành phố | Làng | Tỉnh
-132. 庭 (にわ) | Sân thượng | Phòng khách | Nhà bếp | Vườn
-133. 休み (やすみ) | Đi chơi | Học tập | Làm việc | Nghỉ ngơi/Ngày nghỉ
-134. 卵 (たまご) | Cá | Sữa | Thịt | Trứng
-135. 肉 (にく) | Trái cây | Gạo | Rau | Thịt
-136. 魚 (さかな) | Cua | Mực | Tôm | Cá
-137. 野菜 (やさい) | Bánh kẹo | Hoa quả | Đồ uống | Rau
-138. 果物 (くだもの) | Sữa | Trứng | Thịt | Trái cây
-139. 飲み物 (のみもの) | Quần áo | Giày dép | Đồ ăn | Đồ uống
-140. 紅茶 (こうちゃ) | Cà phê | Trà xanh | Nước ngọt | Trà đen
-141. 牛乳 (ぎゅうにゅう) | Bia | Rượu | Nước ép | Sữa bò
-142. お酒 (おさけ) | Nước lọc | Sữa | Trà | Rượu
-143. 番号 (ばんごう) | Tên gọi | Tuổi tác | Địa chỉ | Số hiệu
-144. 全部 (ぜんぶ) | Một nửa | Một phần | Không có gì | Tất cả
-145. 練習 (れんしゅう) | Nghỉ ngơi | Thi đấu | Kiểm tra | Luyện tập
-146. 意味 (いみ) | Hình dáng | Màu sắc | Âm thanh | Ý nghĩa
-147. 準備 (じゅんび) | Kết thúc | Tiếp tục | Bắt đầu | Chuẩn bị
-148. 故障 (こしょう) | Sửa chữa | Mua mới | Sử dụng | Hỏng hóc
-149. 掃除 (そうじ) | Mua sắm | Giặt giũ | Nấu ăn | Dọn dẹp
-150. 洗濯 (せんたく) | Tưới cây | Đi chợ | Dọn dẹp | Giặt giũ
-151. 散歩 (さんぽ) | Leo núi | Chạy bộ | Bơi lội | Đi dạo
-152. 公務員 (こうむいん) | Công nhân | Nông dân | Lập trình viên | Công chức
-153. 階段 (かいだん) | Đường hầm | Cầu vượt | Thang máy | Cầu thang
-154. 電気 (でんき) | Nước | Lửa | Gió | Điện/Đèn điện
-155. 地下鉄 (ちかてつ) | Tàu hỏa | Xe buýt | Máy bay | Tàu điện ngầm
-156. 飛行機 (ひこうき) | Xe điện | Xe tải | Tàu thủy | Máy bay
-157. 船 (ふね) | Xe tăng | Máy bay | Xe đạp | Thuyền
-158. 自転車 (じてんしゃ) | Xe máy | Tàu điện | Ô tô | Xe đạp
-159. 歩いて (あるいて) | Đi bằng tàu | Chạy | Đi bằng xe | Đi bộ
-160. 誕生日 (たんじょうび) | Ngày Tết | Ngày nghỉ | Ngày lễ | Ngày sinh nhật
-161. 週末 (しゅうまつ) | Đầu tuần | Giữa tuần | Cả tuần | Cuối tuần
-162. 先月 (せんげつ) | Năm ngoái | Tháng này | Tháng sau | Tháng trước
-163. 来月 (らいげつ) | Tháng này | Tháng trước | Sang năm | Tháng sau
-164. 今年 (ことし) | Năm kia | Năm sau | Năm ngoái | Năm nay
-165. 去年 (きょねん) | Năm nay | Năm sau | Năm tới | Năm ngoái
-166. 暇 (ひま) | Buồn bã | Vui vẻ | Bận rộn | Rảnh rỗi
-167. 賑やか (にぎやか) | Yên tĩnh | Sạch sẽ | Buồn tẻ | Náo nhiệt
-168. 有名 (ゆうめい) | Bí mật | Bình thường | Xấu xí | Nổi tiếng
-169. 親切 (しんせつ) | Kiêu ngạo | Lạnh lùng | Độc ác | Tốt bụng/Thân thiện
-170. 元気 (げんき) | Ốm yếu | Buồn ngủ | Mệt mỏi | Khỏe mạnh
-171. 便利 (べんり) | Dễ dàng | Bất tiện | Khó khăn | Tiện lợi
-172. 悪い (わるい) | Tốt | Ngon | Đẹp | Xấu/Tồi
-173. 難しい (むずかしい) | Dài | Dễ | Ngắn | Khó
-174. 易しい (やさしい) | Đắt | Khó | Rẻ | Dễ
-175. 狭い (せまい) | Thấp | Cao | Rộng | Hẹp
-176. 広い (ひろい) | Hẹp | Ngắn | Dài | Rộng
-177. 近い (ちかい) | Xa | Nhanh | Chậm | Gần
-178. 遠い (とおい) | Cao | Gần | Thấp | Xa
-179. 重い (おもい) | Nhẹ | Mỏng | Dày | Nặng
-180. 軽い (かるい) | Nặng | Mềm | Cứng | Nhẹ
-181. 暗い (くらい) | Lạnh | Sáng | Nóng | Tối
-182. 明るい (あかるい) | Đỏ | Tối | Đen | Sáng
-183. 背が高い (せがたかい) | Dáng thấp | Gầy | Béo | Dáng cao
-184. 頭 (あたま) | Vai | Bụng | Ngực | Đầu
-185. 足 (あし) | Mũi | Tay | Mắt | Chân
-186. 目 (め) | Miệng | Tai | Tóc | Mắt
-187. 耳 (みみ) | Mắt | Lưỡi | Mũi | Tai
-188. 口 (くち) | Mắt | Tai | Răng | Miệng
-189. 鼻 (はな) | Lưng | Miệng | Hoa | Mũi
-190. 喉 (のど) | Vai | Tim | Cổ | Họng
-191. 勉強 (べんきょう) | Ngủ | Làm việc | Giải trí | Học tập
-192. 仕事 (しごと) | Sở thích | Trò chơi | Thể thao | Công việc
-193. 洗います (あらいます) | Cắt | Dán | Vẽ | Rửa/Giặt
-194. 作ります (つくりまず) | Sử dụng | Mua | Phá hủy | Chế tạo/Làm
-195. 泳ぎます (およぎます) | Nhảy | Chạy | Đi bộ | Bơi
-196. 出します (だします) | Nhận vào | Mở ra | Cất đi | Lấy ra/Nộp
-197. 入れます (いれます) | Lấy ra | Bỏ đi | Đóng lại | Cho vào
-198. 降ります (ふります) | Bay | Ngừng | Thổi | Rơi (mưa/tuyết)
-199. 登ります (のぼります) | Xuống | Chạy | Ngã | Leo (núi)
-200. 泊まります (とまります) | Rời đi | Trở về | Đi qua | Trọ lại
-201. 浴びます (あびます) | Rửa | Chải | Lau | Tắm (vòi sen)
-202. 磨きます (みがきます) | Uống | Nhìn | Ăn | Đánh (răng)
-203. 掃除します (そうじします) | Nấu ăn | Đi ngủ | Giặt giũ | Dọn dẹp
-204. 洗濯します (せんたくします) | Rửa bát | Quét nhà | Tưới cây | Giặt giũ
-205. 散歩します (さんぽします) | Leo núi | Chạy bộ | Bơi lội | Đi dạo
-206. 買い物します (かいものします) | Trả tiền | Bán hàng | Xem hàng | Mua sắm
-207. 練習します (れんしゅうします) | Nghỉ ngơi | Thi đấu | Bỏ cuộc | Luyện tập
-208. 結婚します (けっこんします) | Làm quen | Hẹn hò | Chia tay | Kết hôn
-209. 覚えます (おぼえます) | Viết | Quên | Nói | Nhớ
-210. 忘れます (わすれます) | Thấy | Tìm | Nhớ | Quên
-211. 払います (はらいます) | Nhận tiền | Cho tiền | Mượn tiền | Trả tiền
-212. 脱ぎます (ぬぎます) | Mặc | Phơi | Giặt | Cởi (quần áo)
-213. 履きます (はきます) | Đội (mũ) | Thắt (cà vạt) | Đeo (kính) | Đi (giày/tất)
-214. 被ります (かぶります) | Đeo (nhẫn) | Đi (dép) | Khoác (áo) | Đội (mũ)
-215. かけます (かけます) | Thắt | Cởi | Mặc | Đeo (kính)
-216. 借ります (かります) | Trả | Cho mượn | Bán | Mượn
-217. 返します (かえします) | Mượn | Vứt | Lấy | Trả lại
-218. 閉めます (しめます) | Mở | Tắt | Bật | Đóng
-219. 開けます (あけます) | Sửa | Đóng | Khóa | Mở
-220. 点けます (つけます) | Tắt | Sửa | Hỏng | Bật (điện)
-221. 消します (けします) | Đọc | Bật | Viết | Tắt/Xóa
-222. 急ぎます (いそぎます) | Thong thả | Chậm trễ | Dừng lại | Vội vã
-223. 待ちます (まちます) | Đi | Chạy | Gọi | Đợi
-224. 呼びます (よびます) | Nghe | Nhìn | Nói | Gọi
-225. 止めます (とめます) | Chạy | Đi | Nhảy | Dừng/Đỗ
-226. 曲がります (まがります) | Nhảy | Đi thẳng | Lùi lại | Rẽ
-227. 持ちます (もちます) | Thổi | Vứt | Đánh | Cầm/Nắm
-228. 手伝います (てつだいます) | Từ chối | Phá hoại | Đi chơi | Giúp đỡ
-229. 遊びます (あそびます) | Làm | Học | Ngủ | Chơi
-230. 疲れます (つかれます) | Vui vẻ | Hạnh phúc | Khỏe mạnh | Mệt mỏi
-231. 始めます (はじめます) | Tiếp tục | Kết thúc | Dừng lại | Bắt đầu
-232. 終わります (おわります) | Đang làm | Bắt đầu | Chuẩn bị | Kết thúc
-233. 勝ちます (かちます) | Thua | Bỏ cuộc | Hòa | Thắng
-234. 負けます (まけます) | Hòa | Tham gia | Thắng | Thua
-235. 吹きます (ふきます) | Cháy | Rơi | Mưa | Thổi (gió)
-236. 焼きます (やきます) | Luộc | Hấp | Xào | Nướng
-237. 壊れます (こわれます) | Tốt | Sửa | Mới | Hỏng
-238. 直します (なおします) | Làm hỏng | Mua mới | Vứt đi | Sửa chữa
-239. 間に合います (まにあいます) | Nghỉ học | Đi về | Muộn giờ | Kịp giờ
-240. 遅れます (おくれます) | Đúng giờ | Sớm | Nhanh | Trễ/Muộn
-241. たぶん (たぶん) | Luôn luôn | Chắc chắn | Không bao giờ | Có lẽ
-242. きっと (きっと) | Không biết | Có thể | Hình như | Chắc chắn
-243. 本当に (ほんとうに) | Giả vờ | Có lẽ | Không hẳn | Thật sự
-244. 一緒に (いっしょに) | Một mình | Khác nhau | Riêng lẻ | Cùng nhau
-245. 一人で (ひとりで) | Mọi người | Hai người | Cùng nhau | Một mình
-246. 大変 (たいへん) | Rảnh rỗi | Vui vẻ | Dễ dàng | Vất vả
-247. 無理 (むり) | Dễ | Có thể | Đơn giản | Quá sức/Không thể
-248. 大切 (たいせつ) | Vô dụng | Rẻ tiền | Bình thường | Quan trọng
-249. 危ない (あぶない) | Vui vẻ | Sạch sẽ | An toàn | Nguy hiểm
-250. 丈夫 (じょうぶ) | Yếu | Cũ | Hỏng | Bền/Chắc
-251. 暇 (ひま) | Mệt | Khỏe | Bận rộn | Rảnh rỗi
-252. 色 (いろ) | Cân nặng | Hình dáng | Kích thước | Màu sắc
-253. 黄色い (きいろい) | Trắng | Xanh | Đỏ | Vàng
-254. 茶色い (ちゃいろい) | Xám | Đen | Tím | Nâu
-255. 甘い (あまい) | Cay | Mặn | Chua | Ngọt
-256. 辛い (からい) | Ngọt | Đắng | Nhạt | Cay
-257. 塩辛い (しおからい) | Cay | Chua | Ngọt | Mặn
-258. 酸っぱい (すっぱい) | Mặn | Cay | Ngọt | Chua
-259. 遠く (とおく) | Gần | Thấp | Cao | Xa
-260. 近く (ちかく) | Hẹp | Rộng | Xa | Gần
-261. 全部 (ぜんぶ) | Phía sau | Một ít | Bên trái | Tất cả
-262. 半分 (はんぶん) | Một phần ba | Gấp đôi | Tất cả | Một nửa
-263. 皿 (さら) | Cái bát | Cái thìa | Cái đũa | Cái đĩa
-264. 茶碗 (ちゃわん) | Cái ấm | Cái cốc | Cái đĩa | Cái bát
-265. コップ (こっぷ) | Cái dĩa | Cái thìa | Cái dao | Cái cốc
-266. スプーン (すぷーん) | Cái dao | Cái dĩa | Cái kéo | Cái thìa
-267. フォーク (ふぉーく) | Cái thìa | Cái đĩa | Cái bát | Cái dĩa
-268. ナイフ (ないふ) | Cái bút | Cái kéo | Cái thước | Con dao
-269. 箸 (はし) | Dao | Muỗng | Nĩa | Đũa
-270. 砂糖 (さとう) | Mắm | Tiêu | Muối | Đường
-271. 塩 (しお) | Dầu ăn | Giấm | Đường | Muối
-272. 醤油 (しょうゆ) | Tương ớt | Nước mắm | Dầu hào | Nước tương
-273. 建物 (たてもの) | Cây cối | Phương tiện | Con đường | Tòa nhà
-274. ビル (びる) | Nhà cấp 4 | Công viên | Chùa | Tòa nhà cao tầng
-275. 門 (もん) | Cửa sổ | Tường | Mái nhà | Cổng
-276. 玄関 (げんかん) | Phòng ngủ | Nhà bếp | Ban công | Lối vào/Huyền quan
-277. トイレ (といれ) | Phòng khách | Sân vườn | Nhà tắm | Nhà vệ sinh
-278. お風呂 (おふろ) | Phòng ăn | Nhà xe | Phòng ngủ | Bồn tắm/Nhà tắm
-279. 台所 (だいどころ) | Phòng tắm | Phòng khách | Nhà kho | Nhà bếp
-280. 廊下 (ろうか) | Cầu thang | Trần nhà | Cửa chính | Hành lang
-281. 角 (かど) | Hầm | Cầu | Ngã tư | Góc đường
-282. 交差点 (こうさてん) | Đường cụt | Vỉa hè | Đường một chiều | Ngã tư
-283. 信号 (しんごう) | Trạm xe buýt | Biển báo | Vạch kẻ đường | Đèn giao thông
-284. 道 (みち) | Tòa nhà | Dòng sông | Ngọn núi | Con đường
-285. 橋 (はし) | Đường hầm | Nhà ga | Con đường | Cây cầu
-286. 空 (そら) | Đại dương | Rừng rậm | Mặt đất | Bầu trời
-287. 海 (うみ) | Hồ | Sông | Ao | Biển
-288. 川 (かわ) | Sa mạc | Núi | Biển | Sông
-289. 山 (やま) | Sông | Biển | Cánh đồng | Núi
-290. 花 (はな) | Cỏ | Rễ | Lá | Hoa
-291. 天気 (てんき) | Áp suất | Nhiệt độ | Độ ẩm | Thời tiết
-292. 雨 (あめ) | Gió | Nắng | Tuyết | Mưa
-293. 雪 (ゆき) | Mưa đá | Sương mù | Mưa | Tuyết
-294. 風 (かぜ) | Mây | Mưa | Nắng | Gió
-295. 晴れ (はれ) | Mưa | Mây | Tuyết | Nắng/Trời quang
-296. 曇り (くもり) | Mưa | Nắng | Gió | Nhiều mây/U ám
-297. 北 (きた) | Phía Tây | Phía Đông | Phía Nam | Phía Bắc
-298. 南 (みなみ) | Phía Tây | Phía Đông | Phía Bắc | Phía Nam
-299. 東 (ひがし) | Phía Nam | Phía Tây | Phía Bắc | Phía Đông
-300. 西 (にし) | Phía Bắc | Phía Đông | Phía Nam | Phía Tây
-301. 右 (みぎ) | Đằng trước | Đằng sau | Bên trái | Bên phải
-302. 左 (ひだり) | Bên cạnh | Bên phải | Ở giữa | Bên trái
-303. 前 (まえ) | Bên dưới | Bên trên | Đằng sau | Đằng trước
-304. 後ろ (うしろ) | Bên cạnh | Ở trong | Đằng trước | Đằng sau
-305. 隣 (となり) | Phía dưới | Đối diện | Phía trên | Bên cạnh
-306. 近く (ちかく) | Ở giữa | Ở ngoài | Ở xa | Ở gần
-307. 外 (そと) | Phía dưới | Phía trên | Bên trong | Bên ngoài
-308. 中 (なか) | Phía trước | Bên ngoài | Phía sau | Bên trong
-309. 間 (あいだ) | Bên cạnh | Phía tây | Phía đông | Ở giữa
-310. そば (そば) | Xa | Trong | Trên | Gần/Cạnh bên
-311. テーブル (てーぶる) | Cái rèm | Cái tủ | Cái ghế | Cái bàn
-312. ベッド (べっど) | Cái gối | Cái bàn | Cái kệ | Cái giường
-313. ポスト (ぽすと) | Cột điện | Thùng rác | Biển báo | Hòm thư
-314. スイッチ (すいっち) | Bóng đèn | Ổ cắm | Dây điện | Công tắc
-315. ドア (どあ) | Trần nhà | Tường | Cửa sổ | Cửa chính
-316. 石鹸 (せっけん) | Kem đánh răng | Bàn chải | Khăn mặt | Xà phòng
-317. 封筒 (ふうとう) | Bút mực | Tem | Giấy viết thư | Phong bì
-318. 写真 (しゃしん) | Bức tranh | Tờ báo | Tạp chí | Bức ảnh
-319. 映画 (えいが) | Hội họa | Thể thao | Âm nhạc | Phim ảnh
-320. 映画館 (えいがかん) | Công viên | Nhà hát | Thư viện | Rạp chiếu phim
-321. テニス (てにす) | Bóng chuyền | Bóng đá | Cầu lông | Quần vợt
-322. サッカー (さっかー) | Bóng chày | Bơi lội | Chạy bộ | Bóng đá
-323. 泳ぎ (およぎ) | Việc chạy bộ | Việc nhảy | Việc leo núi | Việc bơi lội
-324. 歌 (うた) | Bài thơ | Điệu nhảy | Bức tranh | Bài hát
-325. ギター (ぎたー) | Đàn piano | Trống | Kèn | Đàn ghi-ta
-326. ニュース (にゅーす) | Quảng cáo | Phim truyện | Ca nhạc | Tin tức
-327. パーティー (ぱーてぃー) | Chuyến đi | Buổi học | Cuộc họp | Bữa tiệc
-328. カレー (かれー) | Món mì | Món súp | Món cơm | Món cà ri
-329. パン (ぱん) | Trứng | Cơm | Sữa | Bánh mì
-330. 肉類 (にくるい) | Các loại rau | Các loại cá | Các loại quả | Các loại thịt
-331. 休み (やすみ) | Ngày lễ | Ngày làm việc | Ngày Tết | Ngày nghỉ
-332. 旅行 (りょこう) | Học tập | Làm việc | Dọn dẹp | Du lịch
-333. 宿題 (しゅくだい) | Bài kiểm tra | Tài liệu | Sách vở | Bài tập về nhà
-334. テスト (てすと) | Buổi họp | Bài giảng | Kỳ nghỉ | Bài kiểm tra
-335. 質問 (しつもん) | Lời chào | Ý kiến | Câu trả lời | Câu hỏi
-336. 答え (こたえ) | Bài tập | Ví dụ | Câu hỏi | Câu trả lời
-337. 例 (れい) | Bài tập | Kết quả | Lý do | Ví dụ
-338. 番 (ばん) | Tuổi | Tên | Địa chỉ | Số/Số thứ tự
-339. 次 (つぎ) | Trước đây | Cuối cùng | Vừa rồi | Tiếp theo
-340. 一番 (いちばん) | Cuối cùng | Bình thường | Thứ hai | Nhất/Số 1
-341. どっち (どっち) | Ai | Tại sao | Khi nào | Phía nào/Cái nào
-342. こっち (こっち) | Phía kia | Phía đó | Đằng kia | Phía này
-343. そっち (そっち) | Phía kia | Phía này | Đằng này | Phía đó
-344. あっち (あっち) | Phía đó | Ở đây | Phía này | Phía kia
-345. 向こう (むこう) | Phía sau | Phía dưới | Bên cạnh | Phía đối diện
-346. 意味 (いみ) | Cách viết | Cách đọc | Âm thanh | Ý nghĩa
-347. 字 (じ) | Hình ảnh | Màu sắc | Âm thanh | Chữ/Ký tự
-348. 漢字 (かんじ) | Chữ la tinh | Chữ cứng | Chữ mềm | Hán tự
-349. ローマ字 (ろーまじ) | Chữ Nhật | Số | Chữ Hán | Chữ La-mã
-350. 文法 (ぶんぽう) | Từ vựng | Hội thoại | Phát âm | Ngữ pháp
-351. 言葉 (ことば) | Ngữ pháp | Bài văn | Chữ viết | Từ vựng/Lời nói
-352. 授業 (じゅぎょう) | Kỳ nghỉ | Cuộc họp | Buổi tiệc | Giờ học
-353. 講義 (こうぎ) | Sách | Bài tập | Bài thi | Bài giảng
-354. 練習 (れんしゅう) | Bỏ cuộc | Thi đấu | Nghỉ ngơi | Luyện tập
-355. 復習 (ふくしゅう) | Học mới | Nghỉ ngơi | Kiểm tra | Ôn tập
-356. 予習 (よしゅう) | Ôn bài cũ | Đi chơi | Đi ngủ | Chuẩn bị bài mới
-357. 辞書 (じしょ) | Sách giáo khoa | Vở | Tạp chí | Từ điển
-358. ページ (ぺーじ) | Dòng chữ | Quyển sách | Bìa sách | Trang (sách)
-359. 紙 (かみ) | Bút | Thước | Tẩy | Giấy
-360. 鉛筆 (えんぴつ) | Bút máy | Phấn | Bút bi | Bút chì
-361. ボールペン (ぼーるぺん) | Thước kẻ | Cục tẩy | Bút chì | Bút bi
-362. 消しゴム (けしごむ) | Cái bút | Thước kẻ | Cuốn sổ | Cục tẩy
-363. 万年筆 (まんねんひつ) | Bút chì | Bút màu | Bút sáp | Bút máy
-364. 文章 (ぶんしょう) | Chữ cái | Tiêu đề | Từ đơn | Đoạn văn
-365. 作文 (さくぶん) | Bài hát | Bài toán | Bản vẽ | Bài tập làm văn
-366. 習います (ならいます) | Quên | Dạy | Nhớ | Học
-367. 教えます (おしえます) | Ngủ | Học | Chơi | Dạy/Chỉ bảo
-368. 頼みます (たのみます) | Cho phép | Giúp đỡ | Từ chối | Nhờ vả
-369. 貸します (かします) | Trả | Mượn | Lấy | Cho mượn
-370. 借ります (かりる) | Trả | Cho mượn | Thuê | Mượn
-371. 返します (かえします) | Vứt đi | Giữ lại | Lấy đi | Trả lại
-372. 渡します (わたします) | Cất đi | Mất | Nhận lấy | Đưa cho/Trao cho
-373. 脱ぎます (ぬぎます) | Mua (đồ) | Giặt (đồ) | Mặc (đồ) | Cởi (đồ)
-374. 履きます (はきます) | Đội (mũ) | Quàng (khăn) | Đeo (kính) | Đi (giày/dép)
-375. 差します (さします) | Đeo (nhẫn) | Đội (mũ) | Mặc (áo) | Che (ô)
-376. 勤めます (つとめます) | Đi chơi | Nghỉ ngơi | Học tập | Làm việc/Công tác
-377. 働きます (はたらきます) | Ngủ | Chơi | Nghỉ ngơi | Làm việc
-378. 休みます (やすみます) | Làm việc | Học bài | Chạy bộ | Nghỉ ngơi
-379. 終わります (おわります) | Bắt đầu | Tiếp tục | Đang làm | Kết thúc
-380. 始まります (はじまります) | Dừng lại | Hoàn thành | Kết thúc | Bắt đầu
-381. 上がります (あがります) | Giảm xuống | Chạy | Dừng lại | Tăng lên/Đi lên
-382. 下がります (さがります) | Tăng lên | Nhảy | Đứng yên | Giảm xuống/Đi xuống
-383. 降ります (ふります) | Bay | Thổi | Nắng | Rơi (mưa/tuyết)
-384. 吹きます (ふきます) | Ngừng | Rơi | Cháy | Thổi (gió)
-385. 消えます (きえます) | Xuất hiện | Bật lên | Sáng | Bị tắt/Biến mất
-386. 点きます (つきます) | Cũ | Hỏng | Tắt | Sáng/Được bật
-387. 並びます (ならびます) | Chạy | Đứng | Ngồi | Xếp hàng
-388. 並べます (ならべます) | Tìm kiếm | Vứt bỏ | Lấy ra | Sắp xếp
-389. 入れます (いれます) | Lấy ra | Đóng lại | Bỏ đi | Cho vào
-390. 出します (だします) | Mở ra | Cất đi | Nhận vào | Lấy ra/Nộp
-391. ずっと (ずっと) | Vừa mới | Thỉnh thoảng | Một chút | Suốt/Hơn nhiều
-392. もっと (もっと) | Ít hơn | Đủ rồi | Không cần | Hơn nữa
-393. ゆっくり (ゆっくり) | Vội vã | Ngay lập tức | Nhanh | Thong thả/Chậm
-394. すぐに (すぐに) | Sau này | Một lát sau | Ngày mai | Ngay lập tức
-395. 早く (はやく) | Chậm | Muộn | Thong thả | Nhanh/Sớm
-396. 遅く (おそく) | Nhanh | Ngay | Sớm | Chậm/Muộn
-397. 大体 (だいたい) | Hoàn toàn | Không chút nào | Chính xác | Đại khái/Khoảng
-398. たくさん (たくさん) | Ít | Không có | Một chút | Nhiều
-399. 少し (すこし) | Không có gì | Toàn bộ | Rất nhiều | Một ít/Một chút
-400. 全然 (ぜんぜん) | Rất nhiều | Thỉnh thoảng | Thường xuyên | Hoàn toàn không
-401. おじいさん (おじいさん) | Bà | Bố | Mẹ | Ông (nói chung)
-402. おばあさん (おばあさん) | Chú | Cô | Ông | Bà (nói chung)
-403. お父さん (おとうさん) | Anh mình | Bố mình | Ông mình | Bố (gọi người khác)
-404. お母さん (おかあさん) | Bà mình | Chị mình | Mẹ mình | Mẹ (gọi người khác)
-405. お兄さん (おにいさん) | Anh mình | Em mình | Chú mình | Anh trai (người khác)
-406. お姉さん (おねえさん) | Em mình | Chị mình | Cô mình | Chị gái (người khác)
-407. 弟 (おとうと) | Em gái | Chị gái | Anh trai | Em trai (mình)
-408. 妹 (いもうと) | Anh trai | Chị gái | Em trai | Em gái (mình)
-409. 兄弟 (きょうだい) | Con cái | Bố mẹ | Vợ chồng | Anh chị em
-410. 両親 (りょうしん) | Cô chú | Anh em | Ông bà | Bố mẹ
-411. 奥さん (おくさん) | Vợ mình | Chồng mình | Chồng người khác | Vợ (người khác)
-412. 主人 (しゅじん) | Giám đốc | Trưởng phòng | Vợ mình | Chồng (mình)
-413. 家内 (かない) | Mẹ mình | Bạn mình | Con mình | Vợ (mình)
-414. 赤ちゃん (あかちゃん) | Người già | Người lớn | Học sinh | Em bé
-415. 建物 (たてもの) | Cây cối | Công viên | Con đường | Tòa nhà
-416. アパート (あぱーと) | Nhà riêng | Khách sạn | Văn phòng | Căn hộ
-417. エレベーター (えれべーたー) | Lối ra | Cửa sổ | Cầu thang | Thang máy
-418. エスカレーター (えすかれーたー) | Hành lang | Thang máy | Cửa tự động | Thang cuốn
-419. 台所 (だいどころ) | Nhà vệ sinh | Phòng khách | Phòng tắm | Nhà bếp
-420. お手洗い (おてあらい) | Phòng ngủ | Lối vào | Nhà kho | Nhà vệ sinh
-421. 玄関 (げんかん) | Sân thượng | Phòng ăn | Ban công | Lối vào/Sảnh
-422. 庭 (にわ) | Tầng hầm | Căn phòng | Mái nhà | Cái sân/Vườn
-423. 壁 (かべ) | Sàn nhà | Trần nhà | Cửa ra vào | Bức tường
-424. 天井 (てんじょう) | Tường | Cửa | Sàn | Trần nhà
-425. 石 (いし) | Bầu trời | Ngọn núi | Dòng sông | Hòn đá
-426. 池 (いけ) | Biển | Thác | Suối | Cái ao
-427. 湖 (みずうみ) | Sông | Đại dương | Ao | Hồ nước
-428. 星 (ほし) | Trái đất | Mặt trời | Mặt trăng | Ngôi sao
-429. 太陽 (たいよう) | Ngôi sao | Đám mây | Gió | Mặt trời
-430. 空気 (くうき) | Nước | Lửa | Đất | Không khí
-431. 地図 (ちず) | Tờ báo | Cuốn sách | Bức tranh | Bản đồ
-432. 切手 (きって) | Thư | Danh thiếp | Phong bì | Tem
-433. 葉書 (はがき) | Thư | Vở | Tạp chí | Bưu thiếp
-434. 荷物 (にもつ) | Đồ ăn | Quà tặng | Thư | Hành lý
-435. 道具 (どうぐ) | Đồ chơi | Đồ ăn | Quần áo | Dụng cụ
-436. 掃除機 (そうじき) | Tủ lạnh | Tivi | Máy giặt | Máy hút bụi
-437. 洗濯機 (せんたくき) | Lò nướng | Điều hòa | Máy sấy | Máy giặt
-438. 布団 (ふとん) | Cái chiếu | Cái gối | Cái giường | Cái chăn/đệm
-439. 石鹸 (せっけん) | Khăn mặt | Bàn chải | Kem đánh răng | Xà phòng
-440. 鏡 (かがみ) | Cái lược | Cái bàn | Cái ghế | Cái gương
-441. 病気 (びょうき) | Khỏe mạnh | Thuốc | Nghỉ ngơi | Bệnh tật
-442. 薬 (くすり) | Thức ăn | Đồ uống | Kẹo | Thuốc
-443. 風邪 (かぜ) | Gãy tay | Nhức đầu | Đau bụng | Cảm cúm
-444. 熱 (ねつ) | Đau | Lạnh | Ngứa | Sốt
-445. 痛い (いたい) | Buồn | Thích | Vui | Đau
-446. 体 (からだ) | Tay | Đầu | Chân | Cơ thể
-447. 肩 (かた) | Ngực | Cổ | Lưng | Vai
-448. 背中 (せなか) | Vai | Ngực | Bụng | Lưng
-449. お腹 (おなか) | Chân | Tay | Đầu | Bụng
-450. 指 (ゆび) | Khuỷu tay | Đầu gối | Móng tay | Ngón tay
-451. 脱ぎます (ぬぎます) | Mặc | Phơi | Giặt | Cởi (đồ)
-452. 履きます (はきます) | Đeo | Thắt | Đội | Đi (giày/tất)
-453. 浴びます (あびます) | Rửa | Ăn | Ngủ | Tắm
-454. 洗います (あらいます) | Vẽ | Viết | Cắt | Rửa/Giặt
-455. 拭きます (ふきます) | Quét | Rửa | Đổ | Lau chùi
-456. 置きます (おきます) | Tìm | Lấy | Vứt | Đặt/Để
-457. 運びます (はこびます) | Chờ đợi | Mua bán | Dừng lại | Vận chuyển
-458. 勤めます (つとめます) | Nghỉ ngơi | Đi chơi | Học tập | Làm việc
-459. 働きます (はたらきます) | Nghỉ ngơi | Đi dạo | Chạy bộ | Làm việc
-460. 休みます (やすみます) | Học tập | Đi bộ | Làm việc | Nghỉ ngơi
-461. 遊びます (あそびます) | Ngủ | Làm | Học | Chơi
-462. 呼びます (よびます) | Nhìn | Nghe | Nói | Gọi
-463. 歌います (うたいまず) | Viết | Vẽ | Nhảy | Hát
-464. 踊ります (おどります) | Chạy | Bơi | Hát | Nhảy múa
-465. 弾きます (ひきます) | Thổi | Hát | Đánh | Chơi (đàn)
-466. 吹きます (ふきます) | Ngừng | Rơi | Cháy | Thổi
-467. 貸します (かします) | Trả | Lấy | Mượn | Cho mượn
-468. 借ります (かりる) | Cho mượn | Trả | Thuê | Mượn
-469. 返します (かえします) | Vứt đi | Giữ lại | Lấy đi | Trả lại
-470. 渡します (わたします) | Làm mất | Nhận lấy | Cất đi | Trao cho
-471. 大切 (たいせつ) | Vô dụng | Rẻ tiền | Xấu xí | Quan trọng
-472. 丈夫 (じょうぶ) | Yếu | Hỏng | Cũ | Bền/Chắc
-473. 危険 (きけん) | Vui vẻ | Sạch sẽ | An toàn | Nguy hiểm
-474. 残念 (ざんねn) | May mắn | Hạnh phúc | Vui vẻ | Đáng tiếc
-475. 心配 (しんぱい) | Yên tâm | Tự tin | Vui mừng | Lo lắng
-476. 無理 (むり) | Đơn giản | Bình thường | Dễ dàng | Quá sức
-477. 下手 (へた) | Chậm | Giỏi | Nhanh | Kém/Dở
-478. 上手 (じょうず) | Chậm | Nhanh | Kém | Giỏi
-479. 得意 (とくい) | Yếu | Ghét | Sợ | Đắc ý/Mạnh
-480. 苦手 (にがて) | Giỏi | Thích | Muốn | Kém/Yếu
-481. 多分 (たぶん) | Không bao giờ | Chắc chắn | Luôn luôn | Có lẽ
-482. きっと (きっと) | Hình như | Không biết | Có thể | Chắc chắn
-483. 本当に (ほんとうに) | Không hẳn | Có lẽ | Giả vờ | Thật sự
-484. 大体 (だいたい) | Chính xác | Luôn luôn | Hoàn toàn | Đại khái
-485. 全然 (ぜんぜん) | Rất nhiều | Thường xuyên | Thỉnh thoảng | Hoàn toàn không
-486. 時々 (ときどき) | Thường xuyên | Luôn luôn | Không bao giờ | Thỉnh thoảng
-487. 毎日 (まいにち) | Mỗi tháng | Mỗi tuần | Mỗi năm | Mỗi ngày
-488. 毎週 (まいしゅう) | Mỗi giờ | Mỗi tháng | Mỗi ngày | Mỗi tuần
-489. 毎月 (まいつき) | Mỗi tuần | Mỗi năm | Mỗi ngày | Mỗi tháng
-490. 毎年 (まいとし/まいねん) | Mỗi tháng | Mỗi ngày | Mỗi tuần | Mỗi năm
-491. ずっと (ずっと) | Vừa mới | Một chút | Thỉnh thoảng | Suốt/Mãi
-492. 初めて (はじめて) | Thỉnh thoảng | Luôn luôn | Lần cuối cùng | Lần đầu tiên
-493. また (また) | Đã xong | Luôn luôn | Chưa | Lại/Hẹn gặp lại
-494. もう一度 (もういちど) | Lần đầu | Bắt đầu | Kết thúc | Một lần nữa
-495. ゆっくり (ゆっくり) | Vội vã | Nhanh | Ngay lập tức | Thong thả
-496. すぐに (すぐに) | Sau này | Một lát | Ngày mai | Ngay lập tức
-497. 一緒に (いっしょに) | Riêng lẻ | Một mình | Khác nhau | Cùng nhau
-498. 別々に (べつべつに) | Mọi người | Cùng nhau | Giống nhau | Riêng biệt
-499. 大変 (たいへん) | Vui vẻ | Dễ dàng | Rảnh rỗi | Vất vả
-500. 面白い (おもしろい) | Khó | Buồn chán | Đáng sợ | Thú vị
+﻿1. 私 (わたし) | Anh ấy | Cô ấy | Tôi | Bạn
+あなた (あなた) | Chúng ta | Họ | Bạn | Tôi
+人 (ひと) | Cây cối | Đồ vật | Người | Con vật
+先生 (せんせい) | Kỹ sư | Bác sĩ | Giáo viên | Học sinh
+学生 (がくせい) | Công nhân | Cảnh sát | Học sinh | Giáo viên
+会社員 (かいしゃいん) | Bảo vệ | Giám đốc | Nhân viên công ty | Thư ký
+銀行員 (ぎんこういん) | Ca sĩ | Luật sư | Nhân viên ngân hàng | Bác sĩ
+医者 (いしゃ) | Bệnh nhân | Y tá | Bác sĩ | Dược sĩ
+大学 (だいがく) | Trung học | Tiểu học | Đại học | Mẫu giáo
+病院 (びょういん) | Nhà ga | Khách sạn | Bệnh viện | Nhà hàng
+本 (ほん) | Bút | Thước kẻ | Sách | Vở
+辞書 (じしょ) | Tạp chí | Báo | Từ điển | Bản đồ
+雑誌 (ざっし) | Truyện tranh | Tài liệu | Tạp chí | Sách
+新聞 (しんぶん) | Danh thiếp | Thư | Báo | Bưu thiếp
+ノート (のーと) | Phấn | Bút chì | Vở | Tẩy
+手帳 (てちょう) | Giấy | Lịch | Sổ tay | Ví
+名刺 (めいし) | Vé máy bay | Hộ chiếu | Danh thiếp | Thẻ căn cước
+鉛筆 (えんぴつ) | Bút bi | Bút màu | Bút chì | Bút máy
+鍵 (かぎ) | Ổ khóa | Cửa | Chìa khóa | Cửa sổ
+時計 (とけい) | Điện thoại | Máy tính | Đồng hồ | Tivi
+傘 (かさ) | Giày | Áo mưa | Ô (dù) | Mũ
+鞄 (かばん) | Giày dép | Quần áo | Túi xách | Ví
+車 (くるま) | Xe đạp | Xe máy | Ô tô | Máy bay
+机 (つくえ) | Tủ | Ghế | Bàn | Giường
+椅子 (いす) | Bàn | Cửa | Ghế | Rèm
+教室 (きょうしつ) | Nhà ăn | Thư viện | Lớp học | Sân vận động
+食堂 (しょくどう) | Phòng khách | Phòng ngủ | Nhà ăn | Nhà kho
+事務所 (じむしょ) | Nhà xưởng | Chợ | Văn phòng | Cửa hàng
+会議室 (かいぎしつ) | Nhà vệ sinh | Sảnh | Phòng họp | Phòng chờ
+受付 (うけつけ) | Lối ra | Cổng | Quầy lễ tân | Cầu thang
+部屋 (へや) | Thành phố | Ngôi nhà | Căn phòng | Tòa nhà
+階段 (かいだん) | Thang máy | Hành lang | Cầu thang | Đường đi
+郵便局 (ゆうびんきょく) | Công viên | Nhà ga | Bưu điện | Ngân hàng
+図書館 (としょかん) | Bảo tàng | Nhà hát | Thư viện | Rạp phim
+美術館 (びじゅつかん) | Cảng | Nhà thờ | Bảo tàng mỹ thuật | Sân bay
+今 (いま) | Sau này | Luôn luôn | Bây giờ | Trước đây
+時 (じ) | Ngày | Phút | Giờ | Giây
+分 (ふん/ぷん) | Tuần | Tháng | Phút | Giờ
+半 (はん) | Gấp đôi | Một phần tư | Một nửa (rưỡi) | Cả bộ
+朝 (あさ) | Ban đêm | Buổi tối | Buổi sáng | Buổi trưa
+昼 (ひる) | Buổi sáng | Buổi chiều | Buổi trưa | Buổi tối
+晩 (ばん) | Buổi sáng | Ban ngày | Buổi tối | Buổi chiều
+昨日 (きのう) | Ngày mai | Hôm nay | Hôm qua | Ngày kia
+今日 (きょう) | Hôm qua | Tuần sau | Hôm nay | Ngày mai
+明日 (あした) | Hôm nay | Hôm qua | Ngày mai | Tháng trước
+毎朝 (まいあさ) | Mỗi tuần | Mỗi năm | Mỗi sáng | Mỗi tối
+毎日 (まいにち) | Mỗi giờ | Mỗi tháng | Mỗi ngày | Mỗi phút
+行きます (いきます) | Đến | Về | Đi | Ở lại
+来ます (きます) | Chạy | Nhảy | Đến | Đi
+帰ります (かえります) | Đi | Đứng | Về | Đến
+食べます (たべます) | Nghĩ | Ngủ | Ăn | Uống
+飲みます (のみます) | Ăn | Hát | Uống | Nói
+吸います (すいます) | Thổi | Ngửi | Hút | Nếm
+見ます (みます) | Viết | Nghe | Nhìn | Nói
+聞きます (ききます) | Chạy | Nhìn | Nghe | Đọc
+読みます (よみます) | Viết | Vẽ | Đọc | Xóa
+書きます (かきます) | Đọc | Nghe | Viết | Nhìn
+買います (かいまず) | Bán | Nhận | Mua | Cho
+撮ります (とります) | Vẽ | Cắt | Chụp (ảnh) | Dán
+会います (あいます) | Nhớ | Quên | Gặp gỡ | Chia tay
+切ります (きります) | Mở | Gấp | Cắt | Dán
+送ります (おくります) | Vứt | Giữ | Gửi | Nhận
+あげます (あげます) | Trả | Lấy | Cho/Tặng | Mượn
+もらいます (もらいます) | Cho | Tìm | Nhận | Mất
+貸します (かします) | Bán | Mượn | Cho mượn | Mua
+借ります (かりる) | Cho mượn | Thuê | Mượn | Trả
+教えます (おしえます) | Quên | Giấu | Dạy/Chỉ bảo | Học
+習います (ならいます) | Dạy | Nghỉ | Học tập | Chơi
+手 (て) | Đầu | Chân | Tay | Lưng
+お金 (おかね) | Kim cương | Bạc | Tiền | Vàng
+荷物 (にもつ) | Đồ ăn | Quà tặng | Hành lý | Thư
+切手 (きって) | Giấy viết thư | Bưu thiếp | Tem | Phong bì
+父 (ちち) | Anh | Mẹ | Bố (mình) | Chị
+母 (はは) | Em | Bà | Mẹ (mình) | Bố
+家族 (かぞく) | Đồng nghiệp | Bạn bè | Gia đình | Người lạ
+大きい (おおきい) | Nhỏ | Lạnh | Lớn | Nóng
+小さい (ちいさい) | Lớn | Cao | Nhỏ | Thấp
+新しい (あたらしい) | Đẹp | Cũ | Mới | Xấu
+古い (ふるい) | Bẩn | Sạch | Cũ | Mới
+暑い (あつい) | Ấm | Mát | Nóng | Lạnh
+寒い (さむい) | Ướt | Khô | Lạnh | Nóng
+高い (たかい) | Rẻ/Thấp | Dài | Đắt/Cao | Ngắn
+安い (やすい) | Tốt | Đắt | Rẻ | Xấu
+低い (ひくい) | Cao | Rộng | Thấp | Dài
+面白い (おもしろい) | Khó | Buồn chán | Thú vị | Đáng sợ
+美味しい (おいしい) | Ngọt | Dở | Ngon | Cay
+忙しい (いそがしい) | Buồn bã | Vui vẻ | Bận rộn | Rảnh rỗi
+楽しい (たのしい) | Khó chịu | Lo lắng | Vui vẻ | Mệt mỏi
+白い (しろい) | Đỏ | Xanh | Trắng | Đen
+黒い (くろい) | Vàng | Tím | Đen | Trắng
+赤い (あかい) | Xanh | Trắng | Đỏ | Vàng
+青い (あおい) | Đen | Cam | Xanh da trời | Đỏ
+好き (すき) | Muốn | Ghét | Thích | Sợ
+嫌い (きらい) | Thích | Yêu | Ghét | Cần
+上手 (じょうず) | Nhanh | Kém | Giỏi | Chậm
+下手 (へた) | Thông minh | Giỏi | Kém | Chăm chỉ
+飲み物 (のみもの) | Sách vở | Đồ ăn | Đồ uống | Quần áo
+料理 (りょうり) | Phim ảnh | Âm nhạc | Món ăn/Nấu ăn | Thể thao
+スポーツ (すぽーつ) | Nghỉ ngơi | Lao động | Thể thao | Học tập
+野球 (やきゅう) | Bóng rổ | Bóng đá | Bóng chày | Quần vợt
+音楽 (おんがく) | Thể thao | Hội họa | Âm nhạc | Du lịch
+歌 (うた) | Vở kịch | Bài thơ | Bài hát | Câu chuyện
+絵 (え) | Bức thư | Bản đồ | Bức tranh | Tờ báo
+字 (じ) | Con số | Biển báo | Chữ viết | Hình ảnh
+時間 (じかん) | Cách thức | Lý do | Thời gian | Địa điểm
+用事 (ようじ) | Cuộc hẹn | Lời hứa | Việc riêng | Việc công
+約束 (やくそく) | Bài tập | Công việc | Cuộc hẹn/Lời hứa | Kỳ nghỉ
+子供 (こども) | Người già | Người lớn | Trẻ con | Thanh niên
+少し (すこし) | Toàn bộ | Không chút nào | Một chút | Rất nhiều
+全然 (ぜんぜん) | Thường xuyên | Thỉnh thoảng | Hoàn toàn không | Luôn luôn
+早く (はやく) | Chậm | Muộn | Sớm/Nhanh | Thong thả
+あります (あります) | Đến | Đi | Có (đồ vật) | Có (người)
+います (います) | Có (đồ vật) | Ăn | Có (người/động vật) | Ngủ
+色々 (いろいろ) | Duy nhất | Ít | Nhiều/Đa dạng | Giống nhau
+男の人 (おとこのひと) | Con trai | Người phụ nữ | Người đàn ông | Con gái
+女の人 (おんなのひと) | Người đàn ông | Ông lão | Người phụ nữ | Em bé
+男の子 (おとこのこ) | Phụ nữ | Cô bé | Cậu bé | Đàn ông
+女の子 (おんなのこ) | Chị gái | Anh trai | Cô bé | Cậu bé
+犬 (いぬ) | Con cá | Con chim | Con chó | Con mèo
+猫 (ねこ) | Con thỏ | Con hổ | Con mèo | Con chó
+木 (き) | Cỏ | Lá | Cây | Hoa
+電池 (でんち) | Máy tính | Bóng đèn | Pin | Điện thoại
+箱 (はこ) | Cái bát | Cái chai | Cái hộp | Cái túi
+冷蔵庫 (れいぞうこ) | Lò vi sóng | Máy giặt | Tủ lạnh | Điều hòa
+棚 (たな) | Cái tủ | Cái bàn | Cái giá/kệ | Cái ghế
+窓 (まど) | Trần nhà | Tường | Cửa sổ | Cửa chính
+公園 (こうえん) | Nhà ga | Bệnh viện | Công viên | Trường học
+喫茶店 (きっさてん) | Khách sạn | Hiệu thuốc | Quán cà phê | Nhà hàng
+屋 (や) | Nhà máy | Nhà ở | Cửa hàng | Công ty
+乗り場 (のりば) | Lối ra | Lối vào | Điểm lên xe | Cổng chờ
+県 (けん) | Thành phố | Làng | Tỉnh | Quận
+庭 (にわ) | Phòng khách | Nhà bếp | Vườn | Sân thượng
+休み (やすみ) | Học tập | Làm việc | Nghỉ ngơi/Ngày nghỉ | Đi chơi
+卵 (たまご) | Sữa | Thịt | Trứng | Cá
+肉 (にく) | Gạo | Rau | Thịt | Trái cây
+魚 (さかな) | Mực | Tôm | Cá | Cua
+野菜 (やさい) | Hoa quả | Đồ uống | Rau | Bánh kẹo
+果物 (くだもの) | Trứng | Thịt | Trái cây | Sữa
+飲み物 (のみもの) | Giày dép | Đồ ăn | Đồ uống | Quần áo
+紅茶 (こうちゃ) | Trà xanh | Nước ngọt | Trà đen | Cà phê
+牛乳 (ぎゅうにゅう) | Rượu | Nước ép | Sữa bò | Bia
+お酒 (おさけ) | Sữa | Trà | Rượu | Nước lọc
+番号 (ばんごう) | Tuổi tác | Địa chỉ | Số hiệu | Tên gọi
+全部 (ぜんぶ) | Một phần | Không có gì | Tất cả | Một nửa
+練習 (れんしゅう) | Thi đấu | Kiểm tra | Luyện tập | Nghỉ ngơi
+意味 (いみ) | Màu sắc | Âm thanh | Ý nghĩa | Hình dáng
+準備 (じゅんび) | Tiếp tục | Bắt đầu | Chuẩn bị | Kết thúc
+故障 (こしょう) | Mua mới | Sử dụng | Hỏng hóc | Sửa chữa
+掃除 (そうじ) | Giặt giũ | Nấu ăn | Dọn dẹp | Mua sắm
+洗濯 (せんたく) | Đi chợ | Dọn dẹp | Giặt giũ | Tưới cây
+散歩 (さんぽ) | Chạy bộ | Bơi lội | Đi dạo | Leo núi
+公務員 (こうむいん) | Nông dân | Lập trình viên | Công chức | Công nhân
+階段 (かいだん) | Cầu vượt | Thang máy | Cầu thang | Đường hầm
+電気 (でんき) | Lửa | Gió | Điện/Đèn điện | Nước
+地下鉄 (ちかてつ) | Xe buýt | Máy bay | Tàu điện ngầm | Tàu hỏa
+飛行機 (ひこうき) | Xe tải | Tàu thủy | Máy bay | Xe điện
+船 (ふね) | Máy bay | Xe đạp | Thuyền | Xe tăng
+自転車 (じてんしゃ) | Tàu điện | Ô tô | Xe đạp | Xe máy
+歩いて (あるいて) | Chạy | Đi bằng xe | Đi bộ | Đi bằng tàu
+誕生日 (たんじょうび) | Ngày nghỉ | Ngày lễ | Ngày sinh nhật | Ngày Tết
+週末 (しゅうまつ) | Giữa tuần | Cả tuần | Cuối tuần | Đầu tuần
+先月 (せんげつ) | Tháng này | Tháng sau | Tháng trước | Năm ngoái
+来月 (らいげつ) | Tháng trước | Sang năm | Tháng sau | Tháng này
+今年 (ことし) | Năm sau | Năm ngoái | Năm nay | Năm kia
+去年 (きょねん) | Năm sau | Năm tới | Năm ngoái | Năm nay
+暇 (ひま) | Vui vẻ | Bận rộn | Rảnh rỗi | Buồn bã
+賑やか (にぎやか) | Sạch sẽ | Buồn tẻ | Náo nhiệt | Yên tĩnh
+有名 (ゆうめい) | Bình thường | Xấu xí | Nổi tiếng | Bí mật
+親切 (しんせつ) | Lạnh lùng | Độc ác | Tốt bụng/Thân thiện | Kiêu ngạo
+元気 (げんき) | Buồn ngủ | Mệt mỏi | Khỏe mạnh | Ốm yếu
+便利 (べんり) | Bất tiện | Khó khăn | Tiện lợi | Dễ dàng
+悪い (わるい) | Ngon | Đẹp | Xấu/Tồi | Tốt
+難しい (むずかしい) | Dễ | Ngắn | Khó | Dài
+易しい (やさしい) | Khó | Rẻ | Dễ | Đắt
+狭い (せまい) | Cao | Rộng | Hẹp | Thấp
+広い (ひろい) | Ngắn | Dài | Rộng | Hẹp
+近い (ちかい) | Nhanh | Chậm | Gần | Xa
+遠い (とおい) | Gần | Thấp | Xa | Cao
+重い (おもい) | Mỏng | Dày | Nặng | Nhẹ
+軽い (かるい) | Mềm | Cứng | Nhẹ | Nặng
+暗い (くらい) | Sáng | Nóng | Tối | Lạnh
+明るい (あかるい) | Tối | Đen | Sáng | Đỏ
+背が高い (せがたかい) | Gầy | Béo | Dáng cao | Dáng thấp
+頭 (あたま) | Bụng | Ngực | Đầu | Vai
+足 (あし) | Tay | Mắt | Chân | Mũi
+目 (め) | Tai | Tóc | Mắt | Miệng
+耳 (みみ) | Lưỡi | Mũi | Tai | Mắt
+口 (くち) | Tai | Răng | Miệng | Mắt
+鼻 (はな) | Miệng | Hoa | Mũi | Lưng
+喉 (のど) | Tim | Cổ | Họng | Vai
+勉強 (べんきょう) | Làm việc | Giải trí | Học tập | Ngủ
+仕事 (しごと) | Trò chơi | Thể thao | Công việc | Sở thích
+洗います (あらいます) | Dán | Vẽ | Rửa/Giặt | Cắt
+作ります (つくりまず) | Mua | Phá hủy | Chế tạo/Làm | Sử dụng
+泳ぎます (およぎます) | Chạy | Đi bộ | Bơi | Nhảy
+出します (だします) | Mở ra | Cất đi | Lấy ra/Nộp | Nhận vào
+入れます (いれます) | Bỏ đi | Đóng lại | Cho vào | Lấy ra
+降ります (ふります) | Ngừng | Thổi | Rơi (mưa/tuyết) | Bay
+登ります (のぼります) | Chạy | Ngã | Leo (núi) | Xuống
+泊まります (とまります) | Trở về | Đi qua | Trọ lại | Rời đi
+浴びます (あびます) | Chải | Lau | Tắm (vòi sen) | Rửa
+磨きます (みがきます) | Nhìn | Ăn | Đánh (răng) | Uống
+掃除します (そうじします) | Đi ngủ | Giặt giũ | Dọn dẹp | Nấu ăn
+洗濯します (せんたくします) | Quét nhà | Tưới cây | Giặt giũ | Rửa bát
+散歩します (さんぽします) | Chạy bộ | Bơi lội | Đi dạo | Leo núi
+買い物します (かいものします) | Bán hàng | Xem hàng | Mua sắm | Trả tiền
+練習します (れんしゅうします) | Thi đấu | Bỏ cuộc | Luyện tập | Nghỉ ngơi
+結婚します (けっこんします) | Hẹn hò | Chia tay | Kết hôn | Làm quen
+覚えます (おぼえます) | Quên | Nói | Nhớ | Viết
+忘れます (わすれます) | Tìm | Nhớ | Quên | Thấy
+払います (はらいます) | Cho tiền | Mượn tiền | Trả tiền | Nhận tiền
+脱ぎます (ぬぎます) | Phơi | Giặt | Cởi (quần áo) | Mặc
+履きます (はきます) | Thắt (cà vạt) | Đeo (kính) | Đi (giày/tất) | Đội (mũ)
+被ります (かぶります) | Đi (dép) | Khoác (áo) | Đội (mũ) | Đeo (nhẫn)
+かけます (かけます) | Cởi | Mặc | Đeo (kính) | Thắt
+借ります (かります) | Cho mượn | Bán | Mượn | Trả
+返します (かえします) | Vứt | Lấy | Trả lại | Mượn
+閉めます (しめます) | Tắt | Bật | Đóng | Mở
+開けます (あけます) | Đóng | Khóa | Mở | Sửa
+点けます (つけます) | Sửa | Hỏng | Bật (điện) | Tắt
+消します (けします) | Bật | Viết | Tắt/Xóa | Đọc
+急ぎます (いそぎます) | Chậm trễ | Dừng lại | Vội vã | Thong thả
+待ちます (まちます) | Chạy | Gọi | Đợi | Đi
+呼びます (よびます) | Nhìn | Nói | Gọi | Nghe
+止めます (とめます) | Đi | Nhảy | Dừng/Đỗ | Chạy
+曲がります (まがります) | Đi thẳng | Lùi lại | Rẽ | Nhảy
+持ちます (もちます) | Vứt | Đánh | Cầm/Nắm | Thổi
+手伝います (てつだいます) | Phá hoại | Đi chơi | Giúp đỡ | Từ chối
+遊びます (あそびます) | Học | Ngủ | Chơi | Làm
+疲れます (つかれます) | Hạnh phúc | Khỏe mạnh | Mệt mỏi | Vui vẻ
+始めます (はじめます) | Kết thúc | Dừng lại | Bắt đầu | Tiếp tục
+終わります (おわります) | Bắt đầu | Chuẩn bị | Kết thúc | Đang làm
+勝ちます (かちます) | Bỏ cuộc | Hòa | Thắng | Thua
+負けます (まけます) | Tham gia | Thắng | Thua | Hòa
+吹きます (ふきます) | Rơi | Mưa | Thổi (gió) | Cháy
+焼きます (やきます) | Hấp | Xào | Nướng | Luộc
+壊れます (こわれます) | Sửa | Mới | Hỏng | Tốt
+直します (なおします) | Mua mới | Vứt đi | Sửa chữa | Làm hỏng
+間に合います (まにあいます) | Đi về | Muộn giờ | Kịp giờ | Nghỉ học
+遅れます (おくれます) | Sớm | Nhanh | Trễ/Muộn | Đúng giờ
+たぶん (たぶん) | Chắc chắn | Không bao giờ | Có lẽ | Luôn luôn
+きっと (きっと) | Có thể | Hình như | Chắc chắn | Không biết
+本当に (ほんとうに) | Có lẽ | Không hẳn | Thật sự | Giả vờ
+一緒に (いっしょに) | Khác nhau | Riêng lẻ | Cùng nhau | Một mình
+一人で (ひとりで) | Hai người | Cùng nhau | Một mình | Mọi người
+大変 (たいへん) | Vui vẻ | Dễ dàng | Vất vả | Rảnh rỗi
+無理 (むり) | Có thể | Đơn giản | Quá sức/Không thể | Dễ
+大切 (たいせつ) | Rẻ tiền | Bình thường | Quan trọng | Vô dụng
+危ない (あぶない) | Sạch sẽ | An toàn | Nguy hiểm | Vui vẻ
+丈夫 (じょうぶ) | Cũ | Hỏng | Bền/Chắc | Yếu
+暇 (ひま) | Khỏe | Bận rộn | Rảnh rỗi | Mệt
+色 (いろ) | Hình dáng | Kích thước | Màu sắc | Cân nặng
+黄色い (きいろい) | Xanh | Đỏ | Vàng | Trắng
+茶色い (ちゃいろい) | Đen | Tím | Nâu | Xám
+甘い (あまい) | Mặn | Chua | Ngọt | Cay
+辛い (からい) | Đắng | Nhạt | Cay | Ngọt
+塩辛い (しおからい) | Chua | Ngọt | Mặn | Cay
+酸っぱい (すっぱい) | Cay | Ngọt | Chua | Mặn
+遠く (とおく) | Thấp | Cao | Xa | Gần
+近く (ちかく) | Rộng | Xa | Gần | Hẹp
+全部 (ぜんぶ) | Một ít | Bên trái | Tất cả | Phía sau
+半分 (はんぶん) | Gấp đôi | Tất cả | Một nửa | Một phần ba
+皿 (さら) | Cái thìa | Cái đũa | Cái đĩa | Cái bát
+茶碗 (ちゃわん) | Cái cốc | Cái đĩa | Cái bát | Cái ấm
+コップ (こっぷ) | Cái thìa | Cái dao | Cái cốc | Cái dĩa
+スプーン (すぷーん) | Cái dĩa | Cái kéo | Cái thìa | Cái dao
+フォーク (ふぉーく) | Cái đĩa | Cái bát | Cái dĩa | Cái thìa
+ナイフ (ないふ) | Cái kéo | Cái thước | Con dao | Cái bút
+箸 (はし) | Muỗng | Nĩa | Đũa | Dao
+砂糖 (さとう) | Tiêu | Muối | Đường | Mắm
+塩 (しお) | Giấm | Đường | Muối | Dầu ăn
+醤油 (しょうゆ) | Nước mắm | Dầu hào | Nước tương | Tương ớt
+建物 (たてもの) | Phương tiện | Con đường | Tòa nhà | Cây cối
+ビル (びる) | Công viên | Chùa | Tòa nhà cao tầng | Nhà cấp 4
+門 (もん) | Tường | Mái nhà | Cổng | Cửa sổ
+玄関 (げんかん) | Nhà bếp | Ban công | Lối vào/Huyền quan | Phòng ngủ
+トイレ (といれ) | Sân vườn | Nhà tắm | Nhà vệ sinh | Phòng khách
+お風呂 (おふろ) | Nhà xe | Phòng ngủ | Bồn tắm/Nhà tắm | Phòng ăn
+台所 (だいどころ) | Phòng khách | Nhà kho | Nhà bếp | Phòng tắm
+廊下 (ろうか) | Trần nhà | Cửa chính | Hành lang | Cầu thang
+角 (かど) | Cầu | Ngã tư | Góc đường | Hầm
+交差点 (こうさてん) | Vỉa hè | Đường một chiều | Ngã tư | Đường cụt
+信号 (しんごう) | Biển báo | Vạch kẻ đường | Đèn giao thông | Trạm xe buýt
+道 (みち) | Dòng sông | Ngọn núi | Con đường | Tòa nhà
+橋 (はし) | Nhà ga | Con đường | Cây cầu | Đường hầm
+空 (そら) | Rừng rậm | Mặt đất | Bầu trời | Đại dương
+海 (うみ) | Sông | Ao | Biển | Hồ
+川 (かわ) | Núi | Biển | Sông | Sa mạc
+山 (やま) | Biển | Cánh đồng | Núi | Sông
+花 (はな) | Rễ | Lá | Hoa | Cỏ
+天気 (てんき) | Nhiệt độ | Độ ẩm | Thời tiết | Áp suất
+雨 (あめ) | Nắng | Tuyết | Mưa | Gió
+雪 (ゆき) | Sương mù | Mưa | Tuyết | Mưa đá
+風 (かぜ) | Mưa | Nắng | Gió | Mây
+晴れ (はれ) | Mây | Tuyết | Nắng/Trời quang | Mưa
+曇り (くもり) | Nắng | Gió | Nhiều mây/U ám | Mưa
+北 (きた) | Phía Đông | Phía Nam | Phía Bắc | Phía Tây
+南 (みなみ) | Phía Đông | Phía Bắc | Phía Nam | Phía Tây
+東 (ひがし) | Phía Tây | Phía Bắc | Phía Đông | Phía Nam
+西 (にし) | Phía Đông | Phía Nam | Phía Tây | Phía Bắc
+右 (みぎ) | Đằng sau | Bên trái | Bên phải | Đằng trước
+左 (ひだり) | Bên phải | Ở giữa | Bên trái | Bên cạnh
+前 (まえ) | Bên trên | Đằng sau | Đằng trước | Bên dưới
+後ろ (うしろ) | Ở trong | Đằng trước | Đằng sau | Bên cạnh
+隣 (となり) | Đối diện | Phía trên | Bên cạnh | Phía dưới
+近く (ちかく) | Ở ngoài | Ở xa | Ở gần | Ở giữa
+外 (そと) | Phía trên | Bên trong | Bên ngoài | Phía dưới
+中 (なか) | Bên ngoài | Phía sau | Bên trong | Phía trước
+間 (あいだ) | Phía tây | Phía đông | Ở giữa | Bên cạnh
+そば (そば) | Trong | Trên | Gần/Cạnh bên | Xa
+テーブル (てーぶる) | Cái tủ | Cái ghế | Cái bàn | Cái rèm
+ベッド (べっど) | Cái bàn | Cái kệ | Cái giường | Cái gối
+ポスト (ぽすと) | Thùng rác | Biển báo | Hòm thư | Cột điện
+スイッチ (すいっち) | Ổ cắm | Dây điện | Công tắc | Bóng đèn
+ドア (どあ) | Tường | Cửa sổ | Cửa chính | Trần nhà
+石鹸 (せっけん) | Bàn chải | Khăn mặt | Xà phòng | Kem đánh răng
+封筒 (ふうとう) | Tem | Giấy viết thư | Phong bì | Bút mực
+写真 (しゃしん) | Tờ báo | Tạp chí | Bức ảnh | Bức tranh
+映画 (えいが) | Thể thao | Âm nhạc | Phim ảnh | Hội họa
+映画館 (えいがかん) | Nhà hát | Thư viện | Rạp chiếu phim | Công viên
+テニス (てにす) | Bóng đá | Cầu lông | Quần vợt | Bóng chuyền
+サッカー (さっかー) | Bơi lội | Chạy bộ | Bóng đá | Bóng chày
+泳ぎ (およぎ) | Việc nhảy | Việc leo núi | Việc bơi lội | Việc chạy bộ
+歌 (うた) | Điệu nhảy | Bức tranh | Bài hát | Bài thơ
+ギター (ぎたー) | Trống | Kèn | Đàn ghi-ta | Đàn piano
+ニュース (にゅーす) | Phim truyện | Ca nhạc | Tin tức | Quảng cáo
+パーティー (ぱーてぃー) | Buổi học | Cuộc họp | Bữa tiệc | Chuyến đi
+カレー (かれー) | Món súp | Món cơm | Món cà ri | Món mì
+パン (ぱん) | Cơm | Sữa | Bánh mì | Trứng
+肉類 (にくるい) | Các loại cá | Các loại quả | Các loại thịt | Các loại rau
+休み (やすみ) | Ngày làm việc | Ngày Tết | Ngày nghỉ | Ngày lễ
+旅行 (りょこう) | Làm việc | Dọn dẹp | Du lịch | Học tập
+宿題 (しゅくだい) | Tài liệu | Sách vở | Bài tập về nhà | Bài kiểm tra
+テスト (てすと) | Bài giảng | Kỳ nghỉ | Bài kiểm tra | Buổi họp
+質問 (しつもん) | Ý kiến | Câu trả lời | Câu hỏi | Lời chào
+答え (こたえ) | Ví dụ | Câu hỏi | Câu trả lời | Bài tập
+例 (れい) | Kết quả | Lý do | Ví dụ | Bài tập
+番 (ばん) | Tên | Địa chỉ | Số/Số thứ tự | Tuổi
+次 (つぎ) | Cuối cùng | Vừa rồi | Tiếp theo | Trước đây
+一番 (いちばん) | Bình thường | Thứ hai | Nhất/Số 1 | Cuối cùng
+どっち (どっち) | Tại sao | Khi nào | Phía nào/Cái nào | Ai
+こっち (こっち) | Phía đó | Đằng kia | Phía này | Phía kia
+そっち (そっち) | Phía này | Đằng này | Phía đó | Phía kia
+あっち (あっち) | Ở đây | Phía này | Phía kia | Phía đó
+向こう (むこう) | Phía dưới | Bên cạnh | Phía đối diện | Phía sau
+意味 (いみ) | Cách đọc | Âm thanh | Ý nghĩa | Cách viết
+字 (じ) | Màu sắc | Âm thanh | Chữ/Ký tự | Hình ảnh
+漢字 (かんじ) | Chữ cứng | Chữ mềm | Hán tự | Chữ la tinh
+ローマ字 (ろーまじ) | Số | Chữ Hán | Chữ La-mã | Chữ Nhật
+文法 (ぶんぽう) | Hội thoại | Phát âm | Ngữ pháp | Từ vựng
+言葉 (ことば) | Bài văn | Chữ viết | Từ vựng/Lời nói | Ngữ pháp
+授業 (じゅぎょう) | Cuộc họp | Buổi tiệc | Giờ học | Kỳ nghỉ
+講義 (こうぎ) | Bài tập | Bài thi | Bài giảng | Sách
+練習 (れんしゅう) | Thi đấu | Nghỉ ngơi | Luyện tập | Bỏ cuộc
+復習 (ふくしゅう) | Nghỉ ngơi | Kiểm tra | Ôn tập | Học mới
+予習 (よしゅう) | Đi chơi | Đi ngủ | Chuẩn bị bài mới | Ôn bài cũ
+辞書 (じしょ) | Vở | Tạp chí | Từ điển | Sách giáo khoa
+ページ (ぺーじ) | Quyển sách | Bìa sách | Trang (sách) | Dòng chữ
+紙 (かみ) | Thước | Tẩy | Giấy | Bút
+鉛筆 (えんぴつ) | Phấn | Bút bi | Bút chì | Bút máy
+ボールペン (ぼーるぺん) | Cục tẩy | Bút chì | Bút bi | Thước kẻ
+消しゴム (けしごむ) | Thước kẻ | Cuốn sổ | Cục tẩy | Cái bút
+万年筆 (まんねんひつ) | Bút màu | Bút sáp | Bút máy | Bút chì
+文章 (ぶんしょう) | Tiêu đề | Từ đơn | Đoạn văn | Chữ cái
+作文 (さくぶん) | Bài toán | Bản vẽ | Bài tập làm văn | Bài hát
+習います (ならいます) | Dạy | Nhớ | Học | Quên
+教えます (おしえます) | Học | Chơi | Dạy/Chỉ bảo | Ngủ
+頼みます (たのみます) | Giúp đỡ | Từ chối | Nhờ vả | Cho phép
+貸します (かします) | Mượn | Lấy | Cho mượn | Trả
+借ります (かりる) | Cho mượn | Thuê | Mượn | Trả
+返します (かえします) | Giữ lại | Lấy đi | Trả lại | Vứt đi
+渡します (わたします) | Mất | Nhận lấy | Đưa cho/Trao cho | Cất đi
+脱ぎます (ぬぎます) | Giặt (đồ) | Mặc (đồ) | Cởi (đồ) | Mua (đồ)
+履きます (はきます) | Quàng (khăn) | Đeo (kính) | Đi (giày/dép) | Đội (mũ)
+差します (さします) | Đội (mũ) | Mặc (áo) | Che (ô) | Đeo (nhẫn)
+勤めます (つとめます) | Nghỉ ngơi | Học tập | Làm việc/Công tác | Đi chơi
+働きます (はたらきます) | Chơi | Nghỉ ngơi | Làm việc | Ngủ
+休みます (やすみます) | Học bài | Chạy bộ | Nghỉ ngơi | Làm việc
+終わります (おわります) | Tiếp tục | Đang làm | Kết thúc | Bắt đầu
+始まります (はじまります) | Hoàn thành | Kết thúc | Bắt đầu | Dừng lại
+上がります (あがります) | Chạy | Dừng lại | Tăng lên/Đi lên | Giảm xuống
+下がります (さがります) | Nhảy | Đứng yên | Giảm xuống/Đi xuống | Tăng lên
+降ります (ふります) | Thổi | Nắng | Rơi (mưa/tuyết) | Bay
+吹きます (ふきます) | Rơi | Cháy | Thổi (gió) | Ngừng
+消えます (きえます) | Bật lên | Sáng | Bị tắt/Biến mất | Xuất hiện
+点きます (つきます) | Hỏng | Tắt | Sáng/Được bật | Cũ
+並びます (ならびます) | Đứng | Ngồi | Xếp hàng | Chạy
+並べます (ならべます) | Vứt bỏ | Lấy ra | Sắp xếp | Tìm kiếm
+入れます (いれます) | Đóng lại | Bỏ đi | Cho vào | Lấy ra
+出します (だします) | Cất đi | Nhận vào | Lấy ra/Nộp | Mở ra
+ずっと (ずっと) | Thỉnh thoảng | Một chút | Suốt/Hơn nhiều | Vừa mới
+もっと (もっと) | Đủ rồi | Không cần | Hơn nữa | Ít hơn
+ゆっくり (ゆっくり) | Ngay lập tức | Nhanh | Thong thả/Chậm | Vội vã
+すぐに (すぐに) | Một lát sau | Ngày mai | Ngay lập tức | Sau này
+早く (はやく) | Muộn | Thong thả | Nhanh/Sớm | Chậm
+遅く (おそく) | Ngay | Sớm | Chậm/Muộn | Nhanh
+大体 (だいたい) | Không chút nào | Chính xác | Đại khái/Khoảng | Hoàn toàn
+たくさん (たくさん) | Không có | Một chút | Nhiều | Ít
+少し (すこし) | Toàn bộ | Rất nhiều | Một ít/Một chút | Không có gì
+全然 (ぜんぜん) | Thỉnh thoảng | Thường xuyên | Hoàn toàn không | Rất nhiều
+おじいさん (おじいさん) | Bố | Mẹ | Ông (nói chung) | Bà
+おばあさん (おばあさん) | Cô | Ông | Bà (nói chung) | Chú
+お父さん (おとうさん) | Bố mình | Ông mình | Bố (gọi người khác) | Anh mình
+お母さん (おかあさん) | Chị mình | Mẹ mình | Mẹ (gọi người khác) | Bà mình
+お兄さん (おにいさん) | Em mình | Chú mình | Anh trai (người khác) | Anh mình
+お姉さん (おねえさん) | Chị mình | Cô mình | Chị gái (người khác) | Em mình
+弟 (おとうと) | Chị gái | Anh trai | Em trai (mình) | Em gái
+妹 (いもうと) | Chị gái | Em trai | Em gái (mình) | Anh trai
+兄弟 (きょうだい) | Bố mẹ | Vợ chồng | Anh chị em | Con cái
+両親 (りょうしん) | Anh em | Ông bà | Bố mẹ | Cô chú
+奥さん (おくさん) | Chồng mình | Chồng người khác | Vợ (người khác) | Vợ mình
+主人 (しゅじん) | Trưởng phòng | Vợ mình | Chồng (mình) | Giám đốc
+家内 (かない) | Bạn mình | Con mình | Vợ (mình) | Mẹ mình
+赤ちゃん (あかちゃん) | Người lớn | Học sinh | Em bé | Người già
+建物 (たてもの) | Công viên | Con đường | Tòa nhà | Cây cối
+アパート (あぱーと) | Khách sạn | Văn phòng | Căn hộ | Nhà riêng
+エレベーター (えれべーたー) | Cửa sổ | Cầu thang | Thang máy | Lối ra
+エスカレーター (えすかれーたー) | Thang máy | Cửa tự động | Thang cuốn | Hành lang
+台所 (だいどころ) | Phòng khách | Phòng tắm | Nhà bếp | Nhà vệ sinh
+お手洗い (おてあらい) | Lối vào | Nhà kho | Nhà vệ sinh | Phòng ngủ
+玄関 (げんかん) | Phòng ăn | Ban công | Lối vào/Sảnh | Sân thượng
+庭 (にわ) | Căn phòng | Mái nhà | Cái sân/Vườn | Tầng hầm
+壁 (かべ) | Trần nhà | Cửa ra vào | Bức tường | Sàn nhà
+天井 (てんじょう) | Cửa | Sàn | Trần nhà | Tường
+石 (いし) | Ngọn núi | Dòng sông | Hòn đá | Bầu trời
+池 (いけ) | Thác | Suối | Cái ao | Biển
+湖 (みずうみ) | Đại dương | Ao | Hồ nước | Sông
+星 (ほし) | Mặt trời | Mặt trăng | Ngôi sao | Trái đất
+太陽 (たいよう) | Đám mây | Gió | Mặt trời | Ngôi sao
+空気 (くうき) | Lửa | Đất | Không khí | Nước
+地図 (ちず) | Cuốn sách | Bức tranh | Bản đồ | Tờ báo
+切手 (きって) | Danh thiếp | Phong bì | Tem | Thư
+葉書 (はがき) | Vở | Tạp chí | Bưu thiếp | Thư
+荷物 (にもつ) | Quà tặng | Thư | Hành lý | Đồ ăn
+道具 (どうぐ) | Đồ ăn | Quần áo | Dụng cụ | Đồ chơi
+掃除機 (そうじき) | Tivi | Máy giặt | Máy hút bụi | Tủ lạnh
+洗濯機 (せんたくき) | Điều hòa | Máy sấy | Máy giặt | Lò nướng
+布団 (ふとん) | Cái gối | Cái giường | Cái chăn/đệm | Cái chiếu
+石鹸 (せっけん) | Bàn chải | Kem đánh răng | Xà phòng | Khăn mặt
+鏡 (かがみ) | Cái bàn | Cái ghế | Cái gương | Cái lược
+病気 (びょうき) | Thuốc | Nghỉ ngơi | Bệnh tật | Khỏe mạnh
+薬 (くすり) | Đồ uống | Kẹo | Thuốc | Thức ăn
+風邪 (かぜ) | Nhức đầu | Đau bụng | Cảm cúm | Gãy tay
+熱 (ねつ) | Lạnh | Ngứa | Sốt | Đau
+痛い (いたい) | Thích | Vui | Đau | Buồn
+体 (からだ) | Đầu | Chân | Cơ thể | Tay
+肩 (かた) | Cổ | Lưng | Vai | Ngực
+背中 (せなか) | Ngực | Bụng | Lưng | Vai
+お腹 (おなか) | Tay | Đầu | Bụng | Chân
+指 (ゆび) | Đầu gối | Móng tay | Ngón tay | Khuỷu tay
+脱ぎます (ぬぎます) | Phơi | Giặt | Cởi (đồ) | Mặc
+履きます (はきます) | Thắt | Đội | Đi (giày/tất) | Đeo
+浴びます (あびます) | Ăn | Ngủ | Tắm | Rửa
+洗います (あらいます) | Viết | Cắt | Rửa/Giặt | Vẽ
+拭きます (ふきます) | Rửa | Đổ | Lau chùi | Quét
+置きます (おきます) | Lấy | Vứt | Đặt/Để | Tìm
+運びます (はこびます) | Mua bán | Dừng lại | Vận chuyển | Chờ đợi
+勤めます (つとめます) | Đi chơi | Học tập | Làm việc | Nghỉ ngơi
+働きます (はたらきます) | Đi dạo | Chạy bộ | Làm việc | Nghỉ ngơi
+休みます (やすみます) | Đi bộ | Làm việc | Nghỉ ngơi | Học tập
+遊びます (あそびます) | Làm | Học | Chơi | Ngủ
+呼びます (よびます) | Nghe | Nói | Gọi | Nhìn
+歌います (うたいまず) | Vẽ | Nhảy | Hát | Viết
+踊ります (おどります) | Bơi | Hát | Nhảy múa | Chạy
+弾きます (ひきます) | Hát | Đánh | Chơi (đàn) | Thổi
+吹きます (ふきます) | Rơi | Cháy | Thổi | Ngừng
+貸します (かします) | Lấy | Mượn | Cho mượn | Trả
+借ります (かりる) | Trả | Thuê | Mượn | Cho mượn
+返します (かえします) | Giữ lại | Lấy đi | Trả lại | Vứt đi
+渡します (わたします) | Nhận lấy | Cất đi | Trao cho | Làm mất
+大切 (たいせつ) | Rẻ tiền | Xấu xí | Quan trọng | Vô dụng
+丈夫 (じょうぶ) | Hỏng | Cũ | Bền/Chắc | Yếu
+危険 (きけん) | Sạch sẽ | An toàn | Nguy hiểm | Vui vẻ
+残念 (ざんねn) | Hạnh phúc | Vui vẻ | Đáng tiếc | May mắn
+心配 (しんぱい) | Tự tin | Vui mừng | Lo lắng | Yên tâm
+無理 (むり) | Bình thường | Dễ dàng | Quá sức | Đơn giản
+下手 (へた) | Giỏi | Nhanh | Kém/Dở | Chậm
+上手 (じょうず) | Nhanh | Kém | Giỏi | Chậm
+得意 (とくい) | Ghét | Sợ | Đắc ý/Mạnh | Yếu
+苦手 (にがて) | Thích | Muốn | Kém/Yếu | Giỏi
+多分 (たぶん) | Chắc chắn | Luôn luôn | Có lẽ | Không bao giờ
+きっと (きっと) | Không biết | Có thể | Chắc chắn | Hình như
+本当に (ほんとうに) | Có lẽ | Giả vờ | Thật sự | Không hẳn
+大体 (だいたい) | Luôn luôn | Hoàn toàn | Đại khái | Chính xác
+全然 (ぜんぜん) | Thường xuyên | Thỉnh thoảng | Hoàn toàn không | Rất nhiều
+時々 (ときどき) | Luôn luôn | Không bao giờ | Thỉnh thoảng | Thường xuyên
+毎日 (まいにち) | Mỗi tuần | Mỗi năm | Mỗi ngày | Mỗi tháng
+毎週 (まいしゅう) | Mỗi tháng | Mỗi ngày | Mỗi tuần | Mỗi giờ
+毎月 (まいつき) | Mỗi năm | Mỗi ngày | Mỗi tháng | Mỗi tuần
+毎年 (まいとし/まいねん) | Mỗi ngày | Mỗi tuần | Mỗi năm | Mỗi tháng
+ずっと (ずっと) | Một chút | Thỉnh thoảng | Suốt/Mãi | Vừa mới
+初めて (はじめて) | Luôn luôn | Lần cuối cùng | Lần đầu tiên | Thỉnh thoảng
+また (また) | Luôn luôn | Chưa | Lại/Hẹn gặp lại | Đã xong
+もう一度 (もういちど) | Bắt đầu | Kết thúc | Một lần nữa | Lần đầu
+ゆっくり (ゆっくり) | Nhanh | Ngay lập tức | Thong thả | Vội vã
+すぐに (すぐに) | Một lát | Ngày mai | Ngay lập tức | Sau này
+一緒に (いっしょに) | Một mình | Khác nhau | Cùng nhau | Riêng lẻ
+別々に (べつべつに) | Cùng nhau | Giống nhau | Riêng biệt | Mọi người
+大変 (たいへん) | Dễ dàng | Rảnh rỗi | Vất vả | Vui vẻ
+面白い (おもしろい) | Buồn chán | Đáng sợ | Thú vị | Khó
